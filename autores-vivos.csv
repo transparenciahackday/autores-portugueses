@@ -1,0 +1,4086 @@
+; Arquimedes da Silva Santos
+; Joaquim Braga
+; Alberto Artur Mendes
+; António Marino Gonçalves Coelho
+; Joaquim Cerqueira Gonçalves
+; Ofélia Guimarães
+; Miguel Ángel Vasquez
+; Fernando Pinto do Amaral
+; António Guerreiro
+; Inês Pedrosa
+; Alexandra Lucas Coelho
+; Linda Santos Costa
+; Bruno Cessole
+; Helena Barbas
+; António Carvalho
+; Abel Barros Baptista
+; Fátima Maldonado
+; Robert Bréchon
+; Miguel Real
+; Rita Taborda Duarte
+; Lúcia Castello Branco
+; Harold Bloom
+; Manuel Vázquez Montálban
+; George Steiner
+; Ilan Stavas
+; Anthony Hyde
+; Olivier Rolin
+; Josyane Savigneau
+; Patrick Kéchichian
+; Luciana Stegagno-Picchio
+; Antoine de Gaudemar
+; Nicole Zand
+; Manoel de Oliveira
+; Jorge Alves Osório
+; Carlos Reis
+; Alberto Martins de Carvalho
+; Maria Augusta Pereira de Eça de Alpoim
+; Joaquim Marrão
+; Maurício de Almeida Gomes
+; Victor Manuel Ganda Evaristo
+; António Nicolau Gracias Pereira
+; Homero
+; Vítor M. Matias Ferreira
+; Ruben Fonseca
+; Ana Paula Menino Avelar
+; George Le Gentil
+; José António de Magalhães
+; M. A. Guerra Leal
+; Ferreira da Costa
+; Martim Moya (Ou Moxa)
+; Ivone Ruivo Guieiro
+; Tito Castelo Branco Arantes
+; José Travaços Santos
+; Sara Tiago
+; João Maria Vilanova
+; Faria de Almeida
+; Maria Brites
+; Leonel Cosme
+; Fernando Magro
+; Maria da Conceição Quintas
+; Maria Manuela Brazette
+; Serafim Ferreira
+; Bernardo de Madureira
+; Isabel Leite
+; Almeida Faria
+; Alberto Pimenta
+; Boaventura de Sousa Santos
+; Álvaro Magalhães
+; Paula Amaral
+; Manuela Bacelar
+; João Machado
+; Bayard Christ
+; Manuel Gusmão
+; Marco Reynolds
+; Luís Rosa
+; Joana Ruas
+; Hugo Santos
+; João Coelho dos Santos
+; Arnaldo Saraiva
+; João Manuel Simões
+; Luísa Ducla Soares
+; Altino do Tojal
+; António Torrado
+; Adelino Torres
+; Cláudio Torres
+; Luz Videira
+; Rui Vilar
+; Cristóvão de Aguiar
+; Eleutério Aguiar
+; António Victorino de Almeida
+; Natália de Almeida
+; Manuel Isidro Araújo Alves
+; Artur Anselmo
+; Arlindo Barbeitos
+; João Barrento
+; Pedro de Brito
+; Manuel Villaverde Cabral
+; Isabel do Carmo
+; Alberto Pereira de Castro
+; Yvette Centeno
+; Idália Sá Chaves
+; Arselino Correia
+; Iva Delgado
+; António Dias Farinha
+; Carlos da Fonseca
+; Francisco Fragoso
+; Teolinda Gersão
+; Maria de Lourdes Hortas
+; Arthur Ligne
+; Modesto Martins Lopes
+; Álvaro Manuel Machado
+; J. Gonçalves Monteiro
+; Carlos Moura
+; Filipe Neiva
+; António Nova
+; Agostinho de Almeida Santos
+; Isabel Ary dos Santos
+; Laureano Santos
+; Armando Pereira da Silva
+; Francisco Ribeiro da Silva
+; Maria Luísa Soares
+; J. O. Travanca Rego
+; José Vale
+; José Carlos de Vasconcelos
+; José Vaz
+; Ramiro Teixeira
+; Armando Moreno
+; Jorge Sampaio
+; Pe. António Furtado de Mendonça
+; Cardoso de Bethencourt
+; Luís  de Oliveira Nunes
+; D. Diogo de Almeida
+; Gil Vicente
+; Frei Nicolau Vieira
+; Pêro Gomes Barroso
+; João Mendes de Briteiros
+; D. Vasco
+; D. Afonso Sanches
+; D. Gonçalo Coutinho
+; Pe. António Delicado
+; Diogo de Melo
+; Francisco Simões Margiochi
+; A. Lopes Cardoso
+; Virgínia Nuno Vilar
+; Aleixo Manuel da Costa
+; Luís Ribeiro de Sotomaior
+; Adriana Guimarães
+; Ernesto Cibrão
+; Eduardo Augusto de Magalhães Freire
+; João Rebelo Cardoso de Meneses
+; Joaquim Maria da Silva
+; Morais Lopes
+; António José Maldonado
+; Epitácio Pais
+; Augusto José Mendes
+; Natércia Couto
+; Miguel Botelho de Carvalho
+; Frei Sebastião Manrique
+; Frei Diogo das Chagas
+; Baltasar Estaço
+; D. Gonçalo Coutinho
+; Frei Pedro Calvo
+; Luís Pereira Brandão
+; Frei Sebastião de Santo António
+; Frei Pedro de Jesus Maria José
+; Manuel José de Paiva
+; Félix José da Costa
+; Frei Jerónimo de Belém
+; João Cardoso da Costa
+; João Vaz
+; Fernando Alves dos Santos
+; Ana Maria Amaro
+; Nídia Arrais Horta Antunes
+; Jorge Cabral Araújo
+; Diamantino Duarte Baltazar
+; Fernando Miguel Bernardes
+; Carlos Faria
+; Manuel Gama
+; Fernando Cristóvão
+; Sebastião José de Sousa Diniz
+; Fernando Echevarría
+; Maria Aliete Galhoz
+; José Júlio Gonçalves
+; Maria Madalena Férin
+; Maria Lucília Marques Folha
+; Frei Doutor Aires Gameiro
+; Fernando Guedes
+; Dick Haskins
+; Clodoveu Gil
+; Lourenço Gonçalves
+; Ana Hatherly
+; Eduardo de Lacerda
+; Leonoreta Leitão
+; Ester de Lemos
+; Joaquim Matos
+; Maria Leonilde
+; Vasco Rodrigo Lobo
+; António da Cruz Afonso do Paço
+; Fernando Lopes
+; João Francisco Marques
+; Glória Marreiros
+; Ilda Pinto Ribeiro
+; Júlio Roberto
+; Isabel Meireles
+; Fernando Reino
+; Fernando Ilharco Morgado
+; Américo do Couto Oliveira
+; Veiga Simão
+; Cassilda Celso Soares
+; Manuel Sousa
+; Pedro Proença
+; Rui Azul
+; Jaime Isidoro
+; Britta Nielsen
+; Jorge Braga
+; Isabel Violante Picon
+; Margarida Ledo
+; Maria Xosé Fernández
+; Maria Fernanda Borges
+; Odette Margaritescu
+; António Tabucchi
+; Maria José de Lancastre
+; Marianne Eyre
+; Peer Sibast
+; Sanna Pernu
+; Eduardo Peres
+; Eduardo Pedroso Rodrigues
+; José Joaquim da Silva Pereira Caldas
+; João de Lobeira
+; D. Pedro de Almeida
+; D. Rodrigo de Castro, o de Monsanto
+; Antoni Planells
+; Pina Prata
+; Alfredo Rosário Rodrigues
+; Mário Soares
+; Maria do Carmo Rodrigues
+; Fernando Luso Soares
+; Teobaldo Virgínio
+; Maria Teresa Vale
+; Pe. Aníbal Rodrigues
+; Naríade Galvão
+; Pe. Francisco Videira Pires
+; João Antunes Varela
+; Maria Antunes Vieira
+; Leonel Augusto de Almeida Abrantes
+; Hortense de Almeida
+; Fernando Pacheco de Amorim
+; Fernando Rodrigues Barragão
+; Francisco Alves da Costa
+; Mário Alberto Nunes Costa
+; Silva Cunha
+; Artur Nobre de Gusmão
+; Deolinda Maria José Correia Mateus
+; Maria Almira Medina
+; António Pinho
+; Carlos Alberto Garcia
+; Fernando Graça e Silva
+; Martin Heidegger
+; João Jardim de Vilhena
+; Fernão Froiaz
+; Maria Lúcia Silva Rosa
+; Afonso Eduardo Martins Zúquete
+; José Diogo Cabrita
+; António Cacho
+; João Mota de Campos
+; Luís Arouca
+; D. Manuel de Almeida Trindade
+; Margarida de Abreu
+; Guedes da Silva
+; Deodato Pires
+; Lolita Ramirez
+; Helder Ferreira Travado
+; João Veloso
+; Pe. Carlindo Vieira
+; Alberto Vilaça
+; António Augusto Tavares
+; Marcelino dos Santos
+; Maria do Carmo Pinheiro Torres
+; Carlos Neves D' Alge
+; José Miguel Ramos de Almeida
+; Fernando Alvarenga
+; Maria da Conceição Campos
+; António da Silva Carriço
+; J. Rentes de Carvalho
+; Maria do Céu Carvalho
+; Eduarda Chiote
+; Alberto Vasco Rodrigues Codeço
+; Carlos Gouveia
+; José Maria da Silva Couto
+; M. Macedo Faria
+; Correia da Fonseca
+; Elsa Gonçalves
+; Herberto Helder
+; Sebastião de Lorena
+; Jaime Gralheiro
+; José Guimarães
+; Maria do Pilar Figueiredo
+; Eugénio Lisboa
+; Maria Alberta Menéres
+; Júlio Moreira
+; Francisco de Queirós
+; Arsénio Mota
+; José Vítor Rangel
+; Maria de Lurdes Modesto
+; Eduardo dos Santos
+; António Emílio Sacchetti
+; Henrique Segurado
+; Josué da Silva
+; Susete Viegas
+; Zulmira Oliva
+; José Rodrigues Palhas
+; Kjell Risvik
+; Dieter Offenhauser
+; Dejan Stankovic
+; Maria Alzira Seixo
+; Geneviève Leibrich
+; Richard Zenith
+; González Deus
+; Gregory Rabassa
+; Yves Coleman
+; Maralde Meyer-Minnemann
+; Michelle Giudicelli
+; Olinda Kleiman
+; Hélder Lourenço
+; Bernhard Sylla
+; Vítor Moura
+; Mário da Silva Brito
+; Vittorio Martinetto
+; Ole Eistrup
+; Carlos Baptista
+; Rosi Bettermann
+; Rainer Bettermann
+; Basilio Losada
+; Rodolfo Alpízar
+; Rita Desti
+; Bogdanovskogo .
+; N. Malyhinoj
+; Andreas Klotsch
+; Zdravka Naidenova
+; Josep Daurella
+; Fan Wei Xin
+; Mone Hvass
+; Miroslav Lenghardt
+; Pirjo Suomalainen Pedrosa
+; Eugenia Alexios
+; Miriam Tivon
+; Laura Lukács
+; Giovanni Pontiero
+; Carmen Radulet
+; Elzbieta Milewska
+; Mioara Caragea
+; Lúcia Tiago Stankovic
+; Victor Martínez Gil
+; Peter Poulsen
+; Claude Fages
+; Székely Ervin
+; Christian Rugstad
+; Jyrki Lappi Seppälä
+; Mirela Stanciulescu
+; Joan Casas Fuster
+; Athina Psillia
+; Xavier Pàmies
+; Cesary Dlugsz
+; Hans Berggren
+; Kirjalainen Erkki
+; Erkki Kirjalainen
+; Pál Ferenc
+; Jordnaka Velínova do Nascimento
+; Sarita Brandt
+; Pilar del Río
+; Margaret Jull Costa
+; Dulce María Zúñiga
+; Giulia Lanciani
+; Albano Saraiva
+; Josep Lluís Sirera
+; Nicole Siganos
+; Oliveira San Payo
+; Luísa Sancho
+; Manuel Pinto Ferreira de Sousa
+; Álvaro Terreiro
+; Pedro Bom
+; Edmundo Cardoso
+; Joaquim Veríssimo Serrão
+; Maria José Alves Pereira da Silva
+; Vieira Simões
+; Humberto da Sylvan
+; Manuel Sousa Ventura
+; Vítor Manuel Lopes Vieira
+; Augusto Silva Reis Góis
+; Lúcio Craveiro da Silva
+; Maria da Conceição Nobre
+; Maria Adelaide Vitório
+; Albino Fernandes de Sá
+; Sátiro Silvino Sardinha
+; Celeste Andrade
+; Augusto do Souto Barreiros
+; Leonel Barros
+; Manuel Terremoto
+; Ana Lopes Vieira
+; Natividade Correia
+; Julieta Fatal
+; E. H. Serra Brandão
+; Parmananda R. Divarkar
+; Gustavo de Fraga
+; José Augusto França
+; Fernando Mendes Madeira
+; Rolando Moisão
+; Nuno Teotónio Pereira
+; Adriano Moreira
+; Alexandre Fradique Morujão
+; Nuno Moniz Pereira
+; Nuno Teixeira Neves
+; Vitor Manuel Palla e Carmo
+; Albertino Alves Pardinhas
+; José de Almeida Santos
+; Assunção da Silva
+; Diamantino Piloto
+; Gonçalo Ribeiro Teles
+; Fernando Torres
+; Manuel Breda Simões
+; Bernardino Amândio
+; António Simões Júnior
+; Maria Isabel de Mendonça Soares
+; Domenico Corradini Broussard
+; Maria Eduarda Alvelos
+; Isabel Allegro
+; Frank Heibert
+; Sara Cide Cabido
+; A.R. Reixa
+; Mary Fitton
+; Lucciana Stegagno Picchio
+; Irène de Koenders
+; Karin Von Shweder-Shreiner
+; Maartje de Kort
+; Natália Costa
+; Ronald W. Sousa
+; Anne Viennot
+; Casaba Márta
+; Alii .
+; Nicole Biros
+; Curt Meyer-Clason
+; Darinka Kirtcheva
+; Javier Casanova
+; Pavla Lidmilová
+; Robert Quemserat
+; Ilse Von Hellens
+; Catherine Barel
+; Rita Biscetti
+; Helena Czajka
+; Gudrun Holl
+; Irena Stefanova
+; Maria de Lourdes Agapito
+; António Mesquita Brehm
+; Arminda Martins Aleixo
+; João Baptista Coelho
+; Mário Almeida Costa
+; Luísa Dacosta
+; Djamba Dàllá
+; Frei Bento
+; Alfredo Bragança
+; Virgílio de Carvalho
+; Júlio Alberto da Costa Evangelista
+; José Fernandes Fafe
+; Eduardo Mayone Dias
+; Silva Madeira
+; Frei Pe. João Ferreira
+; Pedro Luzes
+; Clarisse Barata Sanches
+; Pacheco de Miranda Santos
+; Orlando Saraiva
+; Pedro Rocha
+; Ângela Sarmento
+; Luísa Martinez
+; António Coimbra Martins
+; J. J. Mendes
+; Yolanda Morazzo
+; Eduardo Abranches de Soveral
+; Leal Oliveira
+; João da Silva
+; António Domingos Pereira
+; Rui Ferreira Bastos
+; Maria Brandão
+; Homero Serpa
+; Mouro Serpa
+; A. Rego da Silva
+; Joaquim Ribeiro Simões
+; Miguel Barbosa
+; Raquel Soeiro de Brito
+; Vasco Callixto
+; Bento da Cruz
+; Maria Jorge Goes
+; Leonor Correia de Matos
+; Ester Luísa Dias
+; Gilberto Évora
+; Leonel Fabião
+; Hélio da Costa Ferreira
+; Pedro Soares Martinez
+; António Luís Moita
+; António Monginho
+; José Carlos Loureiro
+; Luiz de Macedo
+; Horácio Nogueira
+; Manuela Nogueira
+; Maria Helena da Rocha Pereira
+; Isabel da Nóbrega
+; Pe. Manuel Alves Pardinhas
+; Manoharrai L. Sardessai
+; António de Sousa Rosa
+; António de Jesus Madeira Santos
+; Nuno de Sampaio
+; H. R. Radian
+; Elena Riáuzova
+; Dorothy Seiffert
+; Rui Nunes
+; Ludwig Graf Von Schonfeldt
+; Elsa Gress
+; David Gress Wright
+; Vera Alves da Nóbrega
+; Monique Wittig
+; Eveline Le Carreo
+; Helen R. Lane
+; Elfriede Engelmayer
+; Manuel Frias Martins
+; Óscar Zarate
+; José Afonso Furtado
+; Teresa Dias Coelho
+; Carme Riera
+; Monserrat Roig
+; Luísa Costa Gomes
+; Outras .
+; José Tolentino de Mendonça
+; Albin Michel
+; Arie Pos
+; John Byrne
+; Jacek Plecinski
+; Vincenzo Barca
+; Carlo Vittorio Cattaneo
+; Ruggero Jacobbi
+; Jin Guo Ping
+; Wu Zhiliang
+; Xavier Moral
+; Francisco Cota Fagundes
+; James Houlihan
+; Jonathan Griffin
+; Cesar António Molina
+; Guiseppe Tavani
+; Isabel Alcalde
+; Denyse Chast
+; P.A. Jannini
+; Jorge Fazenda Lourenço
+; Stephen Reckert
+; Luciana Stegagno-Picchio
+; Ángel Crespo
+; Luís de Moura Sobral
+; Adelina Aletti
+; Rumen Stoyanov
+; Marie-Claire Vromans
+; Christine Robinson
+; Cesarina Donati
+; Franco Tortoreto
+; Fernanda Toriello
+; Madalena Starzycka
+; Ludek Kult
+; Marie Claire Wromans
+; George Monteiro
+; Enrico Cicogna
+; Janus Bruchnalski
+; Teresa Martins Marques
+; Maria João Reynaud
+; Jacinto Lageira
+; Bernard Noël
+; Georg Rudolf Lind
+; Isaac Alonso de Estravís
+; Françoise Debecker-Bardin
+; Lieselotte Kolanoske
+; Maria Hidiroglou
+; Maria Fernanda de Abreu
+; Jorge A. Andrade
+; Jacques Parsi
+; Roberto Vecchi
+; Vítor Aguiar e Silva
+; Maria Manuela Fernandes Ferreira
+; Anne Perrier
+; Manuel Perrier
+; Stefan Bitan
+; Teresa Veiga
+; Joaquim Manuel Magalhães
+; Ana Paula Patrão
+; Carlos Nejar
+; José António Llardent
+; Pilar Fernandéz Hernández
+; Ernesto García Cejas
+; Patrick Quillier
+; Ana Teresa Pereira
+; Rui Magalhães
+; Luísa Ferreira
+; D. João Soares de Paiva
+; Nuno Rodrigues de Canderey
+; Fernando Jorge Colaço
+; Autran Dourado
+; Marta Cristina de Araújo
+; Augusto Rodrigues
+; Eduardo Vasconcelos Moniz
+; Maria Luísa Antunes
+; Irene Borges Duarte
+; Abílio Alves Perfeito
+; Filipa Pedroso
+; Alexandre Franco de Sá
+; Carlos da Costa
+; Michel Laban
+; Ion Radu
+; Sidónia Pojarlieva
+; Jacques Fressard
+; Benyhe János
+; Desmond Bracelin
+; Arrigo Reppetto
+; Alexandre Castanheira
+; Maria Lígia Amaral
+; Sílvio Caldas
+; Manuel da Silva Castelo Branco
+; Mariano Calado
+; António Borges Coelho
+; Aurélio Fernando
+; Maria Ema Tarracha Ferreira
+; Paulo de Passos Figueiras
+; Ferreira da Cunha
+; Mons. Cón. José Geraldes Freire
+; Joaquim Ferreira Gomes
+; Fernando Guimarães
+; Maria Gilberta Fernanda
+; Eduíno de Jesus
+; Fernando Gonçalves Lavrador
+; Maria Lucília Lencart
+; Maria José Marinho
+; Maria Lucília Moita
+; Maria Amélia Marques Neto
+; Vasco Costa Marques
+; Maria Luzia Margalho
+; Gabriel Mariano
+; António Matias
+; Benjamin Enes Pereira
+; Rogério Martins
+; Maria Helena Prieto
+; Júlio Baptista Nunes
+; Ernesto Nunes
+; Henrique Rola da Silva
+; João Rui de Sousa
+; Adriano Vasco Rodrigues
+; Manuel de Oliveira Pulquério
+; Domingos Guimarães de Sá
+; Jorge Vila
+; Guilherme Afonso
+; Manuel Tavares de Almeida
+; Mário Martins de Almeida
+; Matias Lima
+; José Pinto Loureiro
+; Fernanda Matos e Silva Almeida
+; Paulino Montez
+; Leopoldo Nunes
+; Norberto Gonzaga
+; João de Lemos
+; Luís Saavedra Machado
+; João Constâncio
+; Almeida e Oliveira
+; E. M. de Melo e Castro
+; Joaquim Ramalho Claro
+; Manuel Córrego
+; Pedro Pezarat Correia
+; José Manuel Franco Carretas
+; Rodrigo Leal de Carvalho
+; António de Oliveira
+; Tito Olívio
+; Clara D' Ovar
+; António Candido
+; José Silveira Machado
+; Fernando Mendonça
+; Fernando de Seabra
+; Maurício Soares
+; Mário do Carmo Vaz
+; José Carlos Amado
+; Emília Amaral
+; Henrique do Amaral
+; Luís Amaro
+; Sebastião Mateus Arenque
+; Vivaldo Beldade
+; José Rafael Botelho
+; Violante do Canto
+; Manuela da Luz Chaplin
+; Ulisses Duarte
+; José Marques Elpídio
+; Maria de Lourdes de Freitas Ferraz
+; Margarida Figueiredo
+; Manuel Dias da Fonseca
+; Renata Gil
+; Júlio Margarido Carneiro Giraldes
+; Anastásio Bartolomeu Lourenço S. Ana Gomes
+; António Manuel Gonçalves
+; João Maia
+; Marcos Floro Moleiro
+; Augusto Soares de Moura
+; Fernando de Paços
+; Cristina Salgado
+; Albino Silva
+; Francisco de Vasconcelos e Sousa
+; César Teixeira
+; João Villares
+; Bárbara Virgínia
+; Álvaro Baltasar Alves
+; Gastão Matos
+; João Gomes de Abreu
+; Sebastião da Costa Cruz
+; Álvaro Leitão
+; Maria Lima
+; Maria Joana Mendes Leal
+; Alice de Oliveira
+; Maria Adelaide
+; Carlos Alves
+; João Pedro da Silva Tavares
+; Johann Wolfgang Goethe
+; Maria Idalina Resina Rodrigues
+; Abílio José Salgado
+; Anastásia Mestrinho Salgado
+; Manuel Ramiro Salgueiro
+; Urbino de Sampaio
+; Filipe Antunes dos Santos
+; Luís Bensaja Dei Schirò
+; Manuel Sérgio
+; Otilina Silva
+; Manuel Simões
+; Álvaro Siza
+; Eurico de Sousa
+; Inácio Steinhardt
+; Manohar Gonoxama Sinai Usgãocar
+; Maria Odette Cortes Valente
+; Cândido da Velha
+; Nelson Vilela
+; Manuel Xarepe
+; Jorge de Alarcão
+; Carlos Alegre
+; Alberto Navarro
+; Bego Montorio
+; Silvia Cavalieri
+; António Lobo Antunes
+; Pierre Léglise-Costa
+; Mario Merlino
+; Harrie Lemmens
+; Ray-Güde Mertin
+; Hélia Correia
+; Vlasta Macková
+; Alice R. Clemente
+; Eduardo Naval
+; João Botelho
+; Maria Priscila Soares
+; Maria Augusta Araújo
+; Maria Zulmira Albuquerque Furtado Marques
+; Hermínio Cunha Marques
+; Hermínio Martins
+; Florival Miguel
+; Belarmino Afonso
+; Alberto de Alarcão
+; Maria do Carmo de Almeida
+; Lourenço Alves
+; José Borlido de Carvalho Arieiro
+; Joaquim Arroja Júnior
+; Paula Assunção
+; José Martins Belinquete
+; Meira Burguete
+; José A. Palma Caetano
+; A. M. Galopim de Carvalho
+; Mário Emílio Bigotte Chorão
+; Manuel Filipe de Moura Coutinho
+; Manuel Dias
+; Ramiro Dutra
+; Joaquina Faleiro
+; Hirondino Fernandes
+; Raúl Hestnes Ferreira
+; Emílio Filipe
+; António de Macedo
+; António de Matos
+; Laura Militão
+; Maria Virgínia Monteiro
+; Rui Guilherme de Morais
+; Natividade Negreiros
+; Manuel Poças das Neves
+; Nuno Álvares Pereira Nozelos
+; António Martins Afonso
+; Miranda de Andrade
+; Armando Cardoso
+; Júlio Pomar
+; Manuel Amaral
+; Aida Toscano
+; Raul Castro
+; António Domingues
+; Carminda Maria dos Santos Faria
+; Raúl Gomes
+; Carlos da Costa
+; Maria Isabel Lúpi
+; José Ferreira Marques
+; Ana Rosa Monteiro
+; Natália Nunes
+; José Silva Marques Queirós
+; António Francisco Xavier Rodrigues
+; Mário Cristino da Silva
+; Carvalho Simões
+; Maria Augusta D' Alpoim
+; Leonor de Almeida
+; Salvador Alexandre
+; Eurico Lisboa
+; Carmo Noronha
+; Baptista Bastos
+; José Ruivinho Brazão
+; Maria Manuela de Figueiredo Campos
+; José Nunes Carreira
+; Carlos Garcia de Castro
+; João de Medeiros Constância
+; João Gonçalves da Costa
+; Lia Viegas
+; Pe. Manuel Gonçalves da Costa
+; Amílcar Goulart
+; Domingos Mascarenhas
+; Amália da Proença Norte
+; João Carlos
+; António Duarte de Almeida e Carmo
+; Honorinda Cerveira
+; Ofir Chagas
+; Salvador Coutinho
+; Liberto Cruz
+; Manuel José Ferreira Dias
+; Francisco Dinis
+; Manuel dos Santos Lima
+; Maria Eugénia Lima
+; Rui de Abreu de Lima
+; Luiz-Manuel
+; Helder Macedo
+; Henrique Madeira
+; Armando A. Rocha Marques
+; Helena Marques
+; Manuel Granjo de Matos
+; Custódio Ubaldino Miranda
+; Amaro Monteiro
+; Manuel Artur de Fraga Norton
+; Maria Margarida Gama de Oliveira
+; Maria Cândida Monteiro Pacheco
+; António Silva Pinto
+; Mário Dias Ramos
+; Carlos Vieira Reis
+; Palma Rodrigues
+; Alberto Sampaio
+; Ernesto Sampaio
+; Arnaldo Santos
+; Maria de Lourdes Lima dos Santos
+; António Maria Ferreira da Silva
+; Onésimo Silveira
+; José Luandino Vieira
+; Rafael Agostinho
+; Manuel Alegre
+; Aníbal Almeida
+; Silva Araújo
+; Norberto Ávila
+; Ana Maria Botelho
+; Otelo Saraiva de Carvalho
+; João Malaca Casteleiro
+; Isabel Vilares Cepeda
+; Pe. Jaime Coelho
+; Júlio Conrado
+; Emmanuel Correia
+; Dolores Costa
+; Manuel Pereira da Costa
+; Mário Simões Dias
+; José Ferraz Diogo
+; José Maria Fonseca Domingos
+; Maria Teresa Estrela
+; Emanuel Félix
+; Maria José Fraqueza
+; Pedro Jorge
+; Vasco José
+; João Correia Afonso
+; Natividade Maria Pais de Almeida
+; Artur Alvarães
+; Beckert de Assunção
+; Manuel Fernandes Costa
+; Fernando Campos
+; Carlos Cristóvão
+; José Enes
+; Bernardete Falcão
+; Anacleto de Magalhães Fernandes
+; Amadeu Ferreira
+; Nuno Miranda
+; José Caré
+; Frei Nuno Filipe
+; J. Santos Simões
+; Anthony D' Costa
+; Carlos Abreu
+; Maria da Piedade Guerreiro Alexandre
+; Antero do Amaral
+; Ilídio do Amaral
+; Arnaldo Casimiro Anica
+; Maria Luísa Antunes
+; Manuel do Bem Barroca
+; Maria Armanda Tavares Belo
+; Bento Caldeira
+; Carlos Camacho
+; Pe. Manuel Cirne
+; António Domingues de Sousa Costa
+; Alfredo Diogo Júnior
+; Cruz Fernandes
+; Lagrifa Fernandes
+; Luís Eugénio Ferreira
+; Ascêncio de Freitas
+; Fernando Lemos
+; José da Costa Miranda
+; Mário Moreau
+; António Mendes Moreira
+; Manuel Jacinto Nunes
+; Augusto Rodrigues
+; Rodrigo Leal Rodrigues
+; António de Almeida Santos
+; Martins dos Santos
+; Manuel dos Santos Serra
+; Manuel Luciano da Silva
+; Vassanta Crisna Porobo Tambá
+; Luísa Manuel de Vilhena
+; Guilhermina de Azeredo
+; Arnaldo Melo
+; Eduardo Henriques Moreira
+; Pe. Firmino Augusto Martins
+; Isabel Ribeiro Monteiro
+; Humberto Baquero Moreno
+; Maria de Lourdes Brandão
+; João José Samouco da Fonseca
+; João Futre
+; Maria Teresa Galveias
+; Eurico Gonçalves
+; Francisco Carriço Goulão
+; Carlos Simão José
+; António Leitão
+; Manuel Machado
+; Carlos de Lima Magalhães
+; Albano Mendes de Matos
+; Luís Filipe Costa
+; Maria Velho da Costa
+; Idália Farinho Custódio
+; João Mendes Ferreira
+; Eurico de Figueiredo
+; Fernando Bento Gomes
+; Inês Sousa Gomes
+; António Custódio Gonçalves
+; Irene Gonçalves
+; Luís Horta
+; Manuel Lucena
+; Irene Lucília
+; Fernando J. B. Martinho
+; Marcelo Duarte Matias
+; A. Severo de Melo
+; João Paulo Monteiro
+; Ascensão Nunes
+; Mário Nunes
+; Armando da Câmara Pereira
+; Manuel Poppe
+; Luís Serrano
+; Maria Beatriz Nizza da Silva
+; Rocha de Sousa
+; José Correia Tavares
+; Tomás Taveira
+; Madalena Braz Teixeira
+; Maria Beatriz Rocha Trindade
+; Libertário Viegas
+; Manuela de Abreu
+; Fernando António Almeida
+; Adalberto Alves
+; António Barahona
+; Maria Isabel Barreno
+; Benúdia
+; Julião Bernardes
+; Madalena Botelho
+; Francisco Azevedo Brandão
+; Laura Fernanda Bulger
+; Fernando Cardoso
+; João David Pinto Correia
+; Alexandre Alves Costa
+; Helder Costa
+; Jaime Raposo Costa
+; Jorge Peixoto Coutinho
+; Pedro D'Orey da Cunha
+; António Teixeira Fernandes
+; José Guilherme Macedo Fernandes
+; Sá Flores
+; João Barroso da Fonte
+; Mário Furtado
+; Amadeu Teles Marques
+; José Alberto Marques
+; Maria Vitalina Leal de Matos
+; João Medina
+; José Maria Amado Mendes
+; Armor Pires Mota
+; Aires A. Nascimento
+; Júlia Nery
+; Vítor Pereira Neves
+; Rui Oliveira
+; Ramiro S. Osório
+; Maria Lucília Gonçalves Pires
+; Maria Manuela Cruzeiro
+; António Borges Cunha
+; Geraldo José Amadeu Coelho Dias
+; José Henrique Rodrigues Dias
+; Frei Bento Domingues
+; Mário Elias
+; Moisés Espírito Santo
+; Rosado Fernandes
+; Rita Iriarte
+; Jorge Correia Jesuíno
+; Alberto Alves de Sousa Lamy
+; Cunha de Leiradela
+; Luísa de Andrade Leite
+; Luís Lourenço
+; Pinho Neno
+; Maria Eugénia da Silva Neto
+; Francisco de Sousa Neves
+; Pietá
+; José Nuno Pereira Pinto
+; Nuno Portas
+; Abrantes Raposo
+; Cândido Augusto dos Santos
+; Inês Sarre
+; António Simões
+; Pedro Tamen
+; Marina Ramos Temudo
+; António Domingos Ventura
+; Manuel Viana
+; Manuel Vicente
+; Mário Vilela
+; Maria Zabeleta
+; Vítor Alves
+; Marília Loreto Coimbra
+; Nuno Álvares Mendonça
+; Theresa Schedel
+; Garcez da Silva
+; Pedro Alvelos
+; José Bacelar
+; Cármen de Figueiredo
+; F. da Costa Marques
+; Rosette Fernandes
+; Fernando Venâncio Peixoto da Fonseca
+; Pe. Júlio Vaz
+; José Luís Branco
+; J. M. Boavida Portugal
+; Cochat Osório
+; Andrée Crabbé Rocha
+; Maria Alice de Andrade Santos
+; António Maria da Silva
+; Cidália Afonso da Silva e Silva
+; Hortênsia Neves de Sousa
+; Joaquim Pegado Cardoso
+; Vasco Branco
+; António Bellini Jara
+; Fonseca Lobo
+; José Ramos Mendes
+; Manuela Odete Neves
+; Margarida Ofélia
+; César Pratas
+; Manuel Rodrigues
+; Manuel Augusto Rodrigues
+; António Augusto Sales
+; António Salvado
+; Vicente Sanches
+; Loureiro dos Santos
+; Caetano Valadão Serpa
+; José Luís Tavares
+; Mário Zambujal
+; Diogo Alcoforado
+; M. L. Rodrigues de Areia
+; Francisco Pinto Balsemão
+; Claudette Belchior
+; Eduardo Brazão Filho
+; Albino Ribeiro de Aguiar
+; Lourenço Heitor Chaves de Almeida
+; Maria Almeida
+; Joana Lopes Alves
+; Maria Henriqueta Correia Inverno de Sousa Amaral
+; Terêncio Anahory
+; Maria Helena Araújo
+; José de Oliveira Ascensão
+; José Conde Barroso
+; Vítor Crespo
+; Vimala Devi
+; Jorge Dias
+; Ilídio de Sousa Ribeiro
+; José Tavares Afonso e Cunha
+; Nicolau Firmino
+; Paula Morão
+; Manuel de Resende
+; Isaura Matias de Andrade
+; Reis Brasil
+; Pe. Joaquim Carreira
+; Heloísa Cid
+; José Dias Rato
+; Bernardete de Jesus de Castro Faria
+; Arlete Oliveira Guimarães
+; Noémia Setembro
+; Manuel Anselmo
+; Anne-Marie Quint
+; Maryvonne Boudoy
+; António Gallego Morell
+; Jaime Rocha
+; João de Oliveira
+; Fr. Baltasar de São João
+; Gonzalo de Macedo Sherman
+; Isabel Dias
+; Nicolau Grouchy
+; Helena Vaz da Silva
+; Inácio Rebelo de Andrade
+; Alfredo Antunes
+; Anídio Casals D' Azevedo
+; Óscar Soares Barata
+; Matias de Barros
+; Pe. Manuel Pires Bastos
+; Orlando João da Cruz Bica
+; José António Segurado e Campos
+; João Aniceto
+; Daniel Tércio
+; Amílcar Quaresma
+; Francisco Alberto Fortunato Queirós
+; B. S. Massey
+; Paulo Farmhouse Alberto
+; Abel do Nascimento Pena
+; Cesare Beccaria
+; José de Faria Costa
+; Anibal Armando Inocencio
+; Maria Alice A. M. Inocencio
+; Christian Gerthsen
+; Hans O. Kneser
+; Helmut Vogel
+; António P. Vale Urgueira
+; Ferdinand P. Beer
+; E. Russel Johnston Jr.
+; Noam Chomsky
+; Eduardo Paiva Raposo
+; Maria António Hörster
+; Renato Correia
+; Rainer Hess
+; George E. Moore
+; Maria Manuela Rocheta Santos
+; Isabel Pedro dos Santos
+; J. L. Pio Abreu
+; António Canhão
+; Maria Assunção Pato
+; Luís Marques
+; William A. Mackay
+; João da Providência Jr.
+; Torsten Fliessbach
+; Augusto Santos Silva
+; Paulo Renato Cardoso
+; Christiane Vandenplas-Holper
+; Américo Lindeza Diogo
+; Luís Mourão
+; Helena Malheiro
+; Rui Aragão
+; João Nuno Alçada
+; António Manuel Freire Valente
+; Eunice Cabral
+; José Augusto dos Santos Brás
+; Manuel Mengo
+; Alberto Oliveira Pinto
+; Maria do Céu de Menezes Moura
+; Carlos Gouveia e Melo
+; Risoleta Natálio
+; Odílio Nunes
+; António Sampaio Gomes
+; Margarida Fonseca Santos
+; José Vultos Sequeira
+; Maria Emília de Almeida Martins Ferreira
+; Catarina Fonseca
+; Graça Matos de Sousa
+; António Manuel dos Santos
+; José Lança Coelho
+; Augusto José Monteiro
+; Isabel Aguiar Barcelos
+; Sofia Belo
+; Carlos da Gama
+; Anabela Ferreira
+; Ana Patrício
+; António Ferreira
+; José Sinde Filipe
+; Luís Filipe de Castro Mendes
+; Paulo Teixeira
+; Gastão Cruz
+; António Franco Alexandre
+; Maria Filomena Molder
+; Nuno Nabais
+; Joaquim Pais de Brito
+; Gustavo Rubim
+; Margarida Vieira Mendes
+; AA VV
+; Maria de Lourdes Sirgado Ganho
+; Luís A. de Oliveira Ramos
+; Rogério Mendes Coito
+; Ireneu Cortes
+; Soledade Martinho Costa
+; Kaoberdiano Dambará
+; João Fernandes
+; Carlos Gil
+; António Silva Graça
+; Henrique Guerra
+; Manuel de Oliveira Leal Henriques
+; Maria Teresa Horta
+; Carlos Alberto de Carvalho Jordão
+; Leonilde Leal
+; Teresa Rita Lopes
+; Carlos Loures
+; Maria da Luz
+; José Marques
+; Maria Emília Martins
+; António Augusto Menano
+; Constantino Menino
+; Milton Moniz
+; Francisco Pedro Curado Neves
+; J. D. Lima Oliveira
+; Padre Mário de Oliveira
+; Oswaldo Osório
+; Helder Pacheco
+; Miriam Halpern Pereira
+; Sebastião Tavares de Pinho
+; Artur Portela Filho
+; Graça Almeida Rodrigues
+; Maria Adelaide Neto Salvado
+; Francisco Sampaio
+; Eugénio Francisco dos Santos
+; Vítor Pavão dos Santos
+; Virgilio Santos
+; José Sasportes
+; Heraldo Gregório da Silva
+; Franquelim Neiva Soares
+; Luís Amorim de Sousa
+; Vítor Silva Tavares
+; Aristides Van-Dúnem
+; Hélio Osvaldo Alves
+; Manuel dos Santos Alves
+; Guilherme António
+; José Barcos
+; Casimiro de Brito
+; Ferreira de Brito
+; António Cartaxo
+; Armando Silva Carvalho
+; Carmelinda Maria Mariano Cavaco
+; João Gomes de Campos Copeto
+; José Horta Correia
+; João Rui Ferreira Guedes de Carvalho
+; Maurice Reuchlin
+; Maria José Miranda
+; Maria João Afonso
+; American Psychiatric Association
+; José Nunes de Almeida
+; Stephen Hawking
+; Paulo Ivo Teixeira
+; Armando Malheiro da Silva
+; Fernanda Ribeiro
+; Júlio Sousa Ramos
+; Manuel Luís Real
+; Paulo Jorge dos Santos Barata
+; Maria Leonor Borralho Gaspar Pinto
+; Paula Alexandra Ochôa de Carvalho
+; Jorge Amado
+; Rachel Queiroz
+; João Cabral de Melo Neto
+; Isabel Hub Faria
+; Emília Ribeiro Pedro
+; Inês Duarte
+; Carlos A. M. Gouveia
+; João Andrade Peres
+; Telmo Moia
+; Dieter Messner
+; Maria Luísa Seabra Marques Azevedo
+; Maria José Albarran Alves de Carvalho
+; Ana Maria Almeida Martins
+; Maria Perpétua Gonçalves
+; António Quintas Mendes
+; Ana Maria Brito
+; Telmo dos Santos Verdelho
+; Wang Zeng Yang
+; Maria José B. Marques de Almeida
+; Arnaldo do Espírito Santo
+; João Beato
+; Cristina Pimentel
+; Artur Portela
+; João Rocha de Almeida
+; Carlos Tiago Fernandes
+; Eurico Rodrigues
+; João Paulo Ferreira
+; Hermínio Duarte Ramos
+; Jacob Millman
+; Arvin Grabel
+; José Manuel Rebordão
+; Eugene Hecht
+; Carlos Fiolhais
+; Rui Ferreira Marques
+; Manuela de Azevedo
+; Aires de Carvalho
+; Armando Nobre de Gusmão
+; Fernando de Araújo Lima
+; Albano Nogueira
+; Américo Lopes de Oliveira
+; Mário Baptista Pereira
+; Cón. António Luís Vaz
+; João Braz
+; José Junça
+; Artur Augusto da Silva
+; Maria Emília Vasconcelos
+; Aurélio Fernando Alves
+; Caetano Teixeira de Aragão
+; Carlos Augusto Gonçalves Estorninho
+; José Coelho da Cunha
+; Manuel Caeiro de Pavia
+; José Pereira
+; Maria Augusto Ribeiro
+; António Pedro Ribeiro Santos
+; António Marques da Silva
+; Maria Margarida Macedo Silva
+; Manuel Carvalho Simões
+; Gisela Sinfrónio
+; Tarcísio Trindade
+; José Falcato Varela
+; Amélia Veiga
+; Barbosa de Melo
+; Fernando Melo
+; José de Melo
+; Lídia Meunier
+; Fernando dos Santos Neves
+; Maria Helena Pinto Novais Paiva
+; Maria Laura Bettencourt Pires
+; Maria Teresa Ramos
+; Margarida Ribeiro
+; Romana Rosa
+; José Nicolau Rufino
+; Manuel de Seabra
+; José Jacinto Severino
+; José Maria Rodrigues da Silva
+; Manuel Augusto Ferreira da Silva
+; Maria Leonor Machado de Sousa
+; José Manuel Tengarrinha
+; Hélio Nunes Xavier
+; Adelino Ribeiro de Abreu
+; Adília Alarcão
+; Alves de Azevedo
+; Carlos Brito
+; José Vieira Cabrita
+; Maria Alexandra Cavaco Carrilho
+; José Manuel Ferreira Casaca
+; Afonso Cautela
+; João Bigotte Chorão
+; António Cirurgião
+; Maria de Lourdes Cortez
+; Albano Estrela
+; Carlos Mário Ferreira
+; Luísa Freire
+; Brazão Gonçalves
+; António Magalhães
+; José Matoso
+; Valdemar Mota
+; António Rebordão Navarro
+; Maria do Céu Nogueira
+; António Osório
+; Maria Antónia Palla
+; Frei Mateus Cardoso Peres
+; Marcel Bataillon
+; Elisabeth Feist Hirsch
+; Pedro Mexia
+; Mónica Baldaque
+; Raymond Chang
+; Manuel Alves da Silva
+; R. Morrison
+; R. Boyd
+; Alda Durães
+; Alice Teles
+; Maria João Lourenço
+; João Gaspar Neves
+; José S. Ribeiro
+; Miguel Serras Pereira
+; Pierre Bourdieu
+; Amélia Pilar Rauter
+; Bernardo Jerosch Harold
+; Heinz G. O. Becker
+; Werner Berger
+; Günter Domschke
+; Egon Fanghänel
+; Jürgen Faust
+; Mechtild Fischer
+; Fryhjof Gentz
+; Karl Gewald
+; Reiner Gluch
+; Roland Mayer
+; Klaus Müler
+; Dietrich Pavel
+; Hermann Schimt
+; Karl Schollberg
+; Klaus Schwetlick
+; Erika Seiler
+; Günter Zeppenfeld
+; Maria Cândida Durão
+; Maria D'Aires Caeiro
+; Seeley Stephens Tate
+; Desidério Murcho
+; Pedro Galvão
+; Ana Cristina Domingues
+; Pedro Santos
+; Clara Joana Martins
+; António Horta Branco
+; Maria Manuela Farrajota
+; Maria João Santos
+; Victor R. Stockinger
+; Patrícia Galvão Teles
+; Maria Pitta Groz
+; Simon Blackburn
+; Ian Brownlie
+;   Aristóteles
+; Paulo Castilho
+; Luís Correia
+; Henrique Ruivo
+; Rui Ventura
+; António José Coutinho
+; Teresa Zilhão
+; Sandra Augusto França
+; Firmino Mendes
+; Nicolau Saião
+; Graça Pires
+; José Alberto Mar
+; Luís Alves da Costa
+; Avelino José Costa de Sousa
+; Carlos Poças Falcão
+; Paulo Dias Teixeira
+; Laureano Silveira
+; Margarida Lisboa
+; Luís Filipe Rodrigues
+; Fernando Luís Sampaio
+; José do Carmo Francisco
+; José Vitorino de Sousa Bartolomeu
+; Luís Miguel Nava
+; Ana Margarida Godinho Fonseca
+; Ermelinda Maria Araújo Ferreira
+; Henrique Garcia Pereira
+; Carlos M. F. Cunha
+; Maria Adelaide Valente
+; Petar Petrov
+; Joaquim Carlos Araújo
+; Maria Antónia Oliveira
+; José António Ismael Gracias
+; Adelto Gonçalves
+; António Garcia Barreto
+; António Gonçalves
+; Gonzalo Torrente Ballester
+; António Custódio
+; José Fidalgo
+; Adrien Roïg
+; Ingrid Pelletier
+; Pedro Paixão
+; Inês Gonçalves
+; Cristina Sampaio
+; Jorge Colombo
+; Artur Varela
+; Hanne Maguette
+; Maria Graciete Besse
+; José Carlos Nascimento
+; Emídio de Oliveira
+; Siegbert Uhlig
+; Thomas F. Earle
+; Nair de Nazaré Castro Soares
+; Gernot Bühring
+; Pedro Vaz
+; Isabel Margato
+; Paulo Meneses
+; António Serras Pereira
+; Cécile Lombard
+; Juan M. Carrasco
+; Olga Ovtcharenko
+; Maria Helena
+; Michel Leiris
+; Sidney Sheldon
+; Galvano Della Volpe
+; Antonio Bernat Vistarini
+; Robert Bismut
+; Jean Colomés
+; Benjamin Nicolaas Teensma
+; Afonso Camões
+; Gjergj Vlashi
+; Munhak Segyesa
+; Tatjana Tarbuk
+; Tanja Tarbuk
+; Maria de Fátima Pereira Azóia
+; Paula Oliveira
+; Miguel Eduardo
+; Amanda Hopkinson
+; Nick Caistor
+; Miroslava Petrovská
+; Vibha Maurya
+; António Mota
+; Ana Isabel Marques
+; Manuel Cruz
+; Chico .
+; João Mendonça
+; Rosa Maria Duarte
+; Nair Valente
+; José Correia Pacheco
+; Pedro Cavalheiro
+; Carlos Castilho Pais
+; Miguel Corrêa Monteiro
+; Peter Stilwell
+; José Riço Direitinho
+; Violante Florêncio
+; Joaquim Francisco Coelho
+; Rodrigo Guedes de Carvalho
+; Rita Ferro
+; Maria do Céu Novais de Faria
+; Luiz Gonzaga Ferreira
+; Helena Ferreira
+; Elo Mafra
+; Ildefonso-Manuel Gil
+; Graciete Berta de Sousa Nobre
+; Shizuko Takeuchi
+; Shigeru Ikuta
+; José António Gonçalves
+; José da Cruz Santos
+; Maria Luisa Cusati
+; José Manuel Anes
+; Francis Ponge
+; José Fanha
+; José Emídio
+; Ana Maria Magalhães
+; Martine Joly
+; Nuno Fonseca
+; Rui Castro
+; José Barata Moura
+; Joaquim Pessoa
+; Luís Machado
+; José Miguel Ribeiro
+; Cristina Valadas
+; Massimo Florio
+; Luísa Fortes da Cunha
+; José Goulão
+; . Zenetto
+; Joana Quental
+; Ana Margarida Ramos
+; Ana Saldanha
+; Daniel Ricardo
+; Filipe Rodrigues
+; Henrique Cayatte
+; Martinho Dias
+; João Soares
+; Luís Manuel Vasconcelos
+; Luís Almeida Martins
+; João Abel Manta
+; João Mário Mascarenhas
+; Miguel Eduardo Serrano
+; José Pedro Costa
+; Vasco Pereira da Costa
+; Carlos Cruz
+; Ricardo Alves
+; Acácio de Carvalho
+; Inácio Ludgero
+; R. Carlos Rebelo da Silva
+; Rui Guimarães
+; Renato Filipe Cardoso
+; Paulo Sarmento
+; Nuno Rebocho
+; Ana Clara Justino
+; Viriato Dias
+; António Pedro Pita
+; Manuel Rodrigues de Oliveira
+; Lêdo Ivo
+; Jordi Virallonga
+; Nélson Cruz
+; Teresa Lima
+; Nuno Gomes dos Santos
+; César Príncipe
+; Raquel Henriques da Silva
+; Isabel Galhano Rodrigues
+; Isabel Lobinho
+; Catarina Rebello
+; Louis Soler
+; Rosa Maria Sánchez Aliaga
+; Jorge Gimeno
+; Mone Hvass
+; Joaquim Vital
+; Reinold Werner
+; Henning Kramer Dahl
+; Augusto da Silva Carvalho
+; António Augusto Ferreira de Macedo
+; Rodrigo da Fonseca
+; Pais Abranches
+; Barbosa de Magalhães
+; Augusto Pina
+; João Moreira de Almeida
+; Francisco Grandela
+; João Félix Pereira
+; José de Almeida Eusébio
+; Domingos Lavadinho
+; Alberto Virella
+; Cecília Barreira
+; José Luís Simões da Fonseca
+; E. W. Sapega
+; Carlos Machado
+; Maria Aparecida Ribeiro
+; Manuela Rêgo
+; Brane Mozetic
+; Celina Silva
+; Alexandrino E. Severino
+; André Velter
+; Frank Henseleit-Lucke
+; Maria Ruais
+; Inés Oseki-Depré
+; Álvaro Garrido
+; Diana Bellessi
+; Nikica Talan
+; Arnaldo de Pinho
+; João Paulo Cotrim
+; Ramón Gómez de la Serna
+; Dominique Touati
+; Jorge Sedas Nunes
+; Dominique Bussillet
+; Orietta Abbati
+; Annabela Rita
+; Guia Boni
+; Jorge Humberto Pereira
+; Alexei Bueno
+; Jorge Maximino
+; Jorge Reis Sá
+; Gil de Carvalho
+; Armanda Andrade
+; Miguel Veiga
+; Barbara Jursic Terseglav
+; Francisco Marques
+; Francisco Lopes Cardoso
+; Fernando Esteves
+; António Gil Pinto
+; António Pedro Fraga Aboim
+; Rui Guedes
+; Cláudia Pazos Alonso
+; Karmele Setién
+; Henrique de Vilhena
+; Magali Montagné
+; Ana Paula Tavares
+; José Luís Tavares
+; Hiroshi Hino
+; José Júlio Rodrigues
+; Mineo Ikegami
+; José Blanco
+; Paulo Silva Pereira
+; Valmir Francisco Muraro
+; José Antunes de Sousa
+; Manuel Cândido Pimentel
+; Carlos Leone
+; José Ares Montes
+; Luís Adão da Fonseca
+; Ernest Martinez Ferrando
+; Elena Gascón-Vera
+; Adelino de Almeida Calado
+; Laura Castro
+; Carlos Ferreiro
+; Graça Morais
+; José Pastor
+; Sérgio de Castro Pinto
+; Wilson Brunel Meller
+; José Carlos Seabra Pereira
+; Dionísio Vila Maior
+; Duarte Belo
+; Jaime Celestino da Costa
+; Carlos Alberto Medeiros
+; Maria Ângela Azevedo Furtado Brum
+; Rui Aguiar
+; António Cruz
+; José Manuel Mendes
+; Tiago Manuel
+; Cipriano Justo
+; João Avelino Marques
+; Maria de Las Nieves Grafalles Ibañez
+; João Matos e Silva
+; António Carvalho Valente
+; Eduardo Brum
+; Jacinto Lucas Pires
+; Luís Cardoso
+; Marilene Felinto
+; Possidónio Cachapa
+; António de Sousa Duarte
+; Branca Vilallonga
+; J. H. Borges Martins
+; Graça da Silva Dias
+; Dália Dias
+; Ana Luísa Amaral
+; Adília Lopes
+; Carlos Queirós
+; Eunice Ribeiro
+; Alcir Pécora
+; Joana Matos Frias
+; Ana Mendes
+; Paulo Franchetti
+; Maria Andresen de Sousa Tavares
+; K. David Jackson
+; Fátima Freitas Morna
+; Maria Irene Ramalho
+; António Apolinário Lourenço
+; M. Corbo Alvarez
+; Perfecto E. Cuadrado Fernández
+; Pedro Schachtt Pereira
+; Margarida Braga Neves
+; Ana Sofia Ganho
+; Ettore Finazzi-Agrò
+; Pedro Eiras
+; Luís Adriano Carlos
+; Jorge Fernandes da Silveira
+; Fernando Matos Oliveira
+; Maria Fernanda Alvito P. de S. Oliveira
+; Carlos Veloso
+; Carlos Mendes de Sousa
+; Peter Sanmartinho
+; Rita Patrício
+; José Ricardo Nunes
+; Ruy Duarte de Carvalho
+; António Ladeira
+; F. J. Vieira Pimentel
+; António Cândido Franco
+; Carlos da Silva Vaz
+; Carmen Martín Gaite
+; Cristina Nobre
+; Beatriz Berrini
+; Elza Miné
+; Maria Filomena Mónica
+; Horácio Costa
+; Teresa Cristina Cerdeira da Silva
+; Manuel Reis
+; Gabriel Sampol
+; António Mega Ferreira
+; Roger Tropéano
+; João Vaz de Carvalho
+; António José Queirós
+; Isabel Pissarra Gouveia
+; João Fazenda
+; Carlos Correia
+; António Sá
+; Carlos Alberto Vilela
+; José Carlos Costa Joaquim
+; Joaquim Jorge de Carvalho
+; André Vilares Morgado
+; Regina Correia
+; Ana Paula Guimarães
+; Pierre Rivas
+; Andrea Ciacchi
+; Brad Kranstad
+; August Willemsen
+; Paula Almada Negreiros
+; Francisco Bilou
+; Marina Tavares Dias
+; Ana Nascimento Piedade
+; Simone Biberfeld
+; Manuel A. Prego
+; Júlio Coelho
+; José Isidro
+; Helena Pereira
+; António Chasqueira
+; A. Anochinha
+; Austin O'Malley
+; Leontina Ventura
+; Ana Santiago Faria
+; José Ricardo Marques da Silva Nunes
+; Maria Gabriela Orrico da Costa Lança
+; Fernando Cabral Martins
+; Ana Mafalda Leite
+; Pires Laranjeira
+; Fernando Augusto
+; Elvira de Azevedo Mea
+; A. A. Marques de Almeida
+; Maria Teresa Gomes Paula Santos
+; José Agostinho Baptista
+; Norberto Ferreira da Cunha
+; Manuela Domingos
+; Lia Noémia Raitt
+; Ricardo Fonseca
+; Adelino Cardoso Pereira
+; John Gaston Tuthill
+; H. Cogan
+; Michael Lowery
+; Rebecca Catz
+; António Braz Teixeira
+; Inês Amorim
+; José Adriano de Carvalho
+; Maria Fernanda Rodrigues Jorge
+; Chen Yongyi
+; Amador Palacios
+; Dorothy M. Atkinson
+; Luís Amaro de Oliveira
+; Fernando Venâncio
+; Maria da Conceição Madruga
+; Maria Paula Lago
+; Juan Arias
+; Lídia Lobo Martins
+; Carlos Paredes
+; Vítor Belém
+; Miguel Angel Viqueira
+; Manuel Guerrero
+; Esteban Torre
+; Antoni Ibàñez
+; Albert Mestres
+; Xuan Bello
+; R. Vilagrassa
+; Rogelio Ordóñez Blanco
+; Nicolau Dols
+; Moisès Maicas
+; Adolfo Montejo Navas
+; Hans Jürgen Balmes
+; Gregory McNab
+; Madeleine L'Engle
+; Carlos Paulo Martínez Pereiro
+; Paulo Ferreira
+; Maria do Céu Falcão Mendes
+; Vergílio Alberto Vieira
+; José Leon Machado
+; Vítor Serrão
+; George Dykes
+; Vera Kirkova
+; Luciano Allamprese
+; Liv Berit Sundfør
+; Daniela Stegagno
+; Rémy Hourcade
+; Jean-Louis Giovannoni
+; Henri Delvy
+; Armand Guibert
+; Manuel Jorge Marmelo
+; Gilberto Freyre
+; Frei Isidoro da Barreira
+; Geronimo de Virues
+; Isaac Aboab
+; Ana Gabriela Macedo
+; António Conceição Júnior
+; Valter Hugo Mãe
+; Saokot Hossain
+; Cecília Jorge
+; António Carmo
+; José Couto Viana de Carvalho
+; Jorge Araújo
+; Pedro Sousa Pereira
+; Maria João Lopes
+; Maria Rosa Marques Lila Dias Costa
+; Guilherme Ismael
+; José Pinha
+; Virgílio Almeida
+; Luísa Queiroz
+; Madalena Caixeiro
+; Antero Barbosa Pinto
+; Maria Regina Marchueta
+; Alexandra Barahona de Brito
+; Pedro Aires Oliveira
+; Nelson H. Vieira
+; Terry Morgan
+; Maria Suzete Rodrigues Dias
+; Manuel Hermínio Monteiro
+; Francisco Jover
+; Celso Lemos de Oliveira
+; Luís Reis Torgal
+; Fiodor Dostoievski
+; Santo Agostinho
+; José Jorge Letria
+; Henrique Nicolau
+; Isabel Cristina Pires
+; Braulio Tavares
+; Luís Filipe Silva
+; João Botelho da Silva
+; Miguel Vale de Almeida
+; Luís Richheimer de Sequeira
+; Daniel Malaguti
+; João Miguel Figueiredo da Silva
+; José Sousa Gomes
+; Teresa Leonor Vale
+; José Ángel Cilleruelo
+; João Miguel Fernandes Jorge
+; Emanuel de Sousa
+; George Buchner
+; Rosário Corte-Real
+; Manuel Ferreira Duarte
+; José Mendes Bota
+; José Maria Oiiveira
+; José Maria Oliveira
+; Fernando Mota
+; Yun Chi Yan
+; António Matos
+; Ângela Almeida
+; Maria Margarida Maia Gouveia
+; Fátima Lopes
+; Isabel Cadete
+; Bruno Oliveira Santos
+; Sylvie Messinger Ramos
+; António Ramos
+; Françoise Marchand-Sauvagnargues
+; José Ramos Tinhorão
+; Teresa Rita
+; Olímpio Neves
+; Maria de Jesus Barroso
+; Luís Augusto Costa Dias
+; Maria Augusta Silva
+; William Beckford
+; Virginia Woolf
+; Michael Gordon Lloyd
+; Maria Antónia Pestana
+; Eugénio Rosa Carneiro
+; Flórido de Vasconcelos
+; Germano da Silva
+; Marianne Péchereau
+; Annick Moreau
+; Emerenciano
+; Ana Esquível
+; Michael Teague
+; José Brandão
+; Maria de Fátima Ferreira Rolão Candeias
+; David Rodrigues
+; Fernando José Ferreira Ribeiro
+; Richard Charbonneau
+; Armando Alves
+; Cecília Pero
+; Amândio Seca
+; Laura Soutinho
+; Manuela Abreu e Lima
+; Fernando Pernes
+; Alfredo Rasteiro
+; A. Tavares de Sousa
+; Francesco Luti
+; Diogo Ramado Curto
+; Filipe Tereno
+; Leonilde Alfarrobinha
+; Paolo Ruffilli
+; Ayala Monteiro
+; Fernando Dores Costa
+; Manuel Graça Dias
+; Patrícia Reis
+; Rui Lage
+; José Rui Teixeira
+; António Carlos Cortez
+; Fernando Nobre
+; Isabel Castro Henriques
+; Joaquín Marín Márquez
+; David Cabral
+; Fátima Pombo
+; Adelaide Ginga Tchen
+; Anabela Sardo
+; Miguel Esteves Cardoso
+; Livia Apa
+; Maria de Lurdes Craveiro
+; Teresa Cristina, org. Cerdeira
+; X. Trigo
+; Vicente Araguas
+; Carlos Nogueira
+; Sofia Areal
+; Manuel Sumares
+; Paula Rego
+; Bárbara Assis Pacheco
+; Henri Deluy
+; August Wilemsen
+; Mario Morales Castro
+; Carlito Azevedo
+; Flora Süssekind
+; Marina Warner
+; Teresa Ogando
+; Ana Ribeiro
+; Adelaide Monteiro Batista
+; Hennie Bos
+; Jorge Esteves Cunha
+; Claude Barousse
+; Fernando José Fraga de Azevedo
+; Álvaro de Vasconcelos
+; Joaquim Ramos Silva
+; Amado Luiz Cervo
+; Aurel Cavaci
+; Aurel Covaci
+; Diana Radu
+; Silvério Augusto Benedito
+; Miguel Sousa Tavares
+; Elizabeth Lowe
+; Lada Weissová
+; Rui Truta
+; Nikos Pratsinis
+; Konstandinos Kavafis
+; Donald Ferguson
+; Daniel Pires
+; Ana Paula Laborinho
+; Cruzeiro Seixas
+; Martins Correia
+; Philippe Billé
+; Delfim Ferreira Leão
+; João Magueijo
+; Carlos Morujão
+; Vivina de Campos Figueiredo
+; Susan Bassnet
+; Mécia de Sena
+; Stefania Elena Carnemolla
+; Carlos Alberto Ferreira
+; Beatriz Basto da Silva
+; Jorge Arrimar
+; José de Carvalho e Rego (Filho)
+; António Aresta
+; Rogério Ribeiro
+; Rui Luís Romão
+; Marie-Christine Hamnas
+; Manuela Parreira da Silva
+; Pedro Nolasco da Silva
+; Luísa Monteiro
+; Isabel Pires de Lima
+; Dario Moreira Castro Alves
+; Filipe Jarro
+; González Bravo
+; Maria Irene Ramalho de Sousa Santos
+; Paul Éluard
+; Pedro Sena Lino
+; Ana Cristina Catarino
+; Joana Morais Varela
+; Luís Manuel Gaspar
+; João Filipe Bugalho
+; Maria Jorge
+; Diana Pimentel
+; Paulo da Costa Domingues
+; J. Manuel Minhoto Marques
+; José Brites
+; Jean Pailler
+; Luís Manuel de Araújo
+; José Revez
+; Jorge Marcel
+; Alberto Veiga de Oliveira
+; Séverine Rosset
+; Bernard Sesé
+; Françoise Laye
+; Josefina Lind
+; Ingemai Larsen
+; Hugo Serani
+; Janina Z. Klawe
+; Josef Hirsal
+; Dinu Flamand
+; Lars Axelsson
+; Inés Koebel
+; Helena C. Langrouva
+; Béatrice Vierne
+; Suzette Macedo
+; Brunello De Cusatis
+; Luísa Beltrão
+; Sílvia Chicó
+; Gérard Castello Lopes
+; António Manuel Ferreira
+; António Lobo Xavier
+; Maria Helena Nery Garcez
+; António Bracinha Vieira
+; Maria da Graça Carpinteiro
+; Rita Basílio
+; Dieter Woll
+; Luigi Panarese
+; Mario Santoro
+; Pierre Gilhodes
+; José Pacheco Pereira
+; Francisco Adolfo de Varnhagen
+; Clements Markham
+; Charles de L'Écluse
+; Jaime Walter
+; M. Annibale Briganti
+; Cristovão da Costa
+; Antoine Colin
+; Albano Pereira Júnior
+; João de Carvalho e Vasconcelos
+; Carlos das Neves Tavares
+; Aires de Sousa
+; Ana Zanatti
+; Margarida Barahona
+; John Austin Kerr
+; Rosélia Maria Ornelas Quintal Fonseca
+; Salvato Feijó
+; Roopanjali Roy
+; Jean-Marie Saint-Lu
+; Lídia Martinez
+; Guy Vivien
+; Cristina Maria da Costa Vieira
+; Paulo Cunha e Silva
+; Rosa Alice Branco
+; Isabel de Sá
+; Inês Lourenço
+; Isabel Allegro Magalhães
+; Regina Guimarães
+; Maria de Lurdes Sampaio
+; Julieta Monginho
+; Theo Mayer Kuckuk
+; Maria Eugénia S. Fronteira e Silva
+; Curtis D. Johnson
+; António Zilhão
+; Gottlob Frege
+; José Luís Malaquias Lima
+; B. Mandelbrot
+; Fernando Parente
+; Viriato A. A. Esteves
+; Abraham Pals
+; ... ...
+; Alberto Couto
+; Maria Manuela Marques da Silva
+; Maria Carvalho Torres
+; Maria Teresa Gonçalves
+; Teresa Joaquim
+; Georges Duby
+; Michelle Perrot
+; Isabel Araújo
+; Kitty Ferguson
+; José António Gomes
+; Fernanda Azevedo Silva
+; Maria Adelaide Pires Madeira
+; Maria Leonor Abecassis
+; Maria Teresa Leal
+; Lynné A. Thelan
+; Joseph K. Davie
+; Linda D. Urden
+; Nita Lúpi
+; Mário Simões Dias
+; Pe. Filinto Cristo Dias
+; Cesário Nunes
+; Joaquim António Nunes
+; Lita Scarlatti
+; Francisco da Silva Júnior
+; Aubrey Bell
+; José Augusto Cardoso Bernardes
+; Manuel Calderón
+; José da Encarnação
+; Maria José Palla
+; José Alberto Lopes da Silva
+; Carlota Almeida de Carvalho
+; Márcia Arruda Franco
+; Lina Maria Gonçalves Alves Madeira
+; John R. C. Martyn
+; Yao Jingming
+; Célia Cristina da Silva Tavares
+; Christine Vogel
+; José Manuel Fernandes
+; Bruno Cardoso Reis
+; Parcídio Gonçalves
+; Peter Edward Russel
+; Valentino Viegas
+; Paul Teyssier
+; Garção Gomes
+; João Monteiro de Macedo
+; A. Farinha de Carvalho
+; Rui Manuel Loureiro
+; George Davison Winius
+; Joaquim Dâmaso
+; Carlinda Leite
+; Maria de Lurdes Rodrigues
+; Maria João Martins
+; Helena Carvalhão Buescu
+; Maria de Lourdes Guimarães
+; Walt Whitman
+; Mafalda Ivo Cruz
+; Rui Estrada
+; Frederico Lourenço
+; A. Campos Matos
+; Ernest David
+; Paulo Roberto Dias
+; Carina Faustino Santos
+; Virgínia Pacheco Graça
+; Maria do Rosário Pedreira
+; João Pedro Mésseder
+; Sérgio Figueiredo
+; Maria de Fátima Bonifácio
+; Mário Ruivo
+; Glória Marly Duarte Nunes de Carvalho Fontes
+; Virgílio Correia Filho
+; Osvaldo Rodrigues da Cunha
+; Francesco Petrarca
+; Rui Zink
+; José Eduardo Agualusa
+; Joana Villaverde
+; Xohana Torres
+; Rip Cohen
+; Teresa Amado
+; Maria Ângela Beirante
+; Mário de Carvalho
+; Mário Cláudio
+; Manuel Portela
+; Laurence Sterne
+; Telma Costa
+; Vladimir Nabokov
+; John Donne
+; Dante Alighieri
+; António Pescada
+; Albert Cohen
+; Fernanda Pinto Rodrigues
+; Norman Mailer
+; José Colaço Barreiros
+; Italo Calvino
+; Charles Baudelaire
+; Maria Jorge Vilar de Figueiredo
+; Gustave Flaubert
+; António Graça de Abreu
+; Li Bai
+; Michel Tournier
+; G. Perec
+; Artur Morão
+; G. W. Hegel
+; Manuel João Gomes
+; Salman Rushdie
+; James Joyce
+; Leopoldina Almeida
+; Thomas Bernhard
+; Louis-Ferdinand Céline
+; Daniel Gonçalves
+; Lawrence Durrell
+; Fernando Guerreiro
+; Camilo José Cela
+; Álvaro Arranja
+; Manuel Cadafaz de Matos
+; Alfredo Pinheiro Marques
+; Arnau Pons
+; Joaquìn Sala-Sanahuja
+; Alexandra Dulce Gonçalves Lopes
+; Maria de Deus Alves Duarte
+; Maria Manuela Cabral
+; Anabela Miranda Soares
+; Maria Teresa Abelha Alves
+; José de Oliveira Barata
+; Ofélia Paiva Monteiro
+; Luís Filipe Barreto
+; Dalit Lahav
+; Teodoro H. Martin-Lunas
+; Ferdinand Azevedo
+; Francisco Contente Domingues
+; Nuno Crato
+; Fernando Reis
+; Luís Tirapicos
+; Emílio A. Goeldi
+; Américo Pires de Lima
+; Celso Ferreira da Cunha
+; Manuel Pedro Ferreira
+; Camilo Flores
+; Luz Pozo Garza
+; Giuliano Macchi
+; Albin Éduard Beau
+; João Gouveia Monteiro
+; Carlos Ceia
+; Estela Pinto R. Lamas
+; Clara Rocha
+; António Resende de Oliveira
+; Giuseppe Tavani
+; Maria Lúcia Perrone de Faro Passos
+; Francisco Manuel do Nascimento
+; -- -h
+; Francisco Xavier de Oliveira
+; D. Diogo Ortiz
+; João de Santarém
+; Santo António
+; Saul Dias
+; Diogo de Sintra
+; Christine de Pizan
+; Orósio -
+; Egéria -
+; Luiz Fagundes Duarte
+; Marie-Amélie Robilliard
+; Maria de Fátima Marinho
+; Albert Von Brunn
+; Ralph Roger Glöckler
+; Marie-Hélène Piwnik
+; Adriana Lisboa
+; Iordanka do Nascimento
+; Dominique Nédellec
+; Filipe Guerra e Nina Guerra
+; Seomara da Veiga Ferreira
+; Agostinho Figueiredo de Frias
+; Rui de Azevedo
+; Carl Erdmann
+; Maria Luisa Blanco
+; Joan Casas
+; Miguel Tamen
+; Manuel de Queiroz
+; Marie José Leriche
+; Francisco José Viegas
+; Maurício Abreu
+; Robert Viale
+; Roberto Quemserat
+; José Teófilo Duarte
+; Duarte Moral
+; Luís Ramos
+; Isabel Soler
+; Neus Baltrons
+; João Francisco Vilhena
+; Agnese Purgatorio
+; José Luis Gabilanes
+; Eduardo Pitta
+; Rosa Maria B. Goulart
+; Fernanda Irene Fonseca
+; Maria Lúcia Dal Farra
+; Helder Godinho
+; José Rodrigues de Paiva
+; Maria Joaquina Nobre Júlio
+; Isabel Cristina Rodrigues
+; Justino Pamplona
+; Luís Rodrigues
+; António Silveira
+; Modesto Navarro
+; Manuel Grilo
+; Miguel Miranda
+; Helena Vasconcelos
+; José Oliveira
+; Teresa Balté
+; Rui José do Sacramento Alecrim
+; Amilton Jesus dos Santos
+; Isabel Lopes Ferreira
+; Sara Horta Monteiro
+; Assunção Cabrita
+; Fernando Esteves Pinto
+; Carlos Natividade Correia
+; José Augusto Rodrigues
+; Maria Celeste Moniz
+; Artur Águedo de Oliveira
+; Isidoro de Almeida
+; Sabine Müller-Nordhoff
+; José Fernando Tavares
+; Américo de Sousa
+; Ana Marques Gastão
+; Francisco Bethencourt
+; Helmut Feldman
+; Fusako Hamamoto
+; Tomizo Hanano
+; Jitsuo Tsukuda
+; Jiro Yumoto
+; Natália Vital
+; Fernando de Macedo
+; Fernando Tavares Rodrigues
+; Joaquim Baltazar
+; Zetho Cunha Gonçalves
+; Armando Nascimento Rosa
+; António Vilhena
+; Ruben de Carvalho
+; Amélia Vieira
+; Francisco Relógio
+; Luís Figueiredo Tomé
+; Ângelo de Sousa
+; Gil Teixeira Lopes
+; Micaela Ghitescu
+; Gabriel Albiac
+; Manuel Denis
+; René Acuña
+; Francisco Herrera Maldonado
+; Edward Glaser
+; Victor de Lima Meireles
+; Carlos Carreiro
+; Tamara Bender
+; D. Hill
+; Smilja Grbic Minja
+; Carlos Lopes Pires
+; Benito Caldera
+; Guillem Colom
+; Miguel Dolç
+; Takiko Okamura
+; Kazuo Okamoto
+; Alfredo Motta
+; Alexandre Nave
+; Ana Paula Coutinho Mendes
+; Bruno da Ponte
+; Antónia de Sousa
+; Edite Soeiro
+; Clara Pinto Correia
+; Teresa Isabel Gonçalves Gouveia
+; Manuel Ruas
+; Madalena M. Marques Neves Relvão
+; Natália Constâncio
+; Rosita Silveirinha Paneiro Corrêa
+; Pierre Pratt
+; Cristina Costa Gomes
+; Tereza Coelho
+; Christine Pâris-Montech
+; Rodolfo Guimarães
+; Renato Godinho
+; Jan Potocki
+; Robert Silverberg
+; Lima Rodrigues
+; Júlia Lello
+; Eirik Jarber
+; Jaime Burgos
+; Louis Rock
+; Herman Tellgon
+; José Viale Moutinho
+; Barão de Reichenau
+; José Vicente Jorge
+; Pedro Barreiros
+; Américo Moura
+; Mário Montenegro
+; Daniel Maia-Pinto Rodrigues
+; António Manuel dos Santos Cunha
+; Frei Gerardo de Frachet
+; Vasco Pulido Valente
+; José António Costa Ideias
+; Menis Koumandareas
+; J. Ribeiro Lisboa
+; Manuela Delgado Leão Ramos
+; Celina Veiga de Oliveira
+; Barbara Spaggiari
+; António Falcão Rodrigues de Oliveira
+; Ariane Witkowsky
+; Nádia Batella Gotlib
+; Piero Ceccucci
+; Jesús Munárriz
+; Claire Cayron
+; Pedro Calderón de La Barca
+; Kelly Basílio
+; João Ferreira Duarte
+; Max de Carvalho
+; Margarida Reis
+; Jorge Coelho
+; Francisco Simões
+; Paula Oudman
+; Cândida Ramos
+; Maria Fernanda Constante de Brito
+; Stephen Muecke
+; Michel Chandeigne
+; Agripina Costa Marques
+; Clara Janés
+; Miguel Ángel Flores
+; Edgar Prestage
+; Juan de Luaces
+; José Maria Viqueira
+; Eero K. Neuvonen
+; Ribeiro Couto
+; Ana Paula Pinto
+; Marcelo G. Oliveira
+; António Crespo
+; Jean Haupt
+; Jean Rousé
+; Hernan Del Solar
+; Enrique Garcia
+; Frank R. Holliday
+; P. Sousa Pernes
+; Manuel Casado Nieto
+; Gino Saviotti
+; Roy Campbell
+; Arne Lundgren
+; Rui Costa
+; Mathilde Pomès
+; Robert Lyle
+; Maria Luísa de Roberto
+; Antoinette Drouet
+; Álvaro Cardoso Gomes
+; Adelino Gomes
+; Joaquim Furtado
+; Augusto Sobral
+; Ângela Domingues
+; Carlos Almaça
+; Miguel Faria
+; Napoleão Figueiredo
+; Graça Videira Lopes
+; João Filipe Mano
+; Eduardo J. Nunes Pereira
+; Benilde Saramago
+; Anabela C. Fernandes
+; Mário Nuno Berberan e Santos
+; Joaquim J. Moura Ramos
+; Adriana Veríssimo Serrão
+; Ludwig Feuerbach
+; André do Prado
+; Maria Bragança
+; Raul Sousa Machado
+; Richard Platt
+; Stephen Biesty
+; VV AA
+; Manuel Losa
+; Albin Lesky
+; Cláudia Gonçalves
+; Isabel Mafra
+; Steve Jones
+; Geneviève Fraisse
+; Alice Vieira
+; Pablo Neruda
+; Alberto Dines
+; Sara Marques Pereira
+; J. Cândido Martins
+; Claude-Henri Frèches
+; Olga Maria Rebelo Lopes Moreira
+; W. J. Nesswetha
+; Suelly Svartman Printsak
+; Catherine Dumas
+; Maria Helena Padrão
+; Laura Maria Pereira
+; Filomena Maria Lemos
+; Isabel Vaz Ponce de Leão
+; Olímpio Pinheiro
+; Maria Isabel Gomes Marques
+; Giordano Tollardo
+; António Barreto
+; Manuel Alexandre Júnior
+; Yunnus A. Çengel
+; Michael A. Boles
+; Frederick J. Bueche
+; William A. Nash
+; António Gil
+; Gonçalo M. Tavares
+; Paulo Ferreira Borges
+; Pedro Rosa Mendes
+; Teresa Salema
+; Eduarda Dionísio
+; Carlos Drummond de Andrade
+; José Rodrigues
+; Rosa Maria Martelo
+; José Noronha
+; José Paulo Pereira
+; Pedro Serra
+; Osvaldo Manuel Silvestre
+; Simone Caputo Gomes
+; Glória Bastos
+; Olavo Bilac
+; José Van Den Besselaar
+; Charles R. Boxer
+; Maria Manuel Lopes Cardoso
+; Mário Garcia
+; António Soares Amora
+; José Gama
+; Landeg White
+; Olivinho Gomes
+; Roger Bismut
+; Vítor Neto
+; Sarah Adamopoulos
+; LEONEL MOURA
+; Zília Osório de Castro
+; Margarida Alfacinha
+; Gianluca Miraglia
+; Rui Almeida Paiva
+; Isabel Lousada
+; Maria João da Rocha Afonso
+; Maria Josefa Canellada
+; Eloísa Álvarez
+; Pilar Vásquez Cuesta
+; Cu Wei Xiao
+; Irene de Concepción Fernández
+; Beatriz Real Pérez
+; Ivana Carlsen
+; Dumitru Alistar
+; José Leonel Rodrigues
+; António Porto-Além
+; José Francisco Aranda
+; . Sainte-Beuve
+; Alfred Grosser
+; . Novalis
+; Saavedra Machado
+; Jorge Barradas
+; E. G. Ravenstein
+; Arthur Moreler
+; Arthur Morelet
+; João Pinharanda
+; Perfecto E. Cuadrado
+; Breyten Breytenbach
+; Joaquim Romero Magalhães
+; Carlos Alberto Braga
+; João Alberto Cabral Bandeira
+; Carlos Alberto Martins Ferreira
+; José Guardado Moreira
+; Maria de Lurdes Correia Fernandes
+; Laura Luckács
+; Cristina Robalo Cordeiro
+; Maria de Lourdes Netto Simões
+; Lucia da Silva
+; Sebastiana Fadda
+; Marcello Sacco
+; Fernando Cabrita
+; Fernando Calhau
+; Eduardo Perestrelo
+; António Cabrita
+; Fátima Inácio Gomes
+; José Gabriel Pereira Bastos
+; Rui Bernardo
+; Artur Guilherme Carvalho
+; Pedro Sinde
+; Helena Riausova
+; Kristina Hering
+; Afonso Moreira da Rocha
+; Joaquim Domingues
+; José da Silva Passos
+; Amélia dos Santos Lopes
+; Margarita Drenska
+; Alki Zei
+; Nicolai von Schwerder-Schreiner
+; Maribel López Habela
+; Jose Antonio Barrivso Ovejero
+; Antton Burgoa
+; Rafael Chacón
+; Francisco Villaespesa
+; Andrés González Blanco
+; P. Blanco Suárez
+; Ana Côrte-Real
+; Senem Sen
+; Helder Moura Pereira
+; Maria Sofia Magalhães
+; João Adolfo Hansen
+; Alcyr Pécora
+; Victor Santos
+; Fernanda Câncio
+; Quim Ferreira
+; Sigrid Undset
+; Ângela Leite
+; Pere Comellas Casanova
+; Maria de São Pedro
+; Salvato Trigo
+; Béatrice du Chavagnac
+; Elizabeth Hedborg
+; Luís Filipe Cristóvão
+; Anthero Monteiro
+; Jorge Vaz de Carvalho
+; Giambattista Vico
+; Rui Cascais
+; José Pedro Croft
+; Noel Teles
+; Jorge Morais
+; Ministério da Cultura, Direcção Regional da Cultura do Norte
+; Valeria Di Meglio
+; António M. B. Machado Pires
+; Luís Lóia
+; Martim de Gouveia e Sousa
+; Romana Valente Pinho
+; Alberto Pedroso
+; Joaquim de Almeida Lima
+; Centro de Arte Moderna / Fundação Caloute Gulbenkian
+; Isabel Lhano
+; Rosa Teixeira Bastos
+; Tito Pires
+; Markus Sahr
+; António Tomás
+; Marie-Hélène Piwnick
+; João Maria Nabais
+; Custódia Estrada
+; César A. Anjo
+; Karina-Mariana Todorova
+; Plamen Ouchev
+; Julio Cortázar
+; Octávio Ferro
+; Caroline Desbans
+; María Tecla Portela Carreiro
+; Nuno Moura
+;   Vespeira
+; João Rodrigues
+; Rosa Ramalho
+; Dumba-Va- Tembo
+; Raul Vitorino Rodrigues
+; Cândido Costa Pinto
+; Victor Brauner
+; Claude Simon
+; José Ribeiro e Castro
+; Francisco Proença Garcia
+; André Freire
+; António de Araújo
+; Cristina Leston- Bandeira
+; Marina Costa Lobo
+; Pedro Magalhães
+; Patrícia Ferraz de Matos
+; Cláudia Castelo
+; Castro Rodrigues
+; Daniel de Morais
+; Maria Natália Duarte Silva
+; Luís Krus
+; Amélia Andrade
+; Isabel Alçada
+; Fernando Rosas
+; José Stichini Vilela
+; António Manuel Hespanha
+; L. V. Nekrassov
+; Pedro de Freitas Branco
+; Teresa Tudela
+; António Pedro Mesquita
+; Pedro Caridade de Freitas
+; João Leal
+; Maria Antónia Goes
+; Pedro Castelo Branco Chaves
+; Base de Dados de Autores Portugueses .
+; BASE DE DADOS DE AUTORES PORTUGUESES
+; Isabel Ruth
+; Miguel Gonçalves Mendes
+; Ana Paula Inácio
+; Gabriel Lobo Fialho
+; Enrique Nogueras
+; Davide Bigalli
+; João Viegas
+; Sónia Neto
+; Georges Güntert
+; Silvano Peloso
+; Pedro Pinheiro
+; Claude Barrousse
+; Raymond Cantel
+; . Saki
+; Patrícia Anne Odber de Baubeta
+; Lu Ping Yi
+; Vlasta Dufková
+; Jirí Pelán
+; Helena Nascimento
+; Jean-Arthur Rimbaud
+; Ilda David
+; Antonin Artaud
+; Simon Watson Taylor
+; Alexandra Silvano
+; Carlos Calvet
+; João Artur Silva
+; João Moniz Pereira
+; Manuel D'Assumpção
+; Gonçalo Duarte
+; Luis Buñuel
+; Rui Cóias
+; Adriana Nunes
+; Vivette Desbans
+; Michel Legaud
+; Jacqueline Legaud
+; Anne Sommermeyer
+; Claude Duval
+; Jacqueline Yvés
+; Margarida Marques
+; Miguel Carvalho
+; Goetschel Roland
+; Guttmann Jacob
+; Pedro Gamboa
+; Bernardo de Vasconcelos e Sousa
+; José Miguel Sardica
+; Carlos Coelho Maurício
+; António Mota Redol
+; Duarte Ivo Cruz
+; António Azevedo
+; Anna Klobucka
+; Miriam Cyr
+; Lourença Baldaque
+; Ana Maria Costa Lopes
+; José Lamego
+; Miguel de Cervantes
+; Ana Cristina Oliveira
+; Rui Romão
+; Golgona Anghel
+; Enrique Trogal
+; José Luis Puerto
+; Jean-Pierre Léger
+; Manuel de Freitas
+; José Pedro Serra
+; José Cândido de Oliveira Martins
+; Amadeu Baptista
+; Irene Flunser Pimentel
+; Carlos Ademar
+; Francisco José Pereira ALVES
+; João Céu e Silva
+; Armindo Augusto
+; Carlos Carranca
+; Linhares Filho
+; António Freire
+; Gil Castro
+; Bernardino Graña Villar
+; Jesús Herrero
+; Pe. Braz da Costa de Mendonça
+; Homem Pessoa
+; Francisco Eugénio dos Santos Tavares
+; Ivo Castro
+; Carlos Geadas
+; Mário Vieira de Carvalho
+; Zé Pedro
+; Graça Costa Cabral
+; Artur Guerra
+; Fernando Morán
+; Lucien Sfez
+; João Paz
+; Michel Serres
+; Pierre Pierrard
+; Maria Elisa Nery de Oliveira
+; Isabel Maria Vaz Raposo (Bió)
+; Sílvia Montarroyos
+; Eurico Baptista
+; Luís Carmelo
+; Américo Guerreiro de Sousa
+; Maria Helena Malheiros
+; Fernando Bento
+; Jorge Palha
+; Leonor Machado
+; Mário César Lugarinho
+; Michele Iacocca
+; Benzion Netanyahu
+; Elias Lipiner
+; Chantal Tiberghien
+; Michael Wolfers
+; Carlos Torres Figueiredo
+; Laurinda Bom
+; Annie de Faria
+; Filomena Marona Beja
+; Mendo Castro Henriques
+; Lucília Verdelho da Costa
+; António Manuel Venda
+; José Esteves Pereira
+; Marion Ehrardt
+; Ana Maria Vilhena
+; José Ribeiro Ferreira
+; Afonso Alegre Duarte
+; Carlos Marreiros
+; Fernando Mão de Ferro
+; Henrique Risques Pereira
+; Pedro Oom
+; Henrique Tavares
+; José Manuel Pressler
+; Fernando Grade
+; José Pierre
+; Octavio Paz
+; Marie José Paz
+; Bernardo Pinto de Almeida
+; Guilherme Carmelo
+; C. F. Ramuz
+; António Lampreia
+; Mariana Sim-Sim
+; Paulo da Costa Domingos
+; Jonathan Griffen
+; Jean R. Longland
+; James Laughlin
+; José Sarmento
+; Orlando Alves Pereira de Carvalho
+; João Cabrita
+; G. Tolentino
+; Ramón Nicolás
+; Antonia Peeva
+; Vincenzo Russo
+; Fernando Alvim
+; Federica Barbi
+; Ana Nobre de Gusmão
+; John Lennon
+; João Manuel Nunes Torrão
+; Joaquim Mendes de Castro
+; Adelino Carvalhosa
+; Henry R. Larg
+; Armando Luís de Carvalho Homem
+; André Murraças
+; José Prata
+; Carlos Azevedo
+; Paulo Kellerman
+; José Luís Cardoso
+; Vítor Viçoso
+; Maria do Rosário Cunha Guimarães
+; Jorge Pais de Sousa
+; Rosa Abelaira
+; Antón Piñeiro
+; Xavier Frias
+; Josep A. Vidal
+; Goretti López
+; Vicente Rodríguez Lamela
+; Montserrat Mira
+; Clerilei Bier
+; Orietta Mori
+; Ignacio Vázquez
+; Paulo Tunhas
+; Maria de Lurdes Santos Fonseca Marques
+; Cristiana Abranches de Soveral e Paszkiewicz
+; José M. C. Belo
+; Antero da Silva Ricardo
+; José Maurício de Carvalho
+; Manuel Guedes da Silva Miranda
+; Sérgio Luís de Carvalho
+; Alva Martinez Teixeiro
+; Roberto Mulinacci
+; J. E. Moreirinhas Pinheiro
+; Maria de Fátima Martins de Jesus
+; A. Cabrita
+; Estela Couto Berger
+; Antoni Xumet Rosselo
+; Dean Trdak
+; François Rosso
+; Piet Janssen
+; Tarja Harkonen
+; Desislava Dimitrovova
+; João Lopes Marques
+; Jesús Losada
+; Carlos Pessoa
+; Vicente Alves do Ó
+; João Décio
+; Onofre de Freitas
+; Jose Luis Gavilanes Laso
+; Mark Twain
+; Celeste Natário
+; Erika Farny
+; Mariane Plode Hanganu
+; Graça dos Santos
+; Marco Fortunato Arrifes
+; Pedro Canais
+; Pedro Ludgero
+; António Moniz
+; Inês Bolinhas
+; Ana Maria da Silva Valente
+; Walter Benjamin
+; Inês Ribeiro Ferreira
+; Joana Quaresma Luís
+; Immanuel Kant
+; Hümmerich Franz
+; Abel Neves
+; Afonso de Melo
+; José Couto Nogueira
+; José António Saraiva
+; Júlio Machado Vaz
+; Leonardo Ralha
+; Margarida Gonçalves Marques
+; Marta Gautier
+; Nelson Saúte
+; Paulo Nogueira
+; Sofia Sá da Bandeira
+; Julio Payot
+; Soares Rocha
+; Joaquim Chorão Lavajo
+; Mário Santiago de Carvalho
+; Gualberto Gonçalves Silva
+; Fausto Quintas
+; José Dias de Sousa
+; António Ferra
+; Sérgio Godinho
+; Caetano Ferreira
+; Maria Natália Lima
+; Maria Teresa Maia Gonzalez
+; Violeta Figueiredo
+; Maria Gabriela Bragança
+; Alexandre Honrado
+; Ana Meireles
+; Luís da Silva Pereira
+; Carla Oliveira
+; Ernst Ludwig Gerber
+; Catarina Nunes de Almeida
+; Joana Serrado
+; António Borges de Carvalho
+; Maria da Graça Amaral da Costa
+; Marta Lança
+; Paula Lemos
+; Maria Manuel Baptista
+; Dora Nunes Gago
+; Luísa Costa Hölzl
+; Michael von Killisch-Horn
+; Sven Limbeck
+; Celeste Malpique
+; Renato Nunes
+; Jean-Claude Masson
+; Adri Boon
+; Luciano Mallozzi
+; José Maria Vieira Mendes
+; Maria Olinda Rodrigues Santana
+; Rui Herbon
+; Antonietta Pinamonti
+; Carlos Vale Ferraz
+; Zulmira Santos
+; João Freire
+; Orlando Ferreira Barros
+; Monica Bense
+; Carlos Acevedo
+; D. Fernando Coutinho
+; Jota Matos
+; João Cutileiro
+; Vitorino Martins
+; Alberto Óscar Pereira de Moura
+; Lucindo Ribeiro Cardoso
+; Horácio Tavares de Carvalho
+; José Maria Pereira Ventura
+; André Baldaia
+; Dareb Orpasob
+; Pedro Barbosa
+; Elsa Rodrigues dos Santos
+; Haroldo Maranhão
+; Charles Burney
+; Eugénio de Amorim
+; José Santa Bárbara
+; James Gibbs
+; Alberto Correia
+; Artur Correia
+; Rui Godinho
+; Maria Manuela Alves
+; António Mouta
+; João Ramalho Santos
+; José Manuel Saraiva
+; Xavier de Castro
+; Tiago Rebelo
+; Paulo Borges
+; Zilda Cardoso
+; Ricardo Adolfo
+; Sérgio Nazar David
+; Antonio Sáez Delgado
+; José Eduardo Franco
+; Teresa Ferrer Passos
+; Maria Isabel Morán Cabanas
+; Adelina Velho da Palma
+; Rui Grácio
+; Carlos Machado
+; Claude Maffre
+; Ondjaki
+; José Andrés Vasquéz
+; Clifford E. Landers
+; Vittoria Martinetto 
+; Roberto Francavilla 
+; António Louçã
+; Isabelle Paccaud
+; João Ubaldo Ribeiro
+; Ana Brilha
+; Rui Guilherme Figueiredo da Silva
+; António Nunes
+; Filipe Faria
+; Helena Simas
+; Barbara Mesquita
+; Rute Figueiredo
+; Ana Paula Costa
+; Ana Paula Arnaut
+; Fernando Gómez Aguilera
+; Zenóbia Collares Moreira
+; Maria Luísa Malato da Rosa Borralho
+; Edmundo Rocha
+; Francisco Soares
+; Moisés Fernandes
+; António de Abreu Freire
+; Teresa Font
+; Xavier Zarco
+; Martz Inura
+; António Vieira Nunes
+; Helena Margarida Mendes Ferrão Simões Patrício
+; Maria Joaquina Esteves Feijão
+; Frei António de Beja
+; João Tordo
+; Manuel Loff
+; Joana Marques de Almeida
+; Jesús Cobo
+; Amadeu de Carvalho Homem
+; Jaime Duarte de Almeida
+; Daniel Jonas
+; Francisco Camacho
+; Maria Helena Santana
+; Carlos Ascenso André
+; Maria Teresa Planadevall
+; Manuel A. Ribeiro Rodrigues
+; Cristina Castel-Branco
+; José Pereira de Sampaio
+; Maria Amélia Campos
+; Fernanda Damas Cabral
+; Maria do Sameiro Barroso
+; Maria Filomena Cabral
+; Leocádia Regalo
+; Domingos Lucas Dias
+; Maria Cristina de Castro-Maia de Sousa Pimentel
+; Adriana Silva Graça
+; Bertrand Russell
+; Heródoto
+; Maria de Fátima Sousa e Silva
+; Yves Gingras, Peter Keating e Camille Limoges
+; Ângelo dos Santos Pereira
+; Bibi Perestrelo
+; César Magarreiro
+; Fernando Dinis
+; João Rebocho
+; Kathryn Bishop-Sanchez
+; Patrícia Portela
+; Margarida Botelho
+; Manuela de Sousa Marques
+; Ruth Navas
+; D. Gonçalo de Castel-Branco
+; Rui Gonçalves de Castel-Branco
+; Louise Delapierre
+; Blaise Cendrars
+; Ricardo António Alves
+; Filipe Nunes Vicente
+; João Paulo Silvestre
+; Vicent Berenguer 
+; Maria Lívia Marchon
+; Marina de Almeida Ribeiro
+; Irwin Stern
+; Pedro Lains
+; João Fogaça
+; João Lobo Antunes
+; Ana Simões
+; Ana Carneiro
+; Maria Paula Diogo
+; Álvaro Pina
+; Giovanni Ricciardi
+; Manuela Câncio Reis
+; Vera Sousa Silva
+; A. Balbino de Carvalho
+; Paulo Renato Trincão
+; Cristina Isabel de Melo
+; Alice Raillard
+; Cláudio Lima
+; Amândio de Sousa Vieira
+; Gabriel Augusto Coelho Magalhães
+; Pierrette Chalendar
+; Gérard Chalendar
+; Pedro Almeida Vieira
+; Mafalda Moutinho
+; Rui Machado
+; Spyros Pantelakis
+; Tiago Patrício
+; Nilda Villar Rodríguez
+; João Hoffman
+; Margarida Araújo
+; orhan pamuk
+; José Carlos Barros
+; Maria do Rosário Machado
+; Maria Almira Soares
+; Ana Paula Ferreira
+; José Carrilho Videira
+; Manuel Ferreira Patrício
+; Arnaldo Cardoso Pinho
+; António Reis
+; Arménio Vieira
+; Fernando Mendonça Fava
+; Mário Carneiro
+; Alexandre Samis
+; J. Mendes Rosa
+; Rebeca Hernández
+; José Cutileiro
+; Maria António Fiadeiro
+; Luísa V. de Paiva Boléo
+; Astrid Schoregge
+; Sven Limbeck 
+; Valentin de Pedro
+; Daniele Petruccioli
+; Marta Ferré Freiras-Morna 
+; Antoni Picornell Belenguer
+; Rita Marnoto
+; Inger Midmo Alves
+; Marques de Quintanar
+; José A. Salvador
+; João Afonso dos Santos
+; Alfredo Martins
+; André Letria
+; João Caetano
+; Marta Torrão
+; Rui Cardosos Martins
+; Maria Rita Lino Garnel
+; Luís Vidigal
+; Frederick C. Hesse Garcia
+; António Silva Neves
+; Henrique Almeida
+; António Candeias
+; António Nóvoa
+; Manuel Henriques Figueira
+; Comissão para a Igualdade e Direitos das Mulheres
+; Bernard Emery
+; Jorge Edwards
+; António José Telo
+; Noémia Novais
+; João de Mancelos
+; João Negreiros
+; Liliani Brieviern
+; Linton Lomas Barrett
+; Margarida Drenska
+; Inácio Pignatelli
+; Gémeo Luís
+; Rui Valada
+; Manuel Paiva
+; Mariana Pereira
+; Constança Providência
+; Amadeu Lopes Sabino
+; José Morais
+; Jorge de Oliveira e Sousa
+; Luís Galvão Teles
+; Régine Kolinski
+; Vanda Anastácio
+; Elzira Maria Dantas Machado Rosa
+; José Vilhena
+; Martin Amanshauser
+; Anca Milu-Vaidesengan
+; Ori Preuss
+; Bernardo Carvalho
+; José Miguel Silva
+; João Paulo Borges Coelho
+; Murilo Carvalho
+; Paulo Galindro
+; Isabel Cristina Pinto Mateus
+; Diogo Pires Aurélio
+; Bento de Espinosa
+; Maria Alice Samara
+; Evelina Oliveira
+; Abigail Ascenso
+; Adélia Oliveira
+; Afonso Cruz
+; Cristina Maia Caetano
+; Catarina Moura
+; Miguel Babo
+; Ana Prata
+; Isabel Ricardo Amaral
+; Anabela Dias
+; Bruno Pinto
+; Vítor Oliveira Jorge
+; Carla Nazareth
+; Carla Pott
+; Lápis Voador
+; Maria de Lourdes Moreira Martins
+; Catarina Correia Marques
+; Cláudia Rocha
+; Pedro Bessa
+; Cláudia Mira
+; Cristiana Resina
+; Sara Rodrigues
+; Elisa Paulino
+; Joana Ratão
+; Eugénia Vasques
+; José Francisco Costa
+; Frederick G. Williams
+; Elsa Lé
+; Emílio Remelhe
+; Viriato Teles
+; Eunice Rosado
+; Flávia Leitão
+; Cristopher Damien Auretta
+; André Fragata
+; Isabel Alves
+; Inês do Carmo
+; Maria Teresa Salgado
+; Maria Helena Vilas-Boas Alvim
+; João Fanha
+; Silvio Renato Jorge
+; João Concha
+; João Tavares
+; Zé Manel
+; Ana Sampaio
+; Luís Trindade (Luix)
+; Nuno Ramos
+; Luís Henriques
+; Luís Valente
+; Isabel Minhós Martins
+; Fátima Afonso
+; M. Eugénia Medeiros
+; Bela Silva
+; Inês Oliveira
+; Ana Esteves
+; Maria Morais
+; António Manuel Afonso
+; Cândido da Agra
+; António Canteiro
+; Rui Miguel Saramago
+; Marta Martins
+; Fernando José Alves
+; Raquel Pinheiro
+; Carlos Casimiro de Almeida
+; Marta Madureira
+; Alberto Bemfeita
+; Paulo Marques
+; Marina Palácio
+; Miguel Gabriel
+; Alexandre Parafita
+; José Dias Egipto
+; Ana Oom
+; Xutos & Pontapés
+; Mila Martins
+; Raquel Ochoa
+; Vera Ramalho
+; Manuel Clemente
+; Dulce de Sousa Gonçalves
+; José Rodrigues dos Santos
+; Rose Nery Sttau Monteiro
+; Paulo Assim
+; Glória Marreiros
+; E. S. Tagino
+; Verónica Palomares Maíllo
+; Ana Maria Teixeira Soares
+; Paulo Moreiras
+; Manuel Moya
+; Roger Bastide
+; Cândido Beirante
+; Jasmina Neskovic
+; Maria Morais
+; Carlos Roma Machado de Faria e Maia
+; Eugénia de Vasconcelos
+; Fernando Évora
+; Janico
+; Maria do Vale Cartaxo
+; Luísa Marques da Silva
+; Paula de Lemos
+; Miguel Ribeiro de Almeida
+; Orlando Cardoso
+; Nélio Conceição
+; João Paulo Silva
+; David Machado
+; Alexandra Inês
+; Ramiro Guedes de Campos
+; Ribeiro Dias
+; António Sousa Freitas
+; J. Duarte Amaral
+; Júlio Rafael António
+; Carlos Portugal Ribeiro
+; Maria do Carmo Pinheiro e Silva
+; Jorge Carvalho Martins
+; Manuel Tânger Correia
+; Alison Aiken
+; Carlos Sabat Ercasty
+; V. de Pedro
+; Miguel Spinelli
+; Constantino José dos Santos
+; Maria Gabriel Moreno Bulas Cruz
+; Maria da Conceição Vilhena
+; José Carlos de Oliveira Casulo
+; Maria das Graças Moreira de Sá
+; Lurdes Cameirão
+;  J. M. de Barros Dias
+; Paulo Samuel
+; Gilda Nunes Barata
+; Maria Luísa Castro Soares
+; Jorge Miguel
+; Paulo Araújo
+; José Duarte
+; Bernardo Brito e Cunha
+; Eduarda Ferreira
+; Fábio Mendes
+; João Pedro Marques
+; Fátima Ribeiro de Medeiros
+; João Esteves
+; Mário de Campos Vidal
+; Anabela Natário
+; Luís Carvalho
+; Maria José de Lencastre
+; Erwin Székely
+; Marco Balducci
+; Cui Wei Xiao
+; Juan José Álvarez Galán
+; Enrique Moya Carrión
+; Julio Baquero Cruz
+; Pamela Bacarisse
+; Pedro Mireles
+; Ángela Martín del Burgo
+; Manuel Alves
+; Manuel Viegas Abreu
+; João Luís Sequeira
+; José Manuel Garcia
+; Manuel Filipe Canaveira
+; Joaquim de Barros Ferreira
+; Lygia Fagundes Teles
+; Silvana Urzini
+; Carlos Martins
+; François-Michel Durazzo
+; Ferreira Gullar
+; Pierre Hourcade
+; António Manuel Caldeira Azevedo
+; Ana Maria Montes Martins Meireles
+; Massaud Moisés
+; José Augusto Maia Marques
+; Maria Eugénia Carvalho e Branco
+; Maria da Conceição Fernandes
+; .
+; Joana Bértholo
+; Vasco Luís Curado
+; João Príncipe
+; José Augusto Gonçalves
+; Alberto Filipe Araújo
+; Joaquim Machado de Araújo
+; Clementina Maria Esteves de Oliveira
+; manuel r
+; Ana Rita Martins
+; Ernesto Castro Leal
+; António Rodrigues
+; Fernando Belo
+; António Júlio de Andrade
+; Maria Fernanda Guimarães
+; Fabio Mario da Silva
+; António Eça de Queiroz
+; Carlos Maurício
+; Guilherme de Oliveira Martins
+; Carmo Salazar Ponte
+; António Braz de Oliveira
+; Albert Silbert
+; Sílvia Amorim
+; Elfrieda Kaut
+; Door L. Roelandt
+; Rogério Seabra Cardoso
+; Cristina Norton
+; João Pedro Correia
+; a
+; Marlene Ferraz
+; António Folgado da Silveira
+; Riccardo Marchi
+; António José de Brito
+; José Luís Quintão
+; António Pires
+; João Barreto
+; Emílio de Castelo Branco
+; Gaspar do Couto Ribeiro Vilas
+; José Ribeiro da Cruz
+; Luís Feliciano dos Santos
+; Serra Frazão
+; Mónica Cid
+; Gustavo de Freitas
+; Neuza Rodrigues
+; Márcia Ramos Ivens Ferraz
+; Manuel Júlio Mendonça Torres
+; Álvaro Rêgo Cabral
+; Nuno Martins Calçada
+; Carlos Ferreira da Costa
+; Emílio de San-Bruno
+; Nuno Neves
+; Augusto Martins
+; Rita Correia
+; José Guerra Maio
+; Jacques Thiériot
+; Rosa Martínez Alfaro
+; Mustafa Yildirim
+; Madame Rattazzi
+; Maria Alexandra Carvalho dos Santos
+; Rui Cardoso Martins
+; Fernando Henrique de Passos
+; Teresa André
+; Francisco Duarte Augusto
+; Leonor Xavier
+; Sigmund Freud
+; Manuel Resende
+; Luís Miguel Novais
+; Mariana Roquette Teixeira
+; Luísa Costa Cabral
+; António de Vasconcelos Nogueira
+; Eduardo Kol de Carvalho
+; Alexandre Morais
+; António Ventura
+; Sérgio Campos Matos
+; Francisco Santana
+; Aurélio Bentes Bravo
+; José Pedro Paiva
+; Carla Maia de Almeida
+; Yu Hui Juan
+; Rui Ramos
+; Nuno Gonçalo Monteiro
+; Maria da Conceição Ruivo
+; Eduardo Palaio
+; Mário Lúcio Sousa
+; José Sarmento de Matos
+; José Policarpo
+; David Brookshaw
+; Fernanda Cristina Santos
+; Martina Diani
+; Rodrigo Sobral Cunha
+; Renata Correia Botelho
+; Manuel Braga da Cruz
+; Mafalda Maria Ferin Cunha
+; Fernando de Castro
+; Ricardo Gil Soeiro
+; Maria da Conceição Caleiro
+; Eugénia Brito
+; João Rasteiro
+; António José Borges
+; Chiara Magnante
+; Agnese Soffritti
+; Cristóvão Tezza
+; Chico Buarque de Holanda
+; Fernando Vieira de Sá
+; Jorge Costa Lopes
+; Pedro Baptista
+; Adelino Cunha
+; Fernando Pereira Marques
+; Paulo Bugalho
+; César Molina
+; Jorge de Figueiredo Dias
+; Maria João Pires
+; Augustín Remesal
+; Luís Trindade
+; Rafael Salinas calado
+; Jorge Couto
+; Ana Isabel Sardinha Desvignes
+; Gastão (dir.) Cruz
+; Ana Amaral
+; Jean Aubin
+; Pedro (dir.) Calafate
+; Maria Manuel Lisboa
+; Aires Antunes Dinis
+; José Bulhão Martins
+; Sónia Cântara
+; Ivan Teixeira
+; Luís Mário Lopes
+; João Santos Lopes
+; Francisco Pestana
+; Maria Teresa Pinto Coelho
+; Rui Almeida
+; Maurice Echinard
+; José de Saldanha da Gama
+; Maria Teresa Lopes Pereira
+; Joaquim Palma
+; Francisco Fernandes
+; Jorge Seabra
+; Jorge Carlos
+; Raquel Camacho (texto)
+; Bruno Gaspar (ilustração)
+; Manuel António Teixeira Araújo
+; Francisco António Lourenço Vaz
+; Adão Cruz
+; Fléxa Ribeiro
+; José Pedro Leite
+; Luís Miguel Duarte
+; Maria da Conceição Falcão Ferreira
+; Ana Silvia Volpi Scott
+; Margarida Durães
+; Ana Paula Soares Pires
+; Maria João Mendes Vaz
+; Maria Fernanda Rollo
+; Helena Pinto Janeiro
+; Daniel Jorge Seixas de Melo
+; Telmo Faria
+; Arnaldo da Silva Marques Pata
+; Elisa Maria Mendes das Neves Travessa
+; Rita Almeida de Carvalho
+; Filipa Lowndes Vicente
+; Sandra Cristina Martins Costa
+; José António Ribeiro de Carvalho
+; José Neves
+; Ricardo Antunes
+; Manuel Galvão da Silva
+; Margarida Seixas
+; Alfred Klaar
+; Luís Miguel Cintra
+; Robert Lemm
+; Pedro Vieira
+; Ana Margarida Falcão
+; Graça Alves
+; Rolf Ulbrich
+; Romeu Braga
+; Margarida Maria Pinto Martins Alves
+; Elsa Serra
+; Maria João Lopo de Carvalho
+; Maria Luisa Cardoso Rangel de Sousa Coelho
+; Nady Moreira Domingues da Silva
+; Susana Antas Videira
+; M. P. Sadler
+; João José Louzada de Magalhães
+; David Cherician
+; João de Oliveira Lopes
+; Idalina matos Lejeune
+; Maria Isabel Rocheta
+; Hanna Batoréo
+; Augusto Soares da Silva
+; Said Benabdelouahed
+; Fernando Gabriel Vicêncio
+; Maria Regina Louro
+; Jacinto Rego de Almeida
+; Cárceres Monteiro
+; Ernesto (org.) Rodrigues
+; António Vasconcelos Raposo
+; Jorge Calado
+; Eunice Malaquias Vouillot
+; Maria Augusta Babo
+; João Lopes Alves
+; Roque Cabral
+; Paulo Filipe Monteiro
+; Paolo Scarnechia
+; João Ferreira de Almeida
+; Adelaide Amado
+; Manuel do Nascimento
+; Nikolai Kantchev
+; Nuno Domingos
+; Paulo Granjo
+; Maria da Graça A. Mateus (coord.) Ventura
+; Manuela Ivone Paredes Pereira da Cunha
+; Manuel Carlos Silva
+; Clara Sarmento
+; Susana Noronha
+; Susana de Noronha
+; Bruno Sena Martins
+; Helena Singer
+;  Carlos André de Brito Correia
+; João Nuno Coelho
+; Lourenço de Carvalho
+; Luiz Beira
+; Lúcia Cechin
+; Eduardo Ferraz da Rosa
+; Cidália Maria Bicho
+; Palmira Baptista
+; Vera de Vilhena
+; Rui Namorado
+; Romana Petri
+; Letizia Grandi
+; Serena Magi
+; Ana Cristina Pereira
+; Germano Silva
+; António Fortuna
+; Maria Cândida Mendonça
+; Raquel Bello Vázquez
+; Maria da Graça Maia
+;  Anónimo
+; Eduardo Libório
+; Alexandre Caetano Gomes
+; Jean Subirats
+; Cláudia Maria Ferreira de Sousa Pereira
+; Tânia Ganho
+; Martín López-Vega
+; David Soares
+; Álvaro da Silveira
+; William Edward Purser
+; Carlos Saboga
+; Eva Bacelar
+; Ortaire Fournier
+; Hélio J. S. Alves
+; Saul António Gomes
+; Benjamim Salgado
+; Leonel Correia da Silva
+; Bernardete Costa
+; Manuel Braz de Magalhães
+; Angela Fedele
+; Luís Machado de Abreu
+; Harry Bernstein
+; Ana Lúcia Silva Terra
+; Nuno Camarneiro
+; António Figueira
+; João Leal
+; Maria Antonieta Costa
+; Cristina Rodríguez
+; Roberto Bolaño
+; Plamen Oushev
+; Maria João Avilez
+; Carlos da Costa Assunção
+; Cláudia Clemente
+; Gabriel Rui Silva
+; Marco Aurélio Pinotti Catalão
+; Daniel Baguet_Júnior
+; João Manuel Amorim
+; Francisco Moita Flores
+; Fernando Sales Lopes
+; Maria de Fátima Sousa e (coord.) Silva
+; Xavier Rodríguez Baixeras
+; Vincenzo Barco
+; Paula Sentandreu Roget
+; Carlos Penela Martín.
+; Luís Felício
+; Maria Alzira (coord.) Seixo
+; Filipe (org.) Cammaert
+; Norberto do Vale Cardoso
+; Inês de Barros Baptista
+; Filipe Moraes Alçada
+; Armando Alves
+; Manuela Bacelar
+; Jovan Tatic
+; Joana Espain
+; Rui Vieira
+; André Gago
+; Ricardo Dias Felner
+; Isabel Ramalhete
+; Graça Vilhena
+; Fausto Alberto Pereira Pinto
+; Alberto Oliveira Pinto
+; Eugénio Roda
+; Joaquim Pessoa
+; Eduardo Olímpio
+; Carlos Barradas
+; Manuela Nogueira
+; Maria Sofia de Santo Tirso
+; Maria Alice Andrade Santos
+; Noémia Setembro
+; Maria Teresa dos Santos Silva
+; Mónica Leal da Silva
+; José Dias de Souza
+; Maria Teresa Sena de Vasconcelos
+; Isabel Maria Vaz Raposo
+; Teresa Saavedra
+; Luísa Ducla Soares
+; Maria Isabel de Mendonça Soares
+; João Ricardo Pedro
+; António Torrado
+; José Barata Moura
+; José Viale Moutinho
+; José Vaz
+; Sofia Vilarigues
+; Daniel Serrão
+; Francolino Gonçalves
+; Manuel Alegre
+; Carla Maia de Almeida
+; Maria do Carmo de Almeida
+; Virgílio Almeida
+; Jorge Barros
+; Joaquim Semeano
+; Carlos Canhoto
+; Bió
+; Susana Ramos
+; Sara Monteiro
+; João Botelho
+; Assunção Cabrita
+; João Caetano
+; Andréa del Fuego 
+; José Francisco Meirinhos
+; J. M. da Cruz Pontes
+; Ana Kuzmanovic-Jovanovic
+; Helder Carita
+; Raquel Gonçalves Maia
+; Maria Ivone de Ornellas de Andrade
+; José Cambraia
+; Ana Luísa Amaral
+; Bernardo Carvalho
+; J. A. David Morais
+; Rubens Figueiredo
+; Ana Vicente
+; António Pedro Vicente
+; João Varela Gomes
+; Jorge Augusto Paulo Pereira
+; S. e Martins, J. C. de Oliveira (org.) Guimarães
+; Emília Ferreira
+; Isidoro Augusto
+; Jurgen Habermas
+; Lumir Nahodil
+; Tucídides
+; M. Gabriela Granwehr
+; Gerald Moser
+; Ana Pessoa
+; Alfredo Estebaínha
+; José Figueira Lopes
+; Antero Vieira de Lemos
+; Elisa Maria Lopes da Costa
+; Cláudia Galhós
+; Humberto Oliveira
+; Sara Costa
+; Marguerite Wünscher
+; Maria Margarida Ribeiro Garcez da Silva Ventura
+; João Pedro George
+; Luís Serguilha
+; Júlia Matos Silva
+; Miguel Cardina
+; Fernando Tavares Pimenta
+; Bruno J. Navarro
+; Dimíter Ánguilov
+; Simão Fernandes de Tavira
+; João Bouza da Costa
+; Nuno Costa Santos
+; Ana Biscaia
+; Catarina Sobral
+; Richard A. Preto-Rodas
+; Ana Ventura
+; Pitum Keil do Amaral
+; Tiago Albuquerque
+; Flora Azevedo
+; Teresa Balté
+; André da Loba
+; António Lobo Antunes
+; Fernando Cardoso
+; Alexandra Monteiro
+; Yvette Centeno
+; Mário Cláudio
+; Maria da Conceição Coelho
+; Maria Cabral de Mendonça
+; Maria Alexandra Cóias
+; Mário Contumélias
+; Luís Soares Barbosa
+; José António Garcia Chaves
+; Maria Araújo da Silva
+; Pedro Miguel Rocha
+; Clara Pinto Correia
+; Maria Rosa Dias Costa
+; Luísa Dacosta
+; Raquel Delgado
+; Fátima Domingues
+; Gabriela Morais
+; António Mega Ferreira
+; Maria da Conceição Galveia Ferreira
+; Maria Emília de Almeida M. Ferreira
+; Violeta Figueiredo
+; Silva Capón Sánchez
+; Frei Bernardo de Jesus Maria
+; José António Franco
+; Maria Antonieta Garcia
+; Teolinda Gersão
+; Fernando Bento Gomes
+; Nuno Higino
+; Alexandre Honrado
+; Leonoreta Leitão
+; José Jorge Letria
+; Manuela Moniz Lopes
+; Cremilde Madaíl
+; Álvaro Magalhães
+; Gonçalo Viana
+; Manuel Jorge Marmelo
+; Maria Mata
+; Maria Alberta Menéres
+; João Carlos Pereira
+; Vuk Secerovic
+; Yao Jing Ming
+; Instituto Cultural de Macau
+; Rui Manuel Afonso Mateus
+; Rubem Fonseca
+; Ivo Lima do Carmo
+; Helena Carvalho
+; Rhett McNeil
+; José Manuel de Vasconcelos
+; Inês Pupo
+; João Morgado
+; José Seabra da Silva
+; Francisco Melo Ferreira
+; Maria Lucinda Fonseca
+; Teresa Sancha Pereira
+; Catarina Dantas
+; Miguel Martins
+; Eduardo Pires Coelho
+; Edmundo Pedro
+; René P. Garay
+; José Machado Pais
+; Sara Repolho
+; Nuno de Figueiredo
+; Porfírio Silva
+; João Mangualde Boquinhas
+; Manuela Montenegro
+; Alexandre Dias Pinto
+; António Loja Neves
+; Fernando Correia Pina
+; Francisco Alvarez Pamplona
+; Jacinto Martins
+; Maria João Worm
+; Roque Bernardo Barreto Miranda
+; Dalton Trevisan
+; José Barros Nunes de Lima Nobre
+; Margarida Vale de Gato
+; Nuno Milagre
+; José Mário Silva
+; Miguel Castro Caldas
+; Maria Gabriela Oliveira
+; Paulo Varela Gomes
+; Alberto Xavier
+; Lopes Rodrigues
+; Atalaire
+; Renate Heß
+; Rui Marques Veloso
+; Alfredo Caldeira
+; Diana Andringa
+; José Pacheco
+; Petra Petrac
+; Isabel Valadão
+; Armando de Menezes
+; Armanda Duarte
+; Emerenciano
+; Duarte Bélard Fonseca
+; Fernanda Fragateiro
+; Daniel Hahn
+; Cecília Honório
+; Teresa Saavedra
+; Fernando Madaíl
+; Thierry Proença dos (org.) Santos
+; Fr. Henrique de Sousa de Jesus Maria
+; António Gonçalves
+; Belarmino Pedro
+; Amélia Pinto Pais
+; José de Guimarães
+; Alice Jorge
+; Elsa Lé
+; Manuel de Bettencourt Galvão
+; Teresa Lima
+; António Fournier
+; Maria João Lopes
+; João Lucas
+; Gémeo Luís
+; Gil do Monte
+; Miguel Castelo Branco
+; Madalena San-Bento
+; Ana Cristina Silva
+; Pedro Calafate
+; Paulo Alexandre Borges
+; Carlos (coord.) Morais
+; Elodie Dupau
+; Marta Madureira
+; Cristina Malaquias
+; Bruno Martins Soares
+; Carlos Marques
+; Horácio Tomé Marques
+; Jorge Martins
+; Rami Sa'ari
+; António M. Martinó
+; Iman Napea
+; Rui Pires Cabral
+; Magda de Avelar Pinheiro
+; Pedro Beltrão
+; Pedro Caldeira Rodrigues
+; David Frier
+; Flavia Maria Corradin
+; Abel Barros (org.) Baptista
+; Maria de Lourdes A. (coord.) Ferraz
+; Cristina Carvalho
+; Luís Miguel Campião
+; José María Martín Patino
+; Francisco Teixeira da Mota
+; Edgar Pires Cavaco
+; Nasi Lera
+; Antoine Homsi
+; Saleh Almani
+; Abir Hassan
+; Nazmun Nahar Alam
+; Núria Prats Espar
+; Marie Havliková
+; Dejan Trdak
+; Madalena Carretero Cruz
+; Puchong Dejarkom
+; Maria João L. Ortigão de Oliveira
+; Paulo Reis Mourão
+; Helder Sequeira
+; Nuno Nepomuceno
+; Conceição Dinis Tomé
+; Esther Mucznik
+; António Breda Carvalho
+; Susana Cavaco
+; Francisco José dos Santos Mendes
+; Maria da Graça Vicente
+; Carlos Pacheco
+; Mário Berberan e Santos
+; Maria Inácia Rezola
+; António Matos Ferreira
+; Carlos Ernesto de Sá Cardoso 
+; João Alves da Costa
+; Emília Nóvoa Faria
+; António Martins
+; Joana Brites
+; Artur Modesto
+; Maria Alice Oliveira Lusitano Gonçalves
+; António Augusto Gonçalves
+; João Miguel Tavares
+; Alain Corbel
+; António Lucena
+; Despina Niculescu
+; Dan Botta
+; Carmen Vasilescu
+; Ion Moraru
+; Al. Popescu-Telega
+; Cesáreo García Fernández
+; Pavel Mocanu
+; Angela Mocanu
+; Mariana Ploae Hangunu
+; Andrei Benedek
+; Anca Milu-Vaidesegan
+; Clarisa Lima
+; Emil Fulda
+; Roxana Eminescu
+; Georgiana Barbulescu
+; Andrei Ionescu
+; Patrícia Lucas
+; Rui Manuel Amaral
+; Carlos Rangel
+; Maria de Fátima Botão
+; Maria do Rosário Bastos
+; Maria Filomena Andrade
+; António Matos Reis
+; Paula Cristina Barata Dias
+; Carlos Manuel da Silva Moura
+; Maria Albertina Tapadinhas
+; João Luís Inglês Fontes
+; Anísio Miguel de Sousa Saraiva
+; Jerónimo Pizarro
+; Nuno Lobo Antunes
+; Ulrich Kunzmann
+; Roberto de Hollanda
+; Salomé de Almeida
+; Felipe Cammaert
+; Laura de Mello e Souza
+; Inês Barros Baptista
+; Carlos Correia
+; António Ferra
+; Augusto Baptista
+; Ana Meireles
+; Anabela Mimoso
+; Sílvia Montarroyos
+; Ernesto de Andrade Pardal
+; José Carlos Sendim
+; Álvaro Carvalho
+; Victor Pinho
+; Flávio Lopes da Silva
+; Vítor Serra
+; Paula Teixeira de Queiroz
+; Ana Saldanha
+; Ana Maria Magalhães
+; Isabel Alçada
+; António Avelar de Pinho
+; Pedro de Freitas Branco
+; Ricardo Araújo Pereira
+; Eduardo White
+; Dina Gusmão
+; Sandra Biondo
+; Alexandra Moreira da Silva
+; Luís Maffei
+; Mónica Baldaque
+; Francisco de Eulália
+; Cristina Drios
+; João Pedro Silveira
+; Irene Pih
+; Raquel Freire
+; João Carlos Vitorino Pereira
+; Comissão das Comemorações do Centenário
+; Catarina Pires
+; Maria Valentina Paiva
+; Maria Otília Pereira Lage
+; João de Castro Nunes
+; Frei João de São Pedro
+; Fernando Dacosta
+; Victor Eleutério
+; Ilda Mendes dos Santos
+; Paula Cristina Costa
+; Álvaro Giesta
+; Manuel Madeira
+; Gabriela Ruivo Trindade
+; Idalina Maia
+; Ana Rita Faustino
+; Ricardo Dias
+; Maria Saraiva de Menezes
+; Raquel Nobre Guerra
+; Irene Anderberg
+; Óscar (coord.) Mendes
+; Óscar Mendes
+; Ruy Reis Tapioca
+; Luís Andrade Sá
+; Fr. Paulo da Trindade
+; Jerónimo Calvo
+; Paula Cristina Rodrigues
+; Maria do Rosário Monteiro
+; Maria do Rosário (org.) Pimentel
+; Jorge Fazenda
+; João Caraça
+; Ana Vaz Milheiro
+; Nuno Faria
+; Rui Ângelo Araújo
+; Frei António Soares de Albergaria
+; C. F. Beckingham
+; G. W. B. Huntingford
+; Susana Rosa
+; Juana Inarejos Ortiz
+; José Domingos
+; Pelouro da Cultura da C. M. da (org.) Guarda
+; Santiago Ochoa
+; Alexandra Guimarães
+; Susana Noronha Cunha,
+; Marlene Teixeira
+; Sandra Ferreira,
+; Ana Margarida de Carvalho
+; Bruno Vieira Amaral
+; Hugo Gonçalves
+; Paulo M. Morais
+; Filipe Fonseca Homem
+; Rodrigo Magalhães
+; Pedro Almeida Maia
+; Paula de Sousa Lima
+; Carlos Alberto Machado
+; Alfonso Bruno Parisini
+; Margarida Gerdinivska
+; Vincent Gorse
+; Alice Borges Gago
+; Carla Martinho
+; Luís Raposo
+; Catarina da Fonseca
+; Luís Salgado de Matos
+; Gaspar Martins Pereira
+; Fernando de Sousa
+; Daniel Bastos
+; Maria Marta Lobo de Araújo
+; Federico Bertolazzi
+; Margarida Acciaiuoli
+; Manuel Dias Duarte
+; Valério Romão
+; Carlos Câmara Leme
+; Susana de Brito Barrote
+; Sérgio Manuel Pratas
+; Maria Silvério Morais
+; Maria Manuel Viana
+; Laborinho Lúcio
+; João Ermida
+; António Loja
+; Fernando Emídio da Silva
+; João Alves
+; Orlando Grossegesse
+; Anne-Marie Lemos
+; Sarira Brandt
+; João Amadeu Oliveira Carvalho da Silva
+; José Nogueira Pinto
+; Joana Pires Lopes
+; Evelina Oliveira
+; Inês Oliveira
+; Susana Oliveira
+; Catarina da Câmara Pereira
+; Jorge Pinheiro
+; Júlio Pomar
+; Matilde Campilho
+; Francisco Providência
+; Ivone Ralha
+; Cristina Robalo
+; Cristina Sampaio
+; Santelmo
+; Fernando Saraiva
+; Eugénio Silva
+; João Tinoco
+; Cristina Valadas
+; Maria de Vasconcellos
+; José Miguel Ribeiro
+; Francisco Sousa Neto
+; Puri Fontes
+; Ruy d'Abreu Torres
+; Maria Armanda de Almeida e Sousa
+; Paulo Pereira
+; Luiz Filipe Thomaz
+; Manuele Masini
+; Joaquim Franco
+; Alexandre Dale
+; Manuel Tomás
+; Miguel d'Abadia Ramos Jubé Junior
+; Lara Xavier
+; Susana Margarida Cardoso Fernandes Ferreira
+; Afonso Reis Cabral
+; Anton Papleka
+; Aharon Shamir
+; Henrique Madeira
+; Ana Luísa Vilela
+; Tania Martuscelli
+; Diogo Ramada Curto
+; João Pedro Cachopo
+; Rosa Oliveira
+; Luís Miguel Baptista
+; Jorge Trigo
+; Lúcia Liba Mucznik
+; Fernando Fitas
+; António Lopes
+; Sérgio Rodrigues
+; Tatiana Sanches
+; Henrique Leitão
