@@ -6,7 +6,8 @@
 # Cria também o ficheiro autores-com-datas.txt , que só lista os autores com
 # informação de data de nascimento ou morte.
 #
-# Finalmente, gera um autores-possivelmente-mortos.txt , auto-explicativo.
+# Finalmente, gera um autores-possivelmente-mortos.txt , auto-explicativo, e um
+# autores-quase-garantidamente-falecidos.csv , ainda mais filtrado.
 
 rm lista-de-autores; touch lista-de-autores
 
@@ -26,14 +27,14 @@ for i in $(seq 1 $l); do
     then head -n $i autores-com-datas.txt|tail -n 1 >> autores-possivelmente-mortos.txt; 
   fi;
   if [ $(head -n $i autores-com-datas.txt|tail -n 1|cut -d\; -f2|grep [1-9]|grep "-"|wc -l) -eq $(echo "0") ]; 
-    then head -n $i autores-com-datas.txt|tail -n 1|grep "fl." >> autores-possivelmente-mortos.txt;
+    then head -n $i autores-com-datas.txt|tail -n 1|grep "fl\." >> autores-possivelmente-mortos.txt;
   fi;
 done
 
-grep "fl." autores-possivelmente-mortos.txt > autores-garantidamente-falecidos.txt
-l=$(grep -v "fl." autores-possivelmente-mortos.txt)
-for i in $(seq 1 $i); do
-  if [ $(grep -v "fl." autores-possivelmente-mortos.txt|head -n $i|tail -n 1|cut -d -f2|grep [1-9]|wc -l) -eq $(echo "1") ];
-    then grep -v "fl." autores-possivelmente-mortos.txt|head -n $i >> autores-garantidamente-falecidos.txt;
+grep "fl\." autores-possivelmente-mortos.txt > autores-quase-garantidamente-falecidos.csv
+l=$(grep -v "fl\." autores-possivelmente-mortos.txt|wc -l);
+for i in $(seq 1 $l); do
+  if [ $(grep -v "fl\." autores-possivelmente-mortos.txt|head -n $i|tail -n 1|cut -d\; -f2|grep [1-9]|wc -l) -eq $(echo "1") ];
+    then grep -v "fl\." autores-possivelmente-mortos.txt|head -n $i|tail -n 1 >> autores-quase-garantidamente-falecidos.csv;
   fi;
 done
