@@ -1,8 +1,8 @@
 Autores Portugueses
 ===================
 
-Este script e lista foram inicialmente feitos para gerar, como resultado, este
-artigo:
+Este conjunto de scripts e listas foram inicialmente feitos para gerar, como
+resultado, este artigo:
 * http://ensinolivre.pt/?p=285
 
 Planeia-se o uso de três fontes de dados distintas, sendo que, por enquanto,
@@ -10,8 +10,9 @@ temos duas fontes de informação.
 
 ## www.dglb.pt
 
-Na raíz, o `script.sh` usa esta fonte, descarregando os dados em bruto (ver
-`html-files`), e gerando o CSV `autores-e-suas-mortes.csv` como resultado.
+Na directoria `dglb`, o `script.sh` usa esta fonte, descarregando os dados em
+bruto (ver `html-files`), e gerando o CSV `autores-e-suas-mortes.csv` como
+resultado.
 
 O script `autores.py` faz uma melhor análise dos dados desta fonte, gerando o
 ficheiro `autores.csv`.
