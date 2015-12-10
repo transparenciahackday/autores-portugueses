@@ -43,3 +43,6 @@ poderá ser visível, uma das aplicações que consideramos interessantes é
 recolher, a partir de aqui, todos os autores que morreram em determinado ano,
 para poder identificar autores (e obras) que entram em domínio público em
 determinada data.
+
+Enquanto não temos o resto mais organizado, pode ser usado o script
+`quem-morreu.sh` que, para determinado ano, diz quem morreu nessa data.
