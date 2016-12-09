@@ -26,6 +26,11 @@ em bruto, que são depois processados pelo script `process-bnp.sh`. Para já, os
 resultados mais interessantes serão a `lista-de-autores.txt` e o
 `autores-quase-garantidamente-falecidos.csv`.
 
+## Dependências
+
+Este conjunto de scripts foram escritos em `bash`, e dependem da ferramenta
+`html2text`.
+
 ## Melhorias
 
 ### Dados consolidados
