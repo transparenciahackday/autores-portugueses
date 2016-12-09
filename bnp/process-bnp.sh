@@ -9,6 +9,12 @@
 # Finalmente, gera um autores-possivelmente-mortos.txt , auto-explicativo, e um
 # autores-quase-garantidamente-falecidos.csv , ainda mais filtrado.
 
+# Verifica se as dependências estão disponíveis:
+command -v html2text >/dev/null 2>&1 || { 
+  echo >&2 "$0 depends on html2text, but it doesn't seem to be installed. Aborting.";
+  exit 1;
+}
+
 rm lista-de-autores; touch lista-de-autores
 
 for x in {a..z}; do
@@ -17,7 +23,15 @@ for x in {a..z}; do
   done;
 done;
 
-sort -u lista-de-autores > lista-de-autores.txt
+# Vamos eliminar da lista um conjunto de palavras-chave que, sendo pertencente
+# a "nomes de autores", se referem a autores colectivos (ex.: "Escola
+# Sabatina") e não a pessoas singulares
+sort -u lista-de-autores| \
+  grep -v "Escola "|grep -v "Escolas "|grep -v "Escolares "|grep -v "Publishing"| \
+  grep -v "AA"|grep -v "A\.A"|grep -v -i "animation"|grep -v "ABA"|grep -v "Ábaco"| \
+  grep -v "Abadia de"|grep -v "Abadia São"|grep -v "Restaurante" \
+  > lista-de-autores.txt
+
 grep , lista-de-autores.txt |grep [1-9] | sed 's/\(.*\),/\1;/' > autores-com-datas.txt
 
 l=$(cat autores-com-datas.txt |wc -l); 

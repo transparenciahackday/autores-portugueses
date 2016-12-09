@@ -29,7 +29,6 @@
 7, Aveiro; 2004
 7, Lisboa; 2008
 9, Lisboa; 1999
-AAAS Conference American Studies and Peace, 25, Salzburg; 1999
 Aa, Pieter van der; 1659-1733
 Aarão de Chaves; fl. 1767
 Aaronovitch, David; 1954-
@@ -971,8 +970,6 @@ Agrovouga 90; Aveiro
 Agrovouga 91; Aveiro
 Agrovouga 94; Aveiro
 Agrovouga 95; Aveiro
-Agrupamento de Escolas da Junqueira - Escola Básica 2;3 Dr. Carlo Pinto
-Agrupamento de Escolas de Rio Caldo; 2008-2009
 Aguado, Emiliano; 1907-1979
 Aguado, Francisco, 1572-1654; S.J.
 Aguado, Jesús; 1961-
@@ -2872,30 +2869,15 @@ Altomare, Donato Antonio; fl. 15--
 Aluai, Hélia; 1973-
 Alu, Niccolo; fl. entre 1688 e 1700
 Alunno, Francesco; ?-1556
-Alunos 4o ano da Escola 1o CEB, no 4; Rodrigo
-Alunos da Escola dos anos lectivos de 2001-02-03; (Oliveira de Azeméis)
-Alunos da Escola E.B. 2;3 Prof. Carlos Teixeira
-Alunos da Escola EB 2;3 Professor Egas Moniz
-Alunos das Escolas EB1 de Matos da Ranha; Meirinhas e Santiago de Litém e do
 Alunos das Escolas, EB1 do Carrascal; do Castelo e Jardim de Infância do
 Alunos das turmas 5oA 5oB 5oD 5oC 6oA 6oB 7oA 7oB do Colégio Paulo VI; 2006
-Alunos da turma 6o B da Escola E.B. 2; 3 El-Rei D. Manuel I de Alcochete
-Alunos da Turma do 6o C da Escola Básica 2; 3 Doutor Armando Lizardo
 Alunos de Educação Especial da EB2;3 Júlio Brandão
 Alunos do 1o ciclo de Mértola, Ledo, S. João, Fernandes; Corvos
 Alunos do 2o Ciclo da EB 1, 2; 3/JI de Furnas
-Alunos do 2o e 3o ciclos da Escola EB 2/3 D. Afonso; 4o Conde de Ourém
 Alunos do 3o ano; Turma 0 da E.B. 1 de Ferreira do Alentejo
-Alunos do 4o; 5o e 7o anos do Agrupamento de Escolas de Milheirós de Poiares
 Alunos do 4o Ano C do Colégio Valsassina; 1997-98
 Alunos do 4o ano da E.B. 1 - Vila no 2, Parteira; Lordelo
-Alunos do 4o ano; Turma B da Escola Básica 1o Ciclo de Santa Cruz
-Alunos do 4o ano, Turma B; Sala 11 da Escola do 1o CEB da Ribeira
-Alunos do 6o C da Escola EB 2,3; Secundária de Tarouca
-Alunos do 6o C - Escola EB 2; 3 de Santa Maria
-Alunos do Clube de Poesia da Escola EB 2-3; João Afonso de Aveiro
 Alunos do Pré-Escolar; 1o e 2o Ciclos do Ensino Básico do Agrupamento de
-Alunos dos Jardins de Infância; das Escolas EB1 e EBM do Agrupamento
 Alva; 2o Conde de
 Alvaiázere, 1o Barão de; 1753-1826
 Alva, Julião de; ?-1570
@@ -4382,7 +4364,6 @@ Annual Meeting Mississippi Vallery Historical Association, 46; 1953
 Annual Meeting National Advisory Board Council, 20, Washington; 1960
 Annual Meeting of European Association for the Study of Diabetes, 47, Lisbon;
 Annual Meeting of the Canadian Aural/Oral Historiy Association, 2nd;
-Annual Meeting of the EAAP, 38, Lisbon; 1987
 Annual Meeting of the EASD European Association for the Study of Diabetes, 44;
 Annual Meeting of the European Association for Animal Production, 40, Dublin;
 Annual Meeting of the International Society of Electrochemistry, 45, Porto;
@@ -4743,7 +4724,6 @@ Aparício; João 1965-
 Aparicio, Maria Del Carmen López; 1976-
 Aparício, Maria Irene; 1964-
 Aparício, Vítor; 1942-
-APEAA Conference Success and Failure, 29, Aveiro; 2008
 Apeles; fl. 18--
 Apel, Karl-Otto; 1922-
 Apelt, Fritz; 1900-
@@ -5825,8 +5805,6 @@ Assistência, Lisboa; 1966
 Assmann, Jan; 1938-
 Associação Comercial do Rio de Janeiro; ca. 1881
 Associação Cultural e Social, Rancho Folclórico de Retaxo; 2005
-Associação de Pais e Encarregados de Educação da Escola E.B. 2;3 de Moreira da
-Associação de Pais e Encarregados de Educação Escola E.B. 1; no 1
 Association for Medical Education in Europe, Lisboa; 1986
 Assolant, Alfred; 1827-1886
 Assor; Abraham 1920-1993
@@ -15141,7 +15119,6 @@ Campeonato de Paraquedismo, 1, Arraiolos; 1988
 Campeonato de Portugal de Vauriens, 15, Leixões; 1982
 Campeonato de Ténis da Curia, 20, Curia; 1949
 Campeonato do 15 Distrito da Classe Star, Lisboa; 1946
-Campeonato do Mundo de Atletismo de Pista Coberta da IAAF, 8, Lisboa; 2001
 Campeonato do Mundo de Enduro, Figueira da Foz; 1993
 Campeonato do Mundo de Snipes, Cascais; 1957
 Campeonato do Mundo de Surf, Viana do Castelo; 1992
@@ -15830,7 +15807,6 @@ Centeio, António; 1951-
 Centeio, Helena; 1971-
 Centeio, Ivone de Fátima Brito Monteiro; 1966-
 Centenário da Cruz Vermelha Portuguesa, 1, Lisboa; 1965
-Centenário da Escola de Alunos-Marinheiros, 1, Vila Franca de Xira; 1976
 Centenário da Ida da Corte Portuguesa para o Brasil, 1808-2008, 2 Lisboa; 2008
 Centenário da Igreja Evangélica Metodísta Portuguesa, 1, Porto; 1971
 Centenário da Morte de S. Frutuoso, 13, Braga; 1966
@@ -16526,7 +16502,6 @@ Chen, Joyce; 1917-1994
 Chen, Tingyou; 1926-
 Chenu; Jean-Charles 1808-1879
 Chen, Ziying; 1932-
-Cheongju International Printing and Publishing Expo 2000; Organizing Committee
 Chéradame, André; 1871-1948
 Chéradame, Jean; 1500 -1599
 Chérancé, Léopold de; 1838-1926
@@ -17407,9 +17382,6 @@ Clouwet, Peeter; 1629-1670
 Clouzier, Gervais; fl. 1676
 Clowes, W.; 18--
 Club 13 de Maio; Pará
-Clube Bíblico da Escola EB 2;3 de Azeitão
-Clube de Comunicação Social da Escola E B 2;3 de Amares
-Clube de Jornalismo da Escola E.B. 2;3+S de Vilar Formoso
 Cluny, Claude Michel; 1930-
 Cluny, Isabel; 1957-
 Cluverius, Philippus; 1580-1623
@@ -19226,11 +19198,6 @@ Comissão de Festas do Castelo, Castelo (Sertã); 2015
 Comissão de Festas do Divino Espírito Santo de Minde; 1965-2005
 Comissão de Festas [ do Fontelo]; 2002
 Comissão de Festas, Marinhais (Ota); 1983
-Comissão de Finalistas da Escola Secundária Avelar Brotero; 1981
-Comissão de Finalistas da Escola Secundária de Albergaria-a-Velha; 1978-79
-Comissão de Finalistas da Escola Secundária de Albergaria-a-Velha;1989-90
-Comissão de Finalistas da Escola Secundária de Almacave; 1982
-Comissão de Finalistas da Escola Secundária de Marco de Canaveses; 1985
 Comissão de Finalistas de Engenharia Industrial; 1987
 Comissão de Finalistas de Engenharia Informática; 1987
 Comissão de Finalistas do Instituto Superior de Agronomia; 1992
@@ -19264,7 +19231,6 @@ Compagnoni, Giuseppe; 1754-1833
 Compagnoni, Mario Marefoschi; 1714-1780
 Companhia Tipográfica; fl.1893-1897
 Companys, Lluís; 1882-1940
-Comparada da Escola na Europa do Sul, 2, Lisboa; 2002
 Comparato, Doc; 1953-
 Comparetti, Andrea; 1746-1801
 Comparini, Luca; fl. 1790-1800
@@ -19279,7 +19245,6 @@ Comte, Auguste; 1798-1857
 Comte, Benjamin; 1762-1851
 Comte, Louis; 1857-1926
 Comte, Pierre Charles; 1823-1895
-Comunidade educativa da Escola E B 2; 3 Irene Lisboa
 Comunista Português, 1; 1978
 Conant, Ralph W.; 1926-
 Conca, Sebastiano; ca 1679-1764
@@ -19625,7 +19590,6 @@ Concurso Literário da Trofa, 7; 2007
 Concurso Literário da Trofa, 8; 2009
 Concurso Literário do Servidor do Estado do Rio de Janeiro, 6, Rio de Janeiro;
 Concurso Literário O Infante D. Henrique no Algarve, Faro; 2010
-Concurso Literário para Alunos das Escolas do Município de Ílhavo, 3; 997
 Concurso Literário para Alunos do 1o Ciclo do Ensino Básico, 1o; Vila Nova de
 Concurso Mostra o que Sabes, 13, Maia; 1993
 Concurso Mundial de Cocktails, 16, Montechoro; 1982
@@ -20910,7 +20874,6 @@ Curso de Endoscopia Digestiva, 1, Lisboa; 1983
 Curso de enfermedades tropicales y del viajero, 6, Madrid; 2002
 Curso de Epilepsia e Neurologia Pediátrica, Porto; 1990
 Curso de Estudos Superiores Especializados em Enfermagem Médico-Cirúrgica; 1
-Curso de Férias da Escola de Farmácia, 8, Coimbra; 1946
 Curso de Férias da Faculdade de Letras da Universidade de Coimbra, 23, Coimbra;
 Curso de Férias de Língua e Cultura Portuguesas, 43, Lisboa; 1978
 Curso de Férias de Língua e Cultura Portuguesas, 50, Coimbra; 1973
@@ -21185,7 +21148,6 @@ d'Adamo, Francesco; 1949-
 Daddi, João Guilherme; 1814-1887
 Dadelsen, Jean-Paul de; 1913-1957
 Daehnhardt, Rainer; 1941-
-da Escola Industrial e Comercial de Viana do Castelo, 14o, Viana do Castelo;
 D'Afeltro, Pietro; 1463 - ca 1526
 D'Afflitto, Gennaro Maria, 1618-1673; O. P.
 D'Afflitto, Matteo; fl. 1443-1523
@@ -21676,7 +21638,6 @@ Deardorff, James W.; 1928-
 Déat, Marcel; 1894-1955
 Deaver, Jeffery; 1950-
 Debans, Camille; 1834-?
-Debate A Escola é ainda uma Criança, Lisboa; 1999
 Debate Nacional sobre Educação; 2007
 Debate Nacional Sobre Educação, Lisboa; 2007
 Debate sobre Problemas e Propostas para o Sistema de Saúde, Coimbra; 1999
@@ -24825,7 +24786,6 @@ Ebert, Nik; 1954-
 Eberz, Otfried; 1878-1958
 Éboli, Teresinha; 1926-
 Ebrardus Bethuniensis; fl. 1206
-eCAADe Regional International Workshop 1; 2012
 Eça, António Júlio da Costa Pereira de; 1852-1917
 Eça, Artur de Almeida de; 1890-?
 Eça, Bento Fortunato de Moura Coutinho de Almeida de; 1827-1906
@@ -25296,7 +25256,6 @@ Encontro Açoriano da Lusofonia, 2, Ribeira Grande; 2007
 Encontro Açoriano da Lusofonia, 4, Lagoa; 2009
 Encontro A Criança e os Serviços de Saúde, Lisboa; 1996
 Encontro A enfermagem nefrológica e o IRC, Coimbra; 1999
-Encontro A Escola e a Interculturalidade, Lisboa; 1998
 Encontro Alfa de Fitossociologia, 2, Lisboa; 1999
 Encontro ALFA de Fitossociologia, 5, Funchal; 2004
 Encontro Ambiente e Saúde, Lisboa; 2000
@@ -25355,8 +25314,6 @@ Encontro Cultural de São Cristóvão de Lafões, 6, Lafões; 2010
 Encontro Cultural de São Cristóvão de Lafões, 8, Lafões; 2012
 Encontro Cultural de São Cristovão de Lafões, 9, São Cristovão de Lafões; 2013
 Encontro da APDR, 10, Évora; 2003
-Encontro da APEAA, 26, Braga; 2005
-Encontro da APEAA, 27, Carcavelos; 2006
 Encontro da Aprolínguas, 9, Guarda; 2010
 Encontro da Aprolíngu@s, 8, Guarda; 2007
 Encontro da Associação das Universidade de Língua Portuguesa, 10; Ponta
@@ -25435,7 +25392,6 @@ Encontro da Secção Portuguesa da IAMANEH, 5, Lisboa; 1996
 Encontro da Secção Portuguesa da IAMANEH/MCI, 2, Lisboa; 1992
 Encontro da Secção Portuguesa da MCI-IAMANEH, 3, Lisboa; 1993
 Encontro das Equipas Técnicas da Casa Pia de Lisboa, 1, Lisboa; 2005
-Encontro das Escolas de Intervenção Prioritária, 1, Lisboa; 1987
 Encontro das Misericórdias do Alto Minho, 1, Viana do Castelo; 1998
 Encontro das Misericórdias do Distrito de Aveiro, I, Aveiro; 1991
 Encontro [da] Sociedade Portuguesa de Electroquímica, 2, Ofir; 1986
@@ -25486,7 +25442,6 @@ Encontro - Debate O Arsenal do Alfeite está vivo e tem futuro, Almada; 1999
 Encontro de Bibliotecários e Arquivistas Portugueses, 2, Lisboa; 1966
 Encontro de Bibliotecas de Arte de Espanha e Portugal, 8, Coimbra; 2000
 Encontro de Bibliotecas do Oeste, 3, Nazaré; 2011
-Encontro de Bibliotecas Escolares do Concelho de Setúbal, 1, Setúbal; 1994
 Encontro de Camonistas de Língua Italiana e Portuguesa, Casa de Mateus; 1980
 Encontro de Cantadores de Janeiras, 1, Vila Boa do Bispo; 1986
 Encontro de Cantadores de Janeiras, 5, Salzedas; 1983
@@ -25542,7 +25497,6 @@ Encontro de Enfermagem, 1, Porto; 1991
 Encontro de Enfermagem Pediátrica, 2, Coimbra; 1987
 Encontro de Enfermagem Pediátrica, 3, Porto; 1986
 Encontro de Ensino, Alhandra; 1992
-Encontro de Escolas de Dança, 6, Queluz; 1989
 Encontro de Escritores Açorianos, 4, Praia da Vitória; 1994
 Encontro de Escritores Algarve - Andaluzia, 4, Tavira; 2005
 Encontro de Escritores/as de Euskadi, Cataluña e Galiza, Lugo, Mondoñedo; 2007
@@ -25866,7 +25820,6 @@ Encontro dos Bibliotecários, Arquivistas e Documentalistas Portugueses, 7;
 Encontro dos Bibliotecários e Arquivistas Portugueses, 1, Coimbra; 1965
 Encontro dos Bibliotecários e Arquivistas Portugueses, 2, Lisboa; 1966
 Encontro dos Centros de Saúde do Alentejo, 2, Évora; 1997
-Encontro dos Clubes das Escolas Preparatórias, 3, Vila Nova de Gaia; 1992
 Encontro dos Dirigentes da Saúde, 1; Sesimbra 1999
 Encontro dos Escuteiros do Sul, 3, Portalegre; 1962
 Encontro dos Estudos e Reflexão Alcobaça; 2006
@@ -26001,7 +25954,6 @@ Encontro Internacional sobre Economia Europeia 2, Lisboa; 1998
 Encontro Internacional sobre Educação para os Media, Coimbra; 1995
 Encontro Internacional sobre Gestäo da Informaçäo, Vimeiro; 2 e 3 de Abril 1992
 Encontro Internacional sobre Intervenção Psicológica na Educação, Porto; 1987
-Encontro Internacional sobre Manuais Escolares Braga; 1998
 Encontro Internacional sobre o Quotidiano na História Portuguesa, Lisboa; 1993
 Encontro Internacional [sobre] o vitral, Batalha; 2000
 Encontro Internacional sobre Paleobiologia dos Dinossáurios, 1, Lisboa; 1998
@@ -26055,7 +26007,6 @@ Encontro Mar Português, Faro; 2011
 Encontro Minhoto de Clínica Geral e Medicina Familiar, 3, Viana do Castelo;
 Encontro Minhoto de Clínica Geral - Medicina Familiar, 1, Guimarães; 1987
 Encontro Minhoto de Clínica Geral - Medicina Familiar, 2, Braga; 1988
-Encontro Missionário das Escolas do Magistério Primário e Professorado, 4o;
 Encontro Mundial das Comunidades Portuguesas, 1, Porto; 2005
 Encontro Museus e Educação, Lisboa; 2001
 Encontro nacional A conservação e o restauro do património, 2; 2000
@@ -26176,8 +26127,6 @@ Encontro Nacional de Educação em Ciências, 12, Vila Real; 2007
 Encontro Nacional de Educação Especial, 4, Lisboa; 1989
 Encontro Nacional de Emergência Infantil, 1, Lisboa; 1989
 Encontro Nacional de Epileptologia, 19; 2007
-Encontro Nacional de Escolas de Vela, 14, Calheta; 2000
-Encontro Nacional de Escolas Profissionais, 1, Caldas da Rainha; 1995
 Encontro Nacional de Espondilíticos e Familiares, 15, Coimbra; 2003
 Encontro Nacional de Estudantes Centristas, Lisboa; 1978
 Encontro Nacional de Estudantes de Enfermagem, 9, Porto; 1988
@@ -26330,7 +26279,6 @@ Encontro Nacional dos Distribuidores de Água, 1, Sintra; 1986
 Encontro Nacional dos Distribuidores de Água, 2, Braga; 1985
 Encontro Nacional do Sector Naval, 1, Lisboa; 1983
 Encontro Nacional dos Estudantes de Teologia, 11, Porto; 1992
-Encontro Nacional dos GAAF'S, 1, Viseu; 1975
 Encontro Nacional dos Grupos de Acção Anti-Fascista, 1, Viseu; 1975
 Encontro Nacional [dos] Metalúrgicos Socialistas, 2, Aveiro; 1978
 Encontro Nacional dos Profissionais de Educação de Infância, IV, Coimbra; 1991
@@ -26393,13 +26341,11 @@ Encontro Novos Modos de Ser Novo e de Ser Velho; 1995
 Encontro Oeiras a Ler, 3 Oeiras;
 Encontro Oeiras a Ler, 3, Oeiras; 2008
 Encontro Olhares que se Cruzam, Lisboa; 2006
-Encontro O Museu, a Escola e a Comunidade, 1, Braga; 1997
 Encontro OPSIS - Base Iconográfica de Teatro em Portugal, 1, Lisboa; 2010
 Encontro OPSIS - Base Iconográfica de Teatro em Portugal, 2, Lisboa; 2011
 Encontro O Son da Memoria, 4, Santiago de Compostela; 2005
 Encontro Paleoecologia e Arqueologia, 2, Vila Nova de Famalicão; 1991
 Encontro Paleoecologia e Arqueologia, Vila Nova de Famalicão; 1988
-Encontro Parceria numa Escola Inclusiva, 2, Castro Daire; 2007
 Encontro Passado e Futuro da Música e Músicos do Porto, do Jazz à Sinfónica, 1;
 Encontro Pedagógico sobre Fogos Florestais, Mirandela; 1996
 Encontro Pedagógico sobre Risco de Incêndio Florestal, 1, Coimbra; 1993
@@ -26657,7 +26603,6 @@ Encontro Sobre Web 2.0, Braga; 2008
 Encontro Sobre Web Quest, Braga; 2006
 Encontro Sociedade Civil em Diálogo, Aveiro; 1998
 Encontro Sociologia no Ensino Superior, Porto; 2002
-Encontros O Museu, a Escola e a Comunidade; 1999-2000
 Encontro SPM-APM, 2, Viana do Castelo; 1986
 Encontros Portugueses de Filosofia Aplicada, 4, Faro; 2007
 Encontros Presupostos Autonómicos e Política Económica en Galicia; 1984
@@ -26948,178 +26893,8 @@ Escobedo, Joana; 1942-
 Escobedo Rico, Inma; 1966-
 Escohotado, António; 1941-
 Escoiquiz, João; 17862-1820
-Escola Básica 1,2;3 de Oliveira de Frades
-Escola Básica 1; Jardim de Infância dos Templários - Agrupamento de Escola de
-Escola Básica 2;3 António José de Almeida
-Escola Básica 2;3 de Caldas das Taipas
-Escola Básica 2;3 de Frei João de Vila do Conde
-Escola Básica 2; 3 de Manhente
-Escola Básica 2; 3 de São Pedro de Alva
-Escola Básica 2;3 dos Biscoitos
-Escola Básica 2;3 Doutor Carlo Pinto Ferreira do Agrupamento de Escolas da
-Escola básica 2;3 Eugénio dos Santos
-Escola Básica 2;3 Grão Vasco
-Escola Básica 2;3 Guarda - Sequeira
-Escola Básica 2;3 Júlio do Carvalhal - Valpaços
-Escola Básica 2;3 Pêro de Alenquer
-Escola Básica 2; 3 Prof. Delfim Santos
-Escola Básica e Secundária do Infante Dom Henrique. 6o Ano de Escolaridade;
-Escola Básica Integrada 1,2;3 de Monforte
-Escola de Enfermagem de Portalegre; (1986-1988
-Escola de Enfermagem Doutor Ângelo da Fonseca. Curso complementar; 1955-56
-Escola de Regentes Agrícolas; (1943-44
-Escola de Regentes Agrícolas de Coimbra; 1952
-Escola de Regentes Agrícolas de Coimbra; 1956
-Escola de Regentes Agrícolas de Coimbra; 1960
-Escola de Regentes Agrícolas de Coimbra; 1962
-Escola de Regentes Agrícolas de Coimbra; 1969-1970
-Escola de Regentes Agricolas de Évora ; 1942
-Escola de Regentes Agrícolas de Santarém; 1961-62
-Escola de Verão, Santarém; 1999
-Escola do 1o CEB; no 1 de Caria
-Escola do 1o Ciclo - Bairro Cantim ; (Resende)
-Escola do 1o Ciclo da Quinta do Valongo; (Mealhada)
-Escola do 2o; 3o/S Dr. Manuel Ribeiro Ferreira Alvaiázere
-Escola do Ensino Básico 2; 3 de Ovar
-Escola do Ensino Básico; 2o e 3o Ciclos de Nogueira
-Escola do Exército; (1955-1958
-Escola do Magistério Primário de Braga; 1954-1956
-Escola do Magistério Primário de Braga; (1955-1957
-Escola do Magistério Primário de Braga; 1956-1958
-Escola do Magistério Primário de Castelo Branco; 1953-1955
-Escola do Magistério Primário de Castelo Branco; (1955-57
-Escola do Magistério Primário de Castelo Branco; 1956-1958
-Escola do Magistério Primário de Coimbra; 1945-1946
-Escola do Magistério Primário de Coimbra; 1953-1955
-Escola do Magistério Primário de Coimbra; 1954-1956
-Escola do Magistério Primário de Coimbra; 1955-1957
-Escola do Magistério Primário de Coimbra; 1956-1958
-Escola do Magistério Primário de Coimbra; 1957-1959
-Escola do Magistério Primário de Coimbra; 1959-1961
-Escola do Magistério Primário de Coimbra; (1960-62
-Escola do Magistério Primário de Coimbra; 1960-62
-Escola do Magistério Primário de Guimaräes. Educadores de Infância; (1983-1986
-Escola do Magistério Primário de Guimaräes. Magistério Primário; (1983-1986
-Escola do Magistério Primário de Lisboa; 1953-1954
-Escola do Magistério Primário de Penafiel; 1973
-Escola do Magistério Primário de Penafiel; 1975
-Escola do Magistério Primário de Vila Real; 1955-1957
-Escola do Magistério Primário de Vila Real; 1956-1958
-Escola do Magistério Primário de Vila Real; 1957-1959
-Escola do Magistério Primário de Vila Real; 1958-1960
-Escola do Magistério Primário de Vila Real; 1959-1961
-Escola do Magistério Primário de Vila Real; 1960-1962
-Escola do Magistério Primário de Vila Real; 1961-1963
-Escola do Magistério Primário de Vila Real; (1984-1987
-Escola do Magistério Primário de Vila Real; (1985-1988
-Escola do Magistério Primário do Porto; 1955-1957
-Escola do Magistério Primário do Porto; 1958-1959
-Escola do Magistério Primário do Porto; 1960-1961
-Escola E. B. 1,2,3; de Vila Cova
-Escola EB1 Aldriz; Argoncilhe
-Escola EB1 Avenida; Fiães
-Escola EB1 Cavaco; Santa M. da Feira
-Escola EB1 de Caldelas; Caldas de S. Jorge
-Escola EB1 de Carvalhal; Argoncilhe
-Escola EB1 Feira no 1; Santa M. da feira
-Escola EB1 Igreja; Lobão
-Escola EB1 Lamas no 2; Santa Maria de Lamas
-Escola EB1 Mota-Ilha; Canedo
-Escola EB1 S. Domingos; Argoncilhe
-Escola EB1 Soutelo; Fiães
-Escola E.B. 2;3 António Dias Simões
-Escola E. B. 2;3 António Dias Simões de Ovar
-Escola EB2,3 D. Afonso; IV Conde de Ourém
-Escola E. B. 2, 3 de Algoz. Alunos do 8o ano B; ano lectivo 2006-2007
-Escola E B 2;3 de Amares. Clube de Comunicação Social
-Escola E;B 2.3 de Arrifana
-Escola EB 2; 3 de Beiriz
-Escola E.B. 2;3 de Boticas
-Escola EB 2; 3 de Cabeceiras de Basto
-Escola EB 2; 3 de Campo de Besteiros
-Escola E.B. 2; 3 de D. Duarte
-Escola E. B. 2; 3 de D. Pedro IV (Queluz)
-Escola E. B. 2;3 de Escariz
-Escola E.B. 2; 3 de Évora
-Escola EB 2; 3 de Fermentões. Biblioteca
-Escola E.B. 2;3 de Fernão do Pó Bombarral
-Escola E.B. 2; 3 de Frei João de Vila do Conde
-Escola E.B. 2;3 de Gandarela
-Escola E B; 2/3 de Ílhavo
-Escola E.B. 2;3 de Lamego
-Escola E.B. 2;3 de Mangualde
-Escola EB 2; 3 de Moreira da Maia
-Escola EB 2;3 de Moure
-Escola E. B. 2; 3 de Mundão
-Escola E.B. 2; 3 de Nelas
-Escola E.B. 2;3 de Nevogilde
-Escola EB 2; 3 de Nogueira
-Escola E.B. 2;3 de Paços de Brandão
-Escola EB 2;3 de Peso da Régua
-Escola EB 2, 3 de Prado. 6o ano; 1996-97
-Escola E.B. 2;3 de Ribeirão
-Escola E.B. 2; 3 de S. Roque
-Escola EB 2;3 de Valongo do Vouga
-Escola EB 2;3 de Viatodos
-Escola E. B. 2; 3 de Vila Pouca de Aguiar
-Escola E.B. 2; 3 de Vila Pouca de Aguiar
-Escola E.B. 2;3 de Vilar Formoso
-Escola E. B. 2;3 Diogo Cão
-Escola EB 2; 3 Diogo Cão
-Escola E.B. 2;3 D. Luís de Loureiro
-Escola EB 2,3 Dom Afonso; IV Conde de Ourém
-Escola E.B. 2;3 Dom Luís de Loureiro
-Escola E.B. 2;3 Doutor Azeredo Perdigão
-Escola E.B. 2;3 Doutor João das Regras
-Escola EB 2;3 Doutor José dos Santos Bessa
-Escola EB 2;3 Doutor Reis Leitão
-Escola E.B. 2;3 do Viso
-Escola E.B. 2; 3 Dr. António de Sousa Agostinho
-Escola E.B. 2; 3 Dr. João das Regras
-Escola E. B. 2; 3 Dr. Nuno Simões
-Escola E. B. 2; 3 El-Rei D. Manuel I
-Escola EB 2; 3 Eugénio dos Santos
-Escola E.B. 2; 3 Jacinto Correia (Lagoa)
-Escola EB 2; 3 Júlio Brandão
-Escola EB 2;3 Nadir Afonso. Clube de Escrita
-Escola E.B. 2;3 No 1 de Lagos
-Escola E.B. 2;3 Paulo Quintela
-Escola EB 2;3 Pintor Almada Negreiros
-Escola E B 2;3 Professor Galopim de Carvalho
-Escola EB 2;3 Romeu Correia
-Escola EB 2;3 Rosa Ramalho
-Escola E.B. 2;3/S Abel Botelho
-Escola E.B. 2;3/S de Ferreira do Zêzere
-Escola EB 2; 3 /S de Lanheses
-Escola EB 2;3/S de Mondim de Basto
-Escola E.B. 2;3/S de Ourique
-Escola E. B. 2;3/S de Penalva do Castelo
-Escola E. B. 2;3/S de Proença-a-Nova
-Escola E.B. 2;3/S de Ribeira de Pena
-Escola EB 2;3/S de Ribeira de Pena
-Escola EB2;3/S de Rio Caldo. Biblioteca Escolar Ramalho Ortigão. Centro de
-Escola EB 2;3/S Doutor José Leite de Vasconcelos
-Escola EB 2;3/S Dr. José Leite de Vasconcelos
-Escola E.B. 2;3/Secundária de Ribeira de Pena
-Escola E.B. 2;3/S Ribeiro Sanches
-Escola EBI/JI 1, 2; 3 Vasco da Gama
-Escola Ensino Básico 2;3 de Nevogilde
-Escola Ensino Básico 2; 3 Tourais
-Escola ES/3 de Maria Lamas, 7o ano; Turma D
-Escola Industrial e Comercial de Castelo Branco; 1959
-Escola Naval; 1970
 Escolares, 1, Sintra; 2003
 Escolares, 6, Sintra; 2008
-Escolas do 1; 2 e 3 Ciclos do programa P.E.P.T. 2000 - Murtosa
-Escola Secundária de Mafra. 11o ano; 1995/96
-Escola Secundária dos Carvalhos; 1990-1993
-Escolas Secundárias de Viana do Castelo. Turmas de Jornalismo do 11o ano; 1988-
-Escola Superior Colonial; (1940-44
-Escola Superior Colonial Portuguesa; 1939-1943
-Escola Superior de Belas Artes do Porto; 1953-1954
-Escola Superior de Belas Artes do Porto; 1954-1955
-Escola Superior de Farmácia. Lisboa; 1956
-Escola Superior de Tecnologia de Tomar; (1989
 Escolá y Arincánez, Salvador; 1850-?
 Escórcio, Júlia Eugénia Silva de Pereira Lúcio; 1880-1920
 Escoto, Jesus Urbano; 18- --19--
@@ -27934,8 +27709,6 @@ Expomate, Lisboa; 1987
 Expomotor, Lisboa; 1989
 Expomóvel 82; Porto
 Expomóvel 83; Porto
-Expo NAAV, 2, Aveiro; 1994
-Expo NAAV, 5, Aveiro; 2007
 Exponáutica, Viana do Castelo; 1992
 EXPOREG; 2006
 Export Home 91; Porto
@@ -28038,7 +27811,6 @@ Exposição Cultural da Época dos Descobrimentos, Sevilha; 1929
 Exposição da Arte Sacra, Goa; 1952
 Exposição da Colecção Garrettiana de Ferreira Lima, Lisboa; 1954
 Exposição da Colónia da Guiné; 1939
-Exposição da Escola Livre das Artes do Desenho, 3, Coimbra; 1906
 Exposição da Infância e Juventude, 4, Braga; 1982
 Exposição da Primavera, 2, Évora; 1987
 Exposição da Revolução Nacional; 1936
@@ -28145,7 +27917,6 @@ Exposição de Desenhos para Ex-Libris de Jorge Nunes, Lisboa; 1959
 Exposição de Desportos Lisboetas em 1900, Lisboa; 1950
 Exposição de Escultura Inertes com Vida, Maceira-Liz; 2003
 Exposição de Escultura Mariana do Concelho de Arouca, 1, Arouca; 1988
-Exposição de Estúdio - Escola de Cerämica, 1, Lisboa; 1952
 Exposição de Ex-Libris (Heráldicos), 2, Porto; 1957
 Exposição de Ex-Libris Italianos, Lisboa; 1960
 Exposição de Ex-Libris Portugueses - séculos XVI a XX, Rio de Janeiro; 1958
@@ -28173,7 +27944,6 @@ Exposição de Pintura e Escultura Espanhola, Porto; 1943
 Exposição de Pintura, Escultura, Arquitectura, Desenhos e Gravura, 33, Lisboa;
 Exposição de Pintura, Escultura, Desenho e Fotografia; 2004
 Exposição de Pintura Moderna, Luanda; 1955
-Exposição de Poesia da Escola de Adultos, Chamusca; 1993
 Exposição de Poesia Ilustrada de Universitários, 1, Lisboa; 1957
 Exposição de Raças Autóctones, 2, Viseu; 1997
 Exposição de Rádio e Electricidade, 6, Lisboa; 1935
@@ -28186,7 +27956,6 @@ Exposição Designmai 2006, Berlin; 2006
 Exposição de Sistemas de Informática, Telemática e Comunicações, Porto; 1993
 Exposição de Sistemas e Computadores, 2, Lisboa; 1987
 Exposição de Superlibros, Lisboa; 1958
-Exposição de Trabalhos da Escola Industrial Fonseca de Benevides, Lisboa; 1932
 Exposição de Trabalhos de Neves e Sousa, Luanda; 1955
 Exposição de Trabalhos dos Artistas Combatentes, 1, Lisboa; 1937
 Exposição de Trabalhos Escolares, Porto; 1894
@@ -28197,7 +27966,6 @@ Exposição Distrital de Aveiro; 1882
 Exposição Distrital de Coimbra, Coimbra; 1884
 Exposição Distrital de Pombos Correios, Pernes; 1984
 Exposição Distrital de Pombos Correios, Torres Novas; 1982
-Exposição do Atelier Escola de Pintura, 1; 1987
 Exposição do Centenário do Pintor José de Brito, Porto; 1956
 Exposição do Comércio, Indústria e Serviços, 4, Vila do Conde; 1989
 Exposição do Comércio Indústria e Serviços, 5, Vila do Conde; 1991
