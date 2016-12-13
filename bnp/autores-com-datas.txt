@@ -21725,6 +21725,7 @@ Deffense, Julie; 1973-
 Deffer de Maisonneuve, André; 1749-1795
 Deffner, Georg; 1581-1586
 Deffontaines, Pierre; 1894-1978
+Deficiências, 3, Porto; 1994
 Deficiente, 1, Lisboa; 1987
 Defilippis Novoa, Francisco; 1890-1930
 Defillipi, Giuseppe; fl. 17--
@@ -28269,6 +28270,7 @@ Fabra, Camilo; 1833-1902
 Fabra i Ribas, Antoni; 1879-1958
 Fabra, Nilo María; 1843-1903
 Fabraquer, Conde de; 1861-?
+Fabre d'Envieu, Jules; 1821-1901
 Fabre-d'Olivet, Antoine; 1767-1825
 Fabre, Emile; 1870-1955
 Fábregas, Augusto; 1859-1893
@@ -28296,17 +28298,24 @@ Fabris, Giovanni; ?-1842
 Fabritius; Walther 1553-1572
 Fabrizi, Anna Marie; 1951-
 Fabrizi; Principio 15--
+Fabrot, Charles Annibal; 1580 - 1659
 FAC'95; Lisboa
 FAC'96; Matosinhos
 FAC 97; Lisboa
 Facaia, Carla Maria da Silva; 1968-
 Faca, Zacarias Alves; ca 18- -
 Faccio, Franco; fl. 18--
+Facciolati, Jacopo; (1682–1769)
 Faccio, Leonardo; 1971-
+Facciotti, Giacomo; fl. 1635-1637
+Facciotti, Guglielmo; fl. 1592-1632
+Facciotti, Guglielmo Herdeiros; fl. 1633-1634
+Facciotti, Pietro Antonio; fl. 1634-1639
 Faccon, Manuela; 1968-
 Fachada, Horácio do Carmo; 1955-
 Fachada, Marta Helena de Oliveira; 1974-
 Fachinetti, Joseph; [ca 1800-1880]
+Fachin, Luiz Edson; 1958-
 FACIG, Góis; 2001
 FACIG, Gouveia; 1984
 Facio, Bartolomeo; ?-1457
@@ -28359,6 +28368,7 @@ Fagulha, Jorge; 1930-
 Fagulha, Maria Isabel; 1930-
 Fagulha, Teresa; 1946-
 Fagundes, Arlindo; 1945-
+Fagundes, Estevão de, 1577-1645; S.J.
 Fagundes, Francisco Costa; 1944-
 Fagundes, Isabel; 1966-
 Fagundes, Manuel, 15---1639; S.J.
@@ -28406,6 +28416,7 @@ Falcão, Bernardete; 1924-
 Falcão, Carlos Poças; 1951-
 Falcão, Conde; 1940-
 Falcão, Cristóvão; 1515-1557?
+Falcão de Carvalho6; pseud.
 Falcão, Diogo Rodrigues; fl. 15--
 Falcão; Domingos dos Santos 1921-
 Falcão, Eduardo Manuel Silva Santos; 1965-
@@ -28415,6 +28426,7 @@ Falcão, José; 1841-1893
 Falcão, José Anastácio; 1786-1833?
 Falcão, José António Nunes Mexia Beja da Costa; 1961-
 Falcão, José de Mesquita; fl. 1773
+Falcão, Luís; 1975-2015
 Falcão, Luís de Figueiredo; fl. 16--
 Falcão, Luis Francisco Soares de Sousa; 1715-?
 Falcão, Manuela Marinho; 1947-
@@ -28424,6 +28436,7 @@ Falcão, Maria Armanda; 1917-1996
 Falcão, Maria de Fátima Pinela da Silva Mousinho de Palhares; 1958-
 Falcão, Maria Irene Ferrão de Carvalho Ribeiro Almeida; 1965-
 Falcão, Nicolau Pereira de Mendonça; 18--
+Falcão, Nuno de Palhares Marinho; 1920-1970
 Falcão, Nuno de Pinho; 1983-
 Falcão, Paulo José; 1873-?
 Falcão, Pedro; 1958-
@@ -28439,6 +28452,7 @@ Falcarreira, Zulmira; 1867-19--
 Falcato, Ana; 1983-
 Falcato, João; 1915-2005
 Falchi, Isidoro; 1834-1914
+Falciani, Hervé; 1972-
 Falco, Francisco Frederico; 1866-?
 Falco, Gian; 1881-1956
 Falcó, Jaime Juan; 1522-1594
@@ -28471,6 +28485,7 @@ Falk, Robert; 1914-1996
 Fallaci, Oriana; 1930-2006
 Falla, Manuel de; 1876-1946
 Fall, Leo; 1873-1925
+Fall, Leopold; 1873-1925
 Fallon, Simon, ca 1604 -1642; S.J.
 Falloppio, Gabriello; 1523-1562
 Falls, Charles Buckles; 1874-1960
@@ -28489,6 +28504,7 @@ F. A. M. S.; fl. 1755
 Fancher, Louis; 1884-1944
 Fanchery; fl. entre 1668 e 1750?
 Fanchette, Jean; 1932-
+Fanchette, Jean; 1932-1992
 Faneca Diana Patrícia Pacheco; 1983-
 Faneca, Henrique Manuel dos Santos; 1973-
 Fanfani, Amintore; 1908-
@@ -28499,7 +28515,9 @@ Fangueiro, Raúl; 1969-
 Fanha, João; 1980-
 Fanha, José; 1951-
 Faning, Eaton; 1850-1927
+Fanna, Antonio; 1793-1845
 Fanna, Antonio; 1926-
+Fanny, Francisco; 1963-
 Fano, Alessandro; fl. 1871-1891
 Fano, Franco; fl. 1909
 Fanom, Frantz; 1925-1961
@@ -28518,7 +28536,9 @@ Fapourhoux, Jeanne; fl. 1918
 Faquinha, Judite; 1942-
 Faraday, Michael; 1791-1867
 Fara, Giovanni Francesco; 1543-1591
+Faraglia, Nunzio Federigo; 1841-1920
 Farah, Naruddin ; 1945-
+Faraldo, Francisco J.; 1947-
 FARAV, Aveiro; 1985
 FARAV, Aveiro; 1990
 FARAV, Aveiro; 1992
@@ -28534,6 +28554,7 @@ Fargues, Marie; 1884-?
 Faria; 2o Visconde de
 Faria, A. B. Leite de; 1870-1957
 Faria, Acácio de Abreu; 1905-
+Faria, Adão Salgado Vaz de; 1907-1990
 Faria, Adão Salgado Vaz de, Cónego; 1907-1990
 Faria, Adélia Maria Nobre; 1965-
 Faria, A. Ferreira de; ca 18--
@@ -28555,6 +28576,7 @@ Faria, Almeida; 1943-
 Faria, Álvaro; 1954-
 Faria, Álvaro Alves de; 1942-
 Faria, Américo; 1905-
+Faria, Ana Leal de; 1946-
 Faria, Ana Luísa; 1949-
 Faria, Ana Maria Châteauneuf Mouta; 1949-
 Faria, Ana Paula Afonso de; 1972-
@@ -28582,6 +28604,7 @@ Faria, Armando; 1950-
 Faria, Augusto; 1944-
 Faria, Basílio de, 1569-1625; O. Cart.
 Faria, Belchior de; 1610-1628
+Faria, Belchior de; fl. 1610-1628
 Faria, Bento; 1875-1954
 Faria, Bernardete de Castro; 1909-?
 Faria, Bernardino Henrique Santos Martins de; 1948-
@@ -28593,6 +28616,7 @@ Faria, Carlos; 1929-2010
 Faria, Carlos; ca 18- -
 Faria, Cláudia Barreiros Macedo de; 1967-
 Faria, Cláudia Maria Coelho de; 1978-
+Faria, Clécio; 1971-
 Faria, Cristina; 1972-
 Faria, Custódio de, 1761-1828; O.S.A.
 Faria, Daniel; 1971-1999
@@ -28600,6 +28624,7 @@ Faria, Daniel Pedro de Jesus; 1981-
 Faria, Diana Delgado; 1984-
 Faria, Domingos de, 15---16--; S.J.
 Faria, Domingos Ribeiro de; fl. ca 1850
+Faria, Dora; 1945-
 Faria, Duarte; 1940-1982
 Faria, Duarte Lynce de; 1958-
 Faria, Dutra; 1910-
@@ -28643,6 +28668,7 @@ Faria, Joana Daniela Martins Vilaça de; 1978-
 Faria, João Adelino; 1966-
 Faria, João B. de Almeida; 1940-
 Faria, João Carlos Lázaro; 1960-
+Faria, João Carlos Lázaro; 1960-2006
 Faria, João de; fl. 16--
 Faria, João Francisco de; fl. 1684
 Faria, João Manuel de Abreu; 1907-
@@ -28671,12 +28697,14 @@ Faria, José Lourenço; 1933-
 Faria, José Miguel Sampaio; 1979-
 Faria, Joseph M.; 1950-
 Faria, José Santiago; 1943-
+Faria, J. R.; 1983-
 Faria, Juliana de; 1984-
 Faria, Julieta Magna Sousa; 1971-
 Faria, Liliana Filipa Gaspar; 1985-
 Faria, Lourenço de; fl. 173-
 Faria, Luciano; 1921-
 Faria, Luís; 1954-
+Faria, Luísa; 1963-
 Faria, Luísa; 1969-
 Faria, Luísa Leal de; 1948-
 Faria, Luísa Maria Soares; 1963-
@@ -28720,18 +28748,21 @@ Faria, Raúl de; ca 18- -
 Faria, Rita Lynce de; 1973-
 Faria, Roberto; 1942-2011
 Faria, Rodrigo José de; 1716-?
+Faria, Rodrigo Xavier Pereira de; fl. 1770
 Faria, Rolando Guedes de; 1937-
 Faria, Rosa Lobato de; 1932-2010
 Faría, Rosana; 1963-
 Faria, Rui Manuel Carvalho Marques de; 1959-
 Faria, Rui Miguel Ventura do Couto Tavares de; 1977-
 Farias, Augusto; 1946-
+Farias, Cristina; 1983-
 Faria, Sérgio Manuel Maciel de; 1965-
 Faria, Serrão de; 1881-?
 Farias, Francisco Martins; 1861-1930
 Farias, José Jacinto Ferreira de; 1950-
 Farias, Manuel; 1955-
 Faria, Sónia Castro; 1980-
+Farias, Ruben; 1976-
 Faria, Telma Correia; 1963-
 Faria, Telmo; 1971-
 Faria, Teodoro de; 1930-
@@ -28810,6 +28841,7 @@ Farrell, J. G.; 1935-1979
 Farrenc, Louise; 1804-1875
 Farreras Valentí, Pedro; 1916-1968
 Farrer, Thomas Henry; 1819-1899
+Farr, Florence; 1860-1917
 Farrica, Fátima; 1977-
 Farrida [?], G.; fl. 19--
 Farri, Domenico; fl. 1555-1602
@@ -28828,6 +28860,7 @@ Fasanotti, Filippo; 1821-1884
 Fascitello, Onorato; 1502-1564
 Fasman, Jon; 1975-
 Fassbinder, Rainer Werner; 1946-1982
+Fassmann, David; 1683 - 1744
 Fast, Howard; 1914-2003
 Fatacil 82; Lagoa
 FATAL, 13, Lisboa; 2012
@@ -28847,11 +28880,14 @@ Fatimakongress, Augsburg; 1981
 Fatima-Kongress in Wurzburg, 26; 1999
 Fátima, Maria de; 1944-1979
 Fatout; fl. 1830-1860
+Fatuo, Giuseppe; fl. 1891-1904
 Fauche, Samuel; 1753?-1789?
 Faucheur; fl. 1653
 Fauche, Xavier; 1946-
 Fauchier-Magnan, A.; 1873-?
+Fauconnier; Benoît-Constant 1816-1898
 Fau, Guy; 1909-
+Faujas de Saint-Fond, Barthélemy; 1741-1819
 Faulcon, Jean-Félix; fl. 1739-1782
 Faulhaber, Maria do Céu Moncada Pacheco de Amorim; 1958-
 Faulkner; George fl. 1724-1775
@@ -28865,6 +28901,7 @@ Faure, Claude; 1881-1942
 Faure, Élie; 1873-1937
 Fauré, Gabriel; 1845-1924
 Faurè, Gabriel; 1877-1962
+Faure, Henri; 1826-1907
 Faure, Henry; 1826-1907
 Faure, Jacques, dito Fleury; 1551-1567
 Faure, Jean; 12---1340
@@ -28885,6 +28922,7 @@ Faustino, Célia Maria Cardona; 1969-
 Faustino, Didier Fiuza; 1968-
 Faustino, Eduardo Pereira Rodrigues; 1960-
 Faustino, Helena Antunes; 1961-
+Faustino, Hélio Manuel Ferreira; 1981-
 Faustino, J.; fl. ca 1835
 Faustino, João Paulo de Jesus; 1967-
 Faustino, José Alfredo Paulo; 1957-
@@ -28916,6 +28954,7 @@ Favita, Manuel; 1944-
 Favras, Marquês de; 1744-1799
 Favre, Jules; 1809-1880
 Favre, Léopold; 1817-1890
+Favretti, Rudy J.; 1932-
 Favuet, Antonio; fl. 1679
 Fawcett, Anthony; 1948-
 Fawcett, Charles; 1869-1952
@@ -28931,6 +28970,7 @@ Fayen, Arnold; 1876-?
 Fay, J. B.; fl. 1785
 Fay; Juliette 1963-
 Fayolle, Marion; 1988-
+Fayol, Michel; 1947-
 Fayrfax, Robert; 1464-1521
 Fayt, René; 1939-
 Fazello, Tommaso; 1498-1570
@@ -28950,6 +28990,7 @@ F. C. P. C.; fl. 1777
 F. D.; fl. 167-
 Fea, Carlo; 1753 -1834
 Fea, Leonardo; 1852-1903
+Feaver, Douglas; 1914-1997
 Febei, Francesco Maria; 1616-1680
 Febo, Belchior; 15---1632
 Febra, Abílio; 1956-
@@ -28976,6 +29017,7 @@ Fedtke, Traugott; fl. 196--199-
 Fehr, Friedrich; 1862-?
 Fehr, Max; fl. 1912-195-
 Fehrt, Bertrand de; fl. 1750-1799
+Fei, Andrea; fl. 1615-1649
 Fei, Andrea; fl. 162--165-
 Fei, Giacomo; 1623?-1682
 Feigl, F.; 1891-?
@@ -29005,6 +29047,7 @@ Feijó, Rui Graça; 1954-
 Feijó, Salvato; 1876-1959
 Feilchenfeld, Friedrich Wilhelm; 1878-1946
 Feiler, Bruce; 1964-
+Feinberg, Charles E.; 1900-1988
 Feininger, Laurence; 1909-1976
 Feininger, Lyonel; 1871-1956
 Feinstein, Elaine; 1930-
@@ -29068,11 +29111,13 @@ Feira Agrícola, Florestal, Industrial e Comercial, 5, Sertã; 1988
 Feira Agrícola, Florestal, Industrial e Comercial, Sertã; 1984
 Feira Agrícola Florestal, Industrial, Pecuária, Artesanato, 23, Alvaiázere;
 Feira Agrícola, Florestal, Industrial, Pecuária e Artesanato, 18, Alvaiázere;
+Feira Agro-Industrial 1, Valença; 1994
 Feira Agro-Pecuária, 32, Porto Moniz; 1987
 Feira Agro-Pecuária, 34, Porto Moniz; 1989
 Feira Agro-Pecuária da Graciosa; 2004
 Feira Agro-Pecuária e Industrial, 6, Mafra; 1981
 Feira Anual de Santo António, Labrugeira; 1979
+Feira Anual de São Bernardo, Sátão; 1991
 Feira Anual de Torrão; 1986
 Feira Anual de Vila Nova de Ourém; 1986
 Feira Anual do Emigrante, 2, Oliveirinha (Aveiro); 1989
@@ -29185,7 +29230,9 @@ Feira de Artesanato de Estremoz, 19; 2001
 Feira de Artesanato do Alentejo, 2, Évora; 1984
 Feira de Artesanato do Vale do Ave, 1, Vila Nova de Famalicão; 1986
 Feira de Artesanato e Gastronomia, 10, Crato; 1994
+Feira de Artesanato e Gastronomia, 7, Ponte de Sor; 1990
 Feira de Artesanato e Gastronomia do Concelho do Crato, 5, Crato; 1989
+Feira de Artesanato e Gastronomia, Marinha Grande; 1990
 Feira de Artesanato e Produtos Tradicionais, 2, Sobreira Formosa; 2008
 Feira de Artesanato e Produtos Tradicionais, 4, Sobreira Formosa; 2010
 Feira de Artesanato Internacional, Madeira; 1997
@@ -29196,6 +29243,7 @@ Feira de Artes e Ofícios, 3, Moita; 1999
 Feira de Doçaria Conventual, 6, Portalegre; 2006
 Feira de Emprego de Oeiras, 1; 2002
 Feira de Enchidos Queijo e Mel, 5, Vila de Rei; 1994
+Feira de Enchidos, Queijo e Mel, 5, Vila de Rei; 1994
 Feira de Enchidos, Queijos e Mel, 2, Vila de Rei; 1991
 Feira de Enchidos, Queijos e Mel, Vila de Rei; 1990
 Feira de Gado Bovino, 2, São Martinho da Cortiça; 1991
@@ -29325,6 +29373,7 @@ Feira do Livro, 60, Lisboa; 1990
 Feira do Livro, 6, Barcelos; 1988
 Feira do Livro, 6, Évora; 1987
 Feira do Livro, 6; Lisboa
+Feira do Livro, 6, Trofa (Porto); 2006
 Feira do Livro, 74, Porto; 2004
 Feira do Livro, 75, Porto; 2005
 Feira do Livro, 76, Porto; 2006
@@ -29417,6 +29466,7 @@ Feira do Ribatejo, 26, Santarém; 1979
 Feira do Ribatejo, 29, Santarém; 1982
 Feira do Ribatejo, 30, Santarém; 1983
 Feira do Ribatejo, 31, Santarém; 1984
+Feira do Ribatejo, 33, Santarém; 1986
 Feira do Ribatejo, 43, Santarém; 1996
 Feira dos Lázaros, Coimbra; 1997
 Feira dos Santos, Cartaxo; 1982
@@ -29442,6 +29492,9 @@ Feira Franca, Miranda do Corvo; 1978
 Feira Franca, Miranda do Corvo; 1979
 Feira Franca, Viseu; 1931
 Feira Galaico-Minhota, 1, Viana do Castelo; 1990
+Feira Gastronómica, 2, Lisboa; 1982
+Feira Gastronómica de Lisboa, 1; 1991
+Feira Gastronómica de Lisboa; 2
 Feira Ibérica da Biodiversidade Agrícola, 1, Odemira; 2007
 Feira Industrial, Comercial, Agrícola e Cultural, Oliveira do Hospital; 1991
 Feira Industrial, Comercial e Agrícola, 4, Arganil; 1984
@@ -29470,7 +29523,9 @@ Feira Internacional de Artezanato, Lisboa; 1999
 Feira Internacional de Cabo Verde, 2, Mindelo; 1995
 Feira Internacional de Cabo Verde, Missão Empresarial, 5, Mindelo S. Vicente;
 Feira Internacional de Lisboa, 15; 1973
+Feira Internacional de Lisboa, 15; 1974
 Feira Internacional de Lisboa, 16; 1975
+Feira Internacional de Lisboa, 18; 1977
 Feira Internacional de Lisboa, 19; 1978
 Feira Internacional de Lisboa; 1989
 Feira Internacional de Lisboa; 1990
@@ -29486,6 +29541,7 @@ Feira Internacional de Minerais, Gemas e Fósseis, 11, Lisboa; 1997
 Feira Internacional de Minerais, Gemas e Fósseis, 26, Lisboa; 2012
 Feira Internacional de Minerais, Gemas e Fósseis, 27, Lisboa; 2013
 Feira Internacional de Minerais, Gemas e Fósseis, 28, Lisboa; 2014
+Feira Internacional de Minerais, Gemas e Fósseis, 29, Lisboa; 2015
 Feira Internacional de Tecnologia e Inovação, 1, Lisboa; 1986
 Feira Internacional de Trocas e Vendas, Aveiro; 2001
 Feira Internacional do Livro Antigo, 3, Porto; 1995
@@ -29511,6 +29567,7 @@ Feira Nacional de Agricultura, 19, Santarém; 1982
 Feira Nacional de Agricultura, 1, Santarém; 1964
 Feira Nacional de Agricultura, 20, Santarém; 1983
 Feira Nacional de Agricultura, 21, Santarém; 1984
+Feira Nacional de Agricultura, 23, Santarém; 1986
 Feira Nacional de Agricultura, 2, Santarém; 1965
 Feira Nacional de Agricultura, 33, Santarém; 1996
 Feira Nacional de Antiguidades, Porto; 1996
@@ -29537,6 +29594,8 @@ Feira Nacional de Artesanato, 35, Vila do Conde; 2012
 Feira Nacional de Artesanato, 36, Vila do Conde; 2013
 Feira Nacional de Artesanato, 37, Vila do Conde; 2014
 Feira Nacional de Artesanato de Pombal, 1, Pombal; 1994
+Feira Nacional de Artesanato e Cultutra Popular, 5, Montemor-o-Velho; 1992
+Feira Nacional de Artesanato e Gastronomia, 5, Marinha Grande; 1994
 Feira Nacional de Cerâmica, 11, Caldas da Rainha; 1989
 Feira Nacional de Materiais de Construção e Equipamentos, 1, Viana do Castelo;
 Feira Nacional do Artesanato, 11, Vila do Conde; 1988
@@ -29551,6 +29610,7 @@ Feira Nacional do Bovino Leiteiro, Aveiro; 1990
 Feira Nacional do Bovino Leiteiro, Aveiro; 1991
 Feira Nacional do Bovino Leiteiro, Aveiro; 1994
 Feira Nacional do Bovino Leiteiro, Aveiro; 1995
+Feira Nacional do Cavalo, 14, Golegã; 1988
 Feira Nacional do Cavalo, 6, Golegã; 1980
 Feira Nacional do Cavalo, Golegã; 1973
 Feira Nacional dos Frutos Secos, III, Torres Novas; 1988
@@ -29576,6 +29636,7 @@ Fé, João da, 16---17--; O.F.M.
 Fejto, François; 1909-
 Fekete, Gyula; 1922-
 Felber, Erwin; 18---19--
+Feldberg, Katherine; 1897-1976
 Feld, Leo; 1869-1924
 Feldmann, Christian; 1950-
 Feldweg, F.; fl. ca. 1890?
@@ -29585,6 +29646,7 @@ Felgas, Hélio; 1920-
 Felgine, Odile; 1960-
 Felginer, Theodor Christoph; 1715-1726
 Felginer, Theodor Christoph, viúva; 1726-1739
+Felginer, Theodor Christoph, viúva; fl. 1726-1739
 Felgueiras, Guilherme; 1861-?
 Felgueiras, Guilherme; 1890-1990
 Felgueiras João; 1921-
@@ -29601,6 +29663,7 @@ Feliciano, Alexandre; 1980-
 Feliciano, Amélia Maria dos Santos; 1971-
 Feliciano, António; 1942-
 Feliciano, Giovanni Bernardino; 1490-1552
+Feliciano, Giovanni Bernardino; 1490-1554
 Feliciano, José Fialho; 1941-
 Feliciano; Manuel 1975-
 Feliciano, Mário; 1969-
@@ -29623,11 +29686,13 @@ Félix, Ana Sofia Carreirinha; 1978-
 Félix, Antonieta; 1974-
 Félix, António Diamantino; 1938-
 Félix, Bagão; 1948-
+Félix, Bernardo Xavier; 1924-
 Félix, Bruno; 1983-
 Felix, Charles Reis; 1923-
 Félix, Clemente; 1581-1656
 Félix, David José de Sousa; 1979-
 Félix, Emanuel; 1936-
+Félix, Emanuel; 1936-2004
 Félix, João, 15---16--; O.SS.T.
 Félix, Joaquim António Lúcio; 1944-
 Félix, José; 1946-
@@ -29668,12 +29733,14 @@ Fenarius Marcus Antonius; fl. 1553
 Fenaroli, Fedele; 1730-1818
 Feneja, Fernanda Luísa da Silva; 1964-
 Fénelon; 1651-1715
+Fénelon, François de; 1651-1715
 Fénelon, Marquês de; 1688-1740
 Fénéon; Félix 1861-1944
 Fenhane, João; 1965-
 Fenini, Cesare; 1841-1895
 Fennario, David; 1947-
 Fennelly, Catherine; 1918-1975
+Fenn, Harry; 1837-1911
 Fenollosa, Ernest; 1853-1908
 Feo, Francesco; 1691-1761
 Féoktistov, Konstantin; 1926-2009
@@ -29700,8 +29767,11 @@ Ferguson, Alex; 1941-
 Ferguson, Chris D.; 1951-
 Ferguson, Faye; 19--
 Ferguson, John; 1921-
+Ferguson, Marilyn; 1938-2008
 Ferguson, Niall; 1964-
+Ferguson, Sinclair B.; 1948-
 Ferguson, William; 1943-
+Fergusson, Adam; 1723-1816
 Feria de Abril, Sevilha; 1884
 Feria de Abril, Sevilha; 1932
 Feria de Abril, Sevilha; 1943
@@ -29728,6 +29798,7 @@ Fernandes, Abílio; 1906-
 Fernandes, Abílio Dias; 1938-
 Fernandes, A.; ca 18- -
 Fernandes, A. Couto; ca 18- -
+Fernandes, Adalberto Campos; 1958-
 Fernandes, A. de Almeida; 1917-2003
 Fernandes, Adelaide Maria Afonso; 1978-
 Fernandes, Adelina; ca 19--
@@ -29769,6 +29840,8 @@ Fernandes, Anabela de Carvalho Martins; 1982-
 Fernandes, Anacleto de Magalhães; 1924-
 Fernandes, Ana Cristina da Silva; 1967-
 Fernandes, Ana Cristina Fidalgo Palma; 1973-
+Fernandes, Ana Cristina Pereira; 1982-
+Fernandes, Ana Isabel; 1963-
 Fernandes, Ana Isabel de Almeida Botelho; 1968 -
 Fernandes, Ana Isabel Henriques Dias; 1963-
 Fernandes, Ana Isabel Pereira; 1972-
@@ -29782,6 +29855,7 @@ Fernandes, Ana Mónica; 1984-
 Fernandes, Ana Paula Cabral Marques; 1972-
 Fernandes; Ana Paula Oliveira 1974-
 Fernandes, Ana Raquel Lourenço; 1978-
+Fernandes, Ana Rodrigues da Mata; 1980-
 Fernandes, Ana Teresa; 1972-
 Fernandes, Ana Teresa Gouveia; 1967-
 Fernandes, André, 1607-1660; S.J.
@@ -29789,12 +29863,14 @@ Fernandes, André; 1991-
 Fernandes, Andrelino; 1903-1986
 Fernandes, André Luiz Peixoto; 1971-
 Fernandes, Ângela; 1972-
+Fernandes, Ângela Sofia Feitor; 1984-
 Fernandes, Ângelo; 1981-
 Fernandes, Aníbal; 1944-
 Fernandes, Antero da Conceição Monteiro; 1966-
 Fernandes, António, 1570-1642; S.J.
 Fernandes, António; 1954-
 Fernandes, António A.; 1922-
+Fernandes, António Adalmir; 1949-
 Fernandes, António A. de Carvalho; 1920-
 Fernandes, António Augusto; 1945-
 Fernandes, António Augusto; 1949-
@@ -29809,6 +29885,7 @@ Fernandes, António Marques; 1965-
 Fernandes, António Mendes; 1917-
 Fernandes, António Monteiro; 1940-
 Fernandes, António Valadas; 1928-
+Fernandes, Armando; 1945-
 Fernandes, Armando José; 1906-1983
 Fernandes, Armando Nogueira; ca 18- -
 Fernandes, Arminda Martins; 1963-
@@ -29842,14 +29919,17 @@ Fernandes, Carlos Lourenço; 1953-
 Fernandes, Carlos Miguel; 1975-
 Fernandes, Carlos Pinto; 1942-
 Fernandes, Castro; 1903-1975
+Fernandes, Catarina; 1978-
 Fernandes, Célia Maria da Cruz; 1961-
 Fernandes, Celina Busto; 1973-
 Fernandes, César Esmeraldo; 1971-
+Fernandes, Cidália; 1961-
 Fernandes, Cidália da Conceição Azevedo; 1961-
 Fernandes, Cláudia; 1977-
 Fernandes, Cláudia Daniela Sousa; 1981-
 Fernandes, Cláudia Maria de Barros; 1973-
 Fernandes, Cláudia Patrícia Oliveira; 1973-
+Fernandes, Cláudio; 1970-
 Fernandes, Clemente; ?-1674
 Fernandes, Columbano Taveira; 1912-
 Fernandes, Conceição; 1964-
@@ -29908,6 +29988,7 @@ Fernandes, F.; fl. 1878-1901
 Fernandes, Filipe José; ca 18- -
 Fernandes, Filipe Vasconcelos; 1990-
 Fernandes, Flávio Sátiro; 1942-
+Fernandes; fl. ca 1900
 Fernandes, Florestan; 1920-1995
 Fernandes, Francisca; 1949
 Fernandes, Francisca; 1949-
@@ -30057,6 +30138,8 @@ Fernandes, Luciana Mata Angelina; 1957-
 Fernandes, Lucília; 1948-
 Fernandes, Luís; 1946-
 Fernandes, Luís; 1967-
+Fernandes, Luís; 1974-
+Fernandes, Luís; 2001-
 Fernandes, Luisa Alexandra Varela; 1975-
 Fernandes, Luísa Cristina Valério da Silva; 1966-
 Fernandes, Luísa Maria Pereira de Jesus; 1968-
@@ -30073,6 +30156,7 @@ Fernandes, Manuel, 1614-1693; S.J.
 Fernandes, Manuel Agostinho Matos; 1956-
 Fernandes, Manuel António; 1910-
 Fernandes, Manuel Bernardo Lopes; 1797-1870
+Fernandes, Manuel de jesus Bento; 1950-
 Fernandes, Manuel Luís; ca 18- -
 Fernandes, Manuel Meira; 1972-
 Fernandes, Manuel Miranda; 1967-
@@ -30127,6 +30211,7 @@ Fernandes, Maximiliano Isidoro Pio; 1919-
 Fernandes, M. Azevedo; 1914-
 Fernándes, Miguel; 1931-
 Fernandes, Miguel; 1970-
+Fernandes, Miguel; 1979-
 Fernandes, Miguel Alexandre Vilhena; 1965-
 Fernandes, Miguel João Mendes do Amaral Santiago; 1970-
 Fernandes, Miguel Santiago ; 1970-
@@ -30134,6 +30219,7 @@ Fernandes, Millor; 1923-2012
 Fernandes, Nascimento; 1881-1955
 Fernandes, Natália Hasse Cacela; 1935-
 Fernandes, Nelson Manuel Loureiro; 1983-
+Fernandes, Nicolau; 1986-
 Fernandes, Nuno; 196-
 Fernandes, Nuno Nazareth; 1942-
 Fernandes; Nuno Octávio Garcia 1972-
@@ -30145,6 +30231,7 @@ Fernandes, Pádua; 1971-
 Fernandes, Palma; 1907-1968
 Fernandes, Patrícia Isabel da Silva; 1976-
 Fernandes, Paula Cristina dos Santos Silva; 1964-
+Fernandes, Paula Guilhermina de Carvalho; 1967-
 Fernandes, Paula Medina; 1975-
 Fernandes, Paulo; 1970-
 Fernandes, Paulo Alexandre Franco Ponte; 1970-
@@ -30152,6 +30239,7 @@ Fernandes, Paulo Alexandre Lopes; 1965-
 Fernandes, Paulo Alexandre Martins; 1966-
 Fernandes, Paulo Alexandre Ribeiro da Cunha; 1974-
 Fernandes, Paulo Jorge; 1966-
+Fernandes, Paulo Manuel António; 1980-
 Fernandes, Pedro Alves; 1959-
 Fernandes, Pedro Filipe Machado; 1978-
 Fernandes, Pedro José Marcos; ca 18- -
@@ -30171,6 +30259,7 @@ Fernandes Rosa Celeste de Almeida Micaelo; 1970-
 Fernandes, Rosa Maria Cabral Salgado da Cunha; 1951-
 Fernandes, Rosa Maria Marques Coimbra; 1969-
 Fernandes, Rosete Batarda; 1916-
+Fernandes, Rosete Batarda; 1916-2005
 Fernandes, Rosina Inês; 1980-
 Fernandes, Rui; 1820-1879
 Fernandes, Rui Daniel Machado Leal; 1983-
@@ -30192,6 +30281,7 @@ Fernandes, Susana Maria Gouveia; 1969-
 Fernandes; Susana Maria Rodrigues 1973-
 Fernandes, Tânia Patrícia Gregório; 1978-
 Fernandes, Tatiana de Almeida Cosme; 1983-
+Fernandes; Telmo Rui Carvalhinho Cunha 1973-
 Fernán Vello, Miguel Anxo; 1958-
 Fer, Nicolas de; 1646-1720
 F. F.; fl. 17--
