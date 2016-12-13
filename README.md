@@ -24,7 +24,7 @@ mas com dados vindos de outra fonte, na directoria `bnp`. Mais tarde, estas
 duas listas devem ser fundidas numa só. O script `bnp.sh` descarrega os dados
 em bruto, que são depois processados pelo script `process-bnp.sh`. Para já, os
 resultados mais interessantes serão a `lista-de-autores.txt` e o
-`autores-quase-garantidamente-falecidos.csv`.
+`autores-quase-garantidamente-falecidos.txt`.
 
 ## Dependências
 

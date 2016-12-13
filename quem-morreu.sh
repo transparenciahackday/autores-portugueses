@@ -18,7 +18,7 @@ fi
 echo "$(
 	cat dglb/autores.csv | \
 	cut -d\; -f2-5| \
-	grep $1$ ; grep $1 bnp/autores-quase-garantidamente-falecidos.csv| \
+	grep $1$ ; grep $1 bnp/autores-quase-garantidamente-falecidos.txt| \
 	grep -v $1- | \
 	grep -v "$1 -"
 )" |sort -u
