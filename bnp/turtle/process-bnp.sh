@@ -1,9 +1,10 @@
 #!/bin/bash
 
 # Notes on how to parse this:
+# rdaa:P50098 is "dates of birth and death"
 # rdaa:P50111 is "Author's name"
 # rdaa:P50120 is "date of death"
-# rdaa:P50098 is "dates of birth and death"
+# rdaa:P50121 is "date of birth"
 
 echo "Processing the database"
 grep rdaa:P50111 -A2 a0511.ttl|grep rdaa|grep -v _:node|tr '\n' ';'| \
@@ -12,8 +13,8 @@ grep rdaa:P50111 -A2 a0511.ttl|grep rdaa|grep -v _:node|tr '\n' ';'| \
 # we have these kinds of lines:
 # 1) "Author";
 # 2) "Author"; rdaa:P50098 "dates of birth and death";
-# 3) "Author"; rdaa:P50111 "birth date";
-# 4) "Author"; rdaa:P50111 "birth date"; rdaa:P50120 "death date";
+# 3) "Author"; rdaa:P50121 "birth date";
+# 4) "Author"; rdaa:P50121 "birth date"; rdaa:P50120 "death date";
 
 echo "Generating the CSV"
 echo "\"Author\"; \"Birth Date\"; \"Death Date\"" > sanitized.csv
@@ -31,5 +32,22 @@ grep rdaa:P50098 authors-and-dates.csv | while read -r entry; do
   dates=$(echo "$entry"|cut -d\" -f4|sed 's/\ -\ /D/g');
   birth=$(echo "$dates"|cut -dD -f1);
   death=$(echo "$dates"|cut -dD -f2);
+  echo "\"$author\"; \"$birth\"; \"$death\"" >> sanitized.csv
+done
+
+# 3) "Author"; rdaa:P50121 "birth date";
+echo ": Processing authors with birth date information only"
+grep rdaa:P50121 authors-and-dates.csv|grep -v rdaa:P50120 | while read -r entry; do
+  author=$(echo "$entry"|cut -d\" -f2);
+  birth=$(echo "$entry"|cut -d\" -f4);
+  echo "\"$author\"; \"$birth\";" >> sanitized.csv
+done
+
+# 4) "Author"; rdaa:P50121 "birth date"; rdaa:P50120 "death date";
+echo ": Processing authors with birth and death dates"
+grep rdaa:P50121 authors-and-dates.csv|grep rdaa:P50120 | while read -r entry; do
+  author=$(echo "$entry"|cut -d\" -f2);
+  birth=$(echo "$entry"|cut -d\" -f4);
+  death=$(echo "$entry"|cut -d\" -f6);
   echo "\"$author\"; \"$birth\"; \"$death\"" >> sanitized.csv
 done
