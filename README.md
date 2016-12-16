@@ -22,32 +22,15 @@ ficheiro `autores.csv`.
 Existe também outro conjunto de scripts, que gera uma outra lista de autores,
 mas com dados vindos de outra fonte, na directoria `bnp`. Mais tarde, estas
 duas listas devem ser fundidas numa só. O script `bnp.sh` descarrega os dados
-em bruto, que são depois processados pelo script `process-bnp.sh`. Para já, os
-resultados mais interessantes serão a `lista-de-autores.txt` e o
-`autores-quase-garantidamente-falecidos.txt`.
+em bruto, que são depois processados pelo script `process-bnp.sh`. A lista
+resultante de autores é a `authors.csv`.
 
-## Dependências
+## Dados consolidados
 
-Este conjunto de scripts foram escritos em `bash`, e dependem da ferramenta
-`html2text`.
+O script `consolida.sh` processa as listas de cada uma das fontes (previamente
+geradas), e consolida-as numa só lista, `lista-final.csv`.
 
-## Melhorias
+## Outras ferramentas
 
-### Dados consolidados
-
-Além de ter mais uma fonte de dados, queremos também ter os resultados das
-várias fontes consolidados num só set de resultados, mas isso ainda não está
-desenvolvido.
-
-### Scripts e filtros
-
-Para além de ter uma lista consolidada com toda a informação possível sobre
-Autores Portugueses, queremos também desenvolver algumas ferramentas que,
-usando esses dados, nos devolvam alguns sub-sets de potencial interesse. Como
-poderá ser visível, uma das aplicações que consideramos interessantes é
-recolher, a partir de aqui, todos os autores que morreram em determinado ano,
-para poder identificar autores (e obras) que entram em domínio público em
-determinada data.
-
-Enquanto não temos o resto mais organizado, pode ser usado o script
-`quem-morreu.sh` que, para determinado ano, diz quem morreu nessa data.
+* `quem-morreu.sh` -- gera um csv com a lista de todos os autores que morreram
+  em determinado ano.

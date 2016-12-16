@@ -15,10 +15,4 @@ if ! [[ "$1" =~ ^[0-9][0-9][0-9][0-9]$ ]]; then
 	exit 2
 fi
 
-echo "$(
-	cat dglb/autores.csv | \
-	cut -d\; -f2-5| \
-	grep $1$ ; grep $1 bnp/autores-quase-garantidamente-falecidos.txt| \
-	grep -v $1- | \
-	grep -v "$1 -"
-)" |sort -u
+grep "\"$1\"$" lista-final.csv
