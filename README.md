@@ -34,3 +34,6 @@ geradas), e consolida-as numa só lista, `lista-final.csv`.
 
 * `quem-morreu.sh` -- gera um csv com a lista de todos os autores que morreram
   em determinado ano.
+* `autores-e-obras.sh` -- gera uma lista de obras, ordenadas por autor, a
+  partir de uma lista de autores no formato do output do `quem-morreu.sh`. A
+  lista é gerada em HTML.
