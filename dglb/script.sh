@@ -1,12 +1,12 @@
 # get the source files
-for i in `seq 1000 9999`;     do echo $i; wget "http://www.dglb.pt/sites/DGLB/Portugues/autores/Paginas/PesquisaAutores1.aspx?AutorId=$i" -O $i.html -o /dev/null; done # start...
-for i in `seq 10000 20000`;   do echo $i; wget "http://www.dglb.pt/sites/DGLB/Portugues/autores/Paginas/PesquisaAutores1.aspx?AutorId=$i" -O $i.html -o /dev/null; done # enough!
+for i in $(seq 1000 9999);     do echo $i; wget "http://www.dglb.pt/sites/DGLB/Portugues/autores/Paginas/PesquisaAutores1.aspx?AutorId=$i" -O $i.html -o /dev/null; done # start...
+for i in $(seq 10000 20000);   do echo $i; wget "http://www.dglb.pt/sites/DGLB/Portugues/autores/Paginas/PesquisaAutores1.aspx?AutorId=$i" -O $i.html -o /dev/null; done # enough!
 
 # TODO redo the ones with zero bytes
 # for i in $(find . -size 0 -print); do echo "redoing $i"; rm $i; ...
 
 # get the list of actual authors:
-for i in `ls -rt`; do echo -n "$i: "; grep "Unhandled Exception:" $i|wc -l; done |grep html|grep 0$ > authors.txt
+for i in $(ls -rt); do echo -n "$i: "; grep "Unhandled Exception:" $i|wc -l; done |grep html|grep 0$ > authors.txt
 
 # generate csv: "death date; author name"
 # generate csv: "author name; birth; death"
