@@ -1,7 +1,6 @@
 # get the source files
 echo "Going to fetch source files from 1000 to 20000:";
-for i in $(seq 1000 9999);     do echo $i; wget "http://www.dglb.pt/sites/DGLB/Portugues/autores/Paginas/PesquisaAutores1.aspx?AutorId=$i" -O $i.html -o /dev/null; done # start...
-for i in $(seq 10000 20000);   do echo $i; wget "http://www.dglb.pt/sites/DGLB/Portugues/autores/Paginas/PesquisaAutores1.aspx?AutorId=$i" -O $i.html -o /dev/null; done # enough!
+for i in {1000..20000}; do echo $i; wget "http://www.dglb.pt/sites/DGLB/Portugues/autores/Paginas/PesquisaAutores1.aspx?AutorId=$i" -O $i.html -o /dev/null; done
 
 # TODO redo the ones with zero bytes
 # for i in $(find . -size 0 -print); do echo "redoing $i"; rm $i; ...
