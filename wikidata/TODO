@@ -1,0 +1,7 @@
+There is the sort of info we seek with this set of scripts on wikidata. Moreover, it is easilly queryable, and visualizable.
+
+Our actions regarding that should be two-fold:
+1) use wikidata as a source (and, eventually, the main - or even only - source);
+2) (later) use the other data sources in order to generate what is needed to actually feed info into wikidata.
+
+More info on how to actually see that info on wikidata can be seen on the `query` file.

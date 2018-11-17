@@ -22,6 +22,11 @@ duas listas devem ser fundidas numa só. O script `bnp.sh` descarrega os dados
 em bruto, que são depois processados pelo script `process-bnp.sh`. A lista
 resultante de autores é a `authors.csv`.
 
+## Wikidata
+
+Ainda não preparado, mas seria útil começar a usar também o Wikidata como fonte
+(e, porque não, alimentá-la com as outras).
+
 ## Dados consolidados
 
 O script `consolida.sh` processa as listas de cada uma das fontes (previamente
