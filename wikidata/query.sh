@@ -3,6 +3,7 @@
 # The query we want to make
 # TODO: take the hardcoded dates off the query, get the date from a parameter
 
+#Portuguese authors whose works enter the public domain in 2019 (died in 1948)
 query='
 SELECT DISTINCT ?item ?itemLabel WHERE {
   ?item wdt:P31 wd:Q5.
@@ -28,7 +29,10 @@ echo "$query" | ./query-wikidata.sh
 # wget "https://query.wikidata.org/sparql?query=$html" -o /dev/null -O result
 # echo "...done, check the 'result' file!"
 # 
-# # wget https://query.wikidata.org/sparql?query=%23Portuguese%20authors%20whose%20works%20enter%20the%20public%20domain%20in%202019%20%28died%20in%201948%29%0ASELECT%20DISTINCT%20%3Fitem%20%3FitemLabel%20WHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ5.%0A%20%20%3Fitem%20%28wdt%3AP106%2Fwdt%3AP279%2a%29%20wd%3AQ482980.%0A%20%20%3Fitem%20wdt%3AP570%20%3Ftime0.%0A%20%20FILTER%28%28%3Ftime0%20%3E%3D%20%221948-01-01T00%3A00%3A00Z%22%5E%5Exsd%3AdateTime%29%20%26%26%20%28%3Ftime0%20%3C%20%221949-01-01T00%3A00%3A00Z%22%5E%5Exsd%3AdateTime%29%29%0A%20%20%3Fitem%20wdt%3AP27%20wd%3AQ45.%0A%7D
+
+# wget https://query.wikidata.org/sparql?query=SELECT%20DISTINCT%20%3Fitem%20%3FitemLabel%20WHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ5.%0A%20%20%3Fitem%20%28wdt%3AP106%2Fwdt%3AP279%2a%29%20wd%3AQ482980.%0A%20%20%3Fitem%20wdt%3AP570%20%3Ftime0.%0A%20%20FILTER%28%28%3Ftime0%20%3E%3D%20%221948-01-01T00%3A00%3A00Z%22%5E%5Exsd%3AdateTime%29%20%26%26%20%28%3Ftime0%20%3C%20%221949-01-01T00%3A00%3A00Z%22%5E%5Exsd%3AdateTime%29%29%0A%20%20%3Fitem%20wdt%3AP27%20wd%3AQ45.%0A%7D
+
+
 # 
 # # More info:
 # # https://www.wikidata.org/wiki/Wikidata:Introduction/pt
