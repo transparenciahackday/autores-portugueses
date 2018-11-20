@@ -11,6 +11,7 @@ SELECT DISTINCT ?item ?itemLabel WHERE {
   ?item wdt:P570 ?time0.
   FILTER((?time0 >= "1948-01-01T00:00:00Z"^^xsd:dateTime) && (?time0 < "1949-01-01T00:00:00Z"^^xsd:dateTime))
   ?item wdt:P27 wd:Q45.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],pt". }
 }
 '
 
