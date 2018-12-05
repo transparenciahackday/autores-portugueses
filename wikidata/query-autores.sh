@@ -15,7 +15,8 @@ SELECT DISTINCT ?item ?itemLabel WHERE {
 }
 '
 
-echo "$query" | ./query-wikidata.sh
+echo "$query" | ./query-wikidata.sh > autores.xml
+echo "autores.xml gerado"
 
 # # HMTLize the string:
 # # replace newlines from the query
