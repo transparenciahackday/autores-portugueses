@@ -18,6 +18,12 @@ SELECT DISTINCT ?item ?itemLabel WHERE {
 echo "$query" | ./query-wikidata.sh > autores.xml
 echo "autores.xml gerado"
 
+while read -r line
+do
+  echo "\"$line\";\"\";\"1948\"";
+done < <(grep literal autores.xml |cut -d\> -f2|cut -d \< -f1) > autores.csv
+
+
 # # HMTLize the string:
 # # replace newlines from the query
 # query=${query/%27/$'\n'/}
