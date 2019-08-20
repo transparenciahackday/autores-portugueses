@@ -24,18 +24,24 @@ resultante de autores é a `authors.csv`.
 
 ## Wikidata
 
-Ainda não preparado, mas seria útil começar a usar também o Wikidata como fonte
-(e, porque não, alimentá-la com as outras).
+Actualmente usada apenas como fonte de informação, a execução de
+`cd wikidata; bash query-autores.sh 2020` irá dar uma lista de autores que
+entram em domínio público em 2020.
 
 ## Dados consolidados
 
 O script `consolida.sh` processa as listas de cada uma das fontes (previamente
-geradas), e consolida-as numa só lista, `lista-final.csv`.
+geradas), e consolida-as numa só lista, `lista-final.csv`. Visto que a fonte
+Wikidata só está a ser usada para extrair autores que morreram em determinado
+ano, essa fonte não é aqui considerada.
 
 ## Outras ferramentas
 
 * `quem-morreu.sh` -- gera um csv com a lista de todos os autores que morreram
-  em determinado ano.
+  em determinado ano. a partir dos dados consolidados (isto é, sem ter em
+  consideração os davos vindos do wikidata).
+* `authors-csv2wiki.sh` -- gera o conteúdo de uma página wiki, para inserção na
+  wikipedia. Exemplo em https://pt.wikipedia.org/wiki/Lista_de_autores_portugueses_que_entram_em_dom%C3%ADnio_p%C3%BAblico_em_2019 .
 * `autores-e-obras.sh` -- gera uma lista de obras, ordenadas por autor, a
   partir de uma lista de autores no formato do output do `quem-morreu.sh`. A
   lista é gerada em HTML.

@@ -7,6 +7,7 @@
 lista="1946-lista-final-3.csv"
 
 # por agora, ainda só temos como fazer isto para a bnp...
+# TODO: fazer isto também com BN e wikidata
 cd bnp || { echo "não há uma directoria bnp!"; exit; }
 cut -d\" -f2 < ../$lista|sort -u|while read -r autor; do
 	./obras-de-autor.sh "$autor"
