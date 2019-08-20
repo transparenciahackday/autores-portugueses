@@ -11,7 +11,7 @@ wikifile=$(echo "$csvfile"|cut -d. -f1);
 {
 	# Texto introdutório
 	echo "Quando o [[direito autoral]] de uma obra expira, ela entra em '''[[domínio público]]'''.";
-	echo "Em Portugal, uma obra entra em [[domínio público]] 70 anos após a morte do autor.<ref>{{cite web|url=http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0031&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=#artigo |title=CÓDIGO DO DIREITO DE AUTOR E DOS DIREITOS CONEXOS| accessdate=2018-12-29}}</ref>";
+	echo "Em Portugal, uma obra entra em [[domínio público]] 70 anos após a morte do autor.<ref>{{citar web|url=http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0031&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=#artigo |título=CÓDIGO DO DIREITO DE AUTOR E DOS DIREITOS CONEXOS| acessodata=2018-12-29}}</ref>";
 	# TODO: a data aqui pode ser gerada através da data vinda do CSV
 	echo "Segue-se uma '''lista de autores Portugueses cujas obras entram em domínio público em 2019'''.";
 
