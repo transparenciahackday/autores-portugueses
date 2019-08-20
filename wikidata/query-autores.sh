@@ -3,13 +3,23 @@
 # The query we want to make
 # TODO: take the hardcoded dates off the query, get the date from a parameter
 
+year=0;
+if [ "$1" != "" ]; then
+	year=$(($1-71));
+else
+    echo "Please enter an year as an argument.";
+	echo "The year you enter should represent the year for which you want a list of authors entering public domain.";
+	echo "For instance, is you give '2019' as an argument, this will give you a list of Portuguese authors whose works enter the public domain in 2019 (died in 1948).";
+	exit;
+fi
+
 #Portuguese authors whose works enter the public domain in 2019 (died in 1948)
 query='
 SELECT DISTINCT ?item ?itemLabel WHERE {
   ?item wdt:P31 wd:Q5.
   ?item (wdt:P106/wdt:P279*) wd:Q482980.
   ?item wdt:P570 ?time0.
-  FILTER((?time0 >= "1948-01-01T00:00:00Z"^^xsd:dateTime) && (?time0 < "1949-01-01T00:00:00Z"^^xsd:dateTime))
+  FILTER((?time0 >= "'$year'-01-01T00:00:00Z"^^xsd:dateTime) && (?time0 < "'$((year+1))'-01-01T00:00:00Z"^^xsd:dateTime))
   ?item wdt:P27 wd:Q45.
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],pt". }
 }
@@ -20,7 +30,7 @@ echo "autores.xml gerado"
 
 while read -r line
 do
-  echo "\"$line\";\"\";\"1948\"";
+  echo "\"$line\";\"\";\"$year\"";
 done < <(grep literal autores.xml |cut -d\> -f2|cut -d \< -f1) > autores.csv
 
 
