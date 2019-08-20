@@ -7,12 +7,12 @@ resultado, este artigo:
 
 ## Direção Geral do Livro
 
-Na directoria `dglb`, o `script.sh` usa esta fonte, descarregando os dados em
-bruto (ver `html-files`), e gerando o CSV `autores-e-suas-mortes.csv` como
-resultado.
-
-O script `autores.py` faz uma melhor análise dos dados desta fonte, gerando o
-ficheiro `autores.csv`.
+A Direção Geral do Livro, agora Direcção Geral do Livro, dos Arquivos e das
+Bibliotecas, mantinha uma base de dados de autores.
+Infelizmente já não o faz, mas, na directoria `dglb`, ainda se encontram dados
+provenientes de lá, e, a partir deles, foi gerado o CSV
+`autores-e-suas-mortes.csv`. O script `autores.py`, também naquela directoria,
+faz uma melhor análise dos dados desta fonte, gerando o ficheiro `autores.csv`.
 
 ## Biblioteca Nacional
 

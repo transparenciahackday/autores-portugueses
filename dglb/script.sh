@@ -1,3 +1,6 @@
+echo "DGLB became DGLAB, and the authors database was discontinued. Fortunately, we saved a dump, and, while this script no longer works, you have still autores-e-suas-mortes.csv, generated from the raw data saved in html-files."
+exit
+
 # get the source files
 echo "Going to fetch source files from 1000 to 20000:";
 for i in {1000..20000}; do echo $i; wget "http://www.dglb.pt/sites/DGLB/Portugues/autores/Paginas/PesquisaAutores1.aspx?AutorId=$i" -O $i.html -o /dev/null; done
