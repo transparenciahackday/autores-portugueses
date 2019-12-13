@@ -39,7 +39,7 @@ ano, essa fonte não é aqui considerada.
 
 * `quem-morreu.sh` -- gera um csv com a lista de todos os autores que morreram
   em determinado ano. a partir dos dados consolidados (isto é, sem ter em
-  consideração os davos vindos do wikidata).
+  consideração os dados vindos do wikidata).
 * `authors-csv2wiki.sh` -- gera o conteúdo de uma página wiki, para inserção na
   wikipedia. Exemplo em https://pt.wikipedia.org/wiki/Lista_de_autores_portugueses_que_entram_em_dom%C3%ADnio_p%C3%BAblico_em_2019 .
 * `autores-e-obras.sh` -- gera uma lista de obras, ordenadas por autor, a
