@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # The query we want to make
-# TODO: take the hardcoded dates off the query, get the date from a parameter
 
 year=0;
 if [ "$1" != "" ]; then
@@ -32,6 +31,7 @@ while read -r line
 do
   echo "\"$line\";\"\";\"$year\"";
 done < <(grep literal autores.xml |cut -d\> -f2|cut -d \< -f1) > autores.csv
+echo "autores.csv gerado"
 
 
 # # HMTLize the string:
