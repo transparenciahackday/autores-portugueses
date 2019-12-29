@@ -7,13 +7,13 @@
 
 csvfile=$1;
 wikifile=$(echo "$csvfile"|cut -d. -f1);
+year=$(($(head "$csvfile" -n1|cut -d\; -f3|cut -d\" -f2) + 71));
 
 {
 	# Texto introdutório
 	echo "Quando o [[direito autoral]] de uma obra expira, ela entra em '''[[domínio público]]'''.";
 	echo "Em Portugal, uma obra entra em [[domínio público]] 70 anos após a morte do autor.<ref>{{citar web|url=http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0031&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=#artigo |título=CÓDIGO DO DIREITO DE AUTOR E DOS DIREITOS CONEXOS| acessodata=2018-12-29}}</ref>";
-	# TODO: a data aqui pode ser gerada através da data vinda do CSV
-	echo "Segue-se uma '''lista de autores Portugueses cujas obras entram em domínio público em 2019'''.";
+	echo "Segue-se uma '''lista de autores Portugueses cujas obras entram em domínio público em $year'''.";
 
 	# cabeçalho da tabela
 	echo "{| class=\"wikitable sortable\" border=\"1\" style=\"border-spacing:0; style=\"width:100%;\"";
@@ -41,6 +41,5 @@ wikifile=$(echo "$csvfile"|cut -d. -f1);
 	echo "{{reflist}}"
 	echo ""
 	echo "[[Categoria:Domínio público]]"
-	# TODO: a data aqui pode ser gerada através da data vinda do CSV
-	echo "[[Categoria:2019]]"
+	echo "[[Categoria:$year]]"
 } > "$wikifile"
