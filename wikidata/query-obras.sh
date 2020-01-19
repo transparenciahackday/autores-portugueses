@@ -13,7 +13,7 @@ author=$1
 query='
 SELECT DISTINCT ?itemLabel WHERE {
   ?item wdt:P50 '$author'.
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],pt". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "pt". }
 }
 '
 
