@@ -18,7 +18,7 @@ SELECT DISTINCT ?item ?itemLabel WHERE {
   ?item wdt:P31 wd:Q5.
   ?item (wdt:P106/wdt:P279*) wd:Q482980.
   ?item wdt:P570 ?time0.
-  FILTER((?time0 >= "'$year'-01-01T00:00:00Z"^^xsd:dateTime) && (?time0 < "'$((year+1))'-01-01T00:00:00Z"^^xsd:dateTime))
+  FILTER ( YEAR(?time0) = '$year' ).
   ?item wdt:P27 wd:Q45.
   SERVICE wikibase:label { bd:serviceParam wikibase:language "pt". }
 }
