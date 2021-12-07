@@ -32,7 +32,7 @@ do
     SELECT ?label
     WHERE {
     wd:'$line' rdfs:label ?label .
-    wd:'$line' (wdt:P106/wdt:P279*) wd:Q482980.
+    wd:'$line' (wdt:P106/wdt:P279*) wd:Q2500638.
     FILTER (langMatches(lang(?label), "pt"))
     } LIMIT 1
   ';
