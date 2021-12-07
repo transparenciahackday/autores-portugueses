@@ -3,9 +3,13 @@
 # This script uses a CSV list of authors, all of which have died on the same
 # year, and generates a wikipage for that list.
 # The CSV is expected to be in the following format:
-# "Author Name"; "year of birth"; "year of death"
+# "Author Name"; "year of birth"; "year of death"; "wikidata item"
 
 csvfile=$1;
+if [ "$csvfile" = "" ]; then
+	echo "You need to add a csv file as an argument!";
+	exit 1;
+fi
 wikifile=$(echo "$csvfile"|cut -d. -f1);
 year=$(($(head "$csvfile" -n1|cut -d\; -f3|cut -d\" -f2) + 71));
 
@@ -20,6 +24,7 @@ year=$(($(head "$csvfile" -n1|cut -d\; -f3|cut -d\" -f2) + 71));
 	echo "! Nome";
 	echo "! Data de Nascimento";
 	echo "! Data de Morte";
+	echo "! Item no Wiidata";
 	echo "|-";
 	
 	# dados para a tabela, vindos do CSV
@@ -28,9 +33,15 @@ year=$(($(head "$csvfile" -n1|cut -d\; -f3|cut -d\" -f2) + 71));
 		author=$(echo "$entry"|cut -d\; -f1|cut -d\" -f2);
 		birth=$(echo "$entry"|cut -d\; -f2|cut -d\" -f2);
 		death=$(echo "$entry"|cut -d\; -f3|cut -d\" -f2);
+		wikidata=$(echo "$entry"|cut -d\; -f4|cut -d\" -f2|sed 's/Q//');
 		echo "| [[$author]]";
 		echo "| $birth";
 		echo "| $death";
+		if [ "$wikidata" = "" ]; then
+			echo "|";
+		else
+			echo "| {{Q|$wikidata}}";
+		fi
 		echo "|-";
 	done < "$csvfile"
 
