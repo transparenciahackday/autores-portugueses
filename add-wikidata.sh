@@ -1,13 +1,18 @@
 #!/bin/bash
 
 ## For now, wikidata source isn't consolidated in any way. This script hacks
-## around it. It assumes a morreu-em-1951.csv exists locally (with the dead
-## authors from other sources) and an wikidata/autores.csv also exists (due a
-## previous run of wikidata scripts).
+## around it. It assumes a .csv exists locally (with the dead authors from
+## other sources), its filename passed as an argument, and an
+## wikidata/autores.csv also exists (due a previous run of wikidata scripts).
 
-# TODO: read filename insead of using an hardcoded one
+# Validate if we have the correct number of arguments
+if [ $# -ne 1 ]; then
+	echo "Usage: $0 <who-died-that-year.csv>"
+	echo "Note: who-died-that-year.csv is expected to be the result of a quem-morreu.sh run."
+	exit 1
+fi
 
-cp morreu-em-1951.csv sem-wikidata.csv
+cp "$1" sem-wikidata.csv
 
 while read -r author
 do
