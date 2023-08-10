@@ -37,16 +37,19 @@ ano, essa fonte não é aqui considerada.
 
 ## Outras ferramentas
 
+Neste repositório:
+
 * `quem-morreu.sh` -- gera um csv com a lista de todos os autores que morreram
   em determinado ano. a partir dos dados consolidados (isto é, sem ter em
   consideração os dados vindos do wikidata).
 * `add-wikidata.sh` -- usado para adicionar os dados do wikidata ao resultado
 * do `quem-morreu.sh`. De notar que o resultado não está ordenado
   alfabeticamente.
-* `authors-csv2wiki.sh` -- gera o conteúdo de uma página wiki, para inserção na
-  wikipedia. Exemplo em https://pt.wikipedia.org/wiki/Lista_de_autores_portugueses_que_entram_em_dom%C3%ADnio_p%C3%BAblico_em_2019 .
-  Notar que para bons resultados, há que dar como input um CSV ordenado
-  alfabeticamente.
 * `autores-e-obras.sh` -- gera uma lista de obras, ordenadas por autor, a
   partir de uma lista de autores no formato do output do `quem-morreu.sh`. A
   lista é gerada em HTML.
+
+Noutros lados:
+* [Autores-Portugueses-em-DP](https://github.com/alchimista/Autores-Portugueses-em-DP)
+  é um bot para gerar uma página wikipédia a partir dos dados do wikidata,
+  inpirado no trabalho mais manual que era feito neste projecto.
