@@ -48,6 +48,9 @@ Neste repositório:
 * `autores-e-obras.sh` -- gera uma lista de obras, ordenadas por autor, a
   partir de uma lista de autores no formato do output do `quem-morreu.sh`. A
   lista é gerada em HTML.
+* `sem-wikidata.sh` -- olha para uma lista de autores no wikidata para
+  determinado ano, e uma lista de quem morreu em determinado ano, cria um CSV
+  com a lista de que autores não figuram no wikidata.
 
 Noutros lados:
 * [Autores-Portugueses-em-DP](https://github.com/alchimista/Autores-Portugueses-em-DP)
